@@ -1,7 +1,7 @@
 # git 원격 저장소
 - github : git을 이용한 원격 저장소를 제공하는 서비스 업체
 
-## 원격 저장소에 push 하기
+## 원격 저장소에 push 하기!
 1. 원격 저장소를 생성한다.
 2. 생성한 저장소를 로컬에 등록한다.
 	- `git remote add origin(별칭) remote_repo_url(원격저장소주소)` 
