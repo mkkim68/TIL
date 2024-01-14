@@ -43,3 +43,9 @@ pull 작업 add commit push
 #### '문서화'의 중요성
 : 신입 개발자에게 요구되는 가장 중요한 덕목
 [네이버 개발 블로그](https://d2.naver.com/news/3435170)
+
+#### github profile
+
+#### README.md
+- [!] 반드시 .git과 같은 위치에 있어야함
+
