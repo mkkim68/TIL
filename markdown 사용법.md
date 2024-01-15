@@ -125,10 +125,12 @@ const getLotto = function () {
 
 ## 테이블 작성
 
-| 이름 |반|
-|---|---|
-|김싸피|서울1반|
-
+| 이름 | 반 |  |  |
+| ---- | ---- | ---- | ---- |
+| 김싸피 | 서울1반 |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 ## Markdown Guide
 
 [Markdown Guide](https://www.markdownguide.org/)
