@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c597c65cf700018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python/240116_python기초.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d3308a47a6292028",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-01-16.md",
+                "file": "daily/2024-01-17.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9661575ec9e64491",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-01-16.md",
+                "file": "daily/2024-01-17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-01-16.md",
+                "file": "daily/2024-01-17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-01-16.md"
+                "file": "daily/2024-01-17.md"
               }
             }
           }
@@ -161,13 +148,15 @@
   },
   "active": "d3308a47a6292028",
   "lastOpenFiles": [
+    "python/240117_python기초.md",
+    "daily/2024-01-17.md",
     "python/240116_python기초.md",
+    "python/240115_python기초.md",
     "daily/2024-01-16.md",
     "img/240116_1.PNG",
     "markdown 사용법.md",
     "git/git.md",
     "CLI.md",
-    "python/240115_python기초.md",
     "python",
     "daily/2024-01-15.md",
     "git/240111_git기초.md",
