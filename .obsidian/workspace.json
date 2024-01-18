@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-01-17.md",
+                "file": "daily/2024-01-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-01-17.md",
+                "file": "daily/2024-01-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-01-17.md",
+                "file": "daily/2024-01-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-01-17.md"
+                "file": "daily/2024-01-18.md"
               }
             }
           }
@@ -148,15 +148,19 @@
   },
   "active": "d3308a47a6292028",
   "lastOpenFiles": [
-    "python/240117_python기초.md",
-    "daily/2024-01-17.md",
+    "python/240118_python기초.md",
+    "daily/2024-01-18.md",
     "python/240116_python기초.md",
+    "python/240117_python기초.md",
     "python/240115_python기초.md",
-    "daily/2024-01-16.md",
     "img/240116_1.PNG",
+    "img/giphy.gif",
+    "README.md",
     "markdown 사용법.md",
-    "git/git.md",
     "CLI.md",
+    "daily/2024-01-17.md",
+    "daily/2024-01-16.md",
+    "git/git.md",
     "python",
     "daily/2024-01-15.md",
     "git/240111_git기초.md",
@@ -164,14 +168,12 @@
     "img/240115_1.PNG",
     "240115_1.PNG",
     "img/240112_1.png",
-    "img/giphy.gif",
     "img/240115_2.PNG",
     "img/240115_4.PNG",
     "img/240115_3.PNG",
     "img/240115_2.md",
     "img/240115_1.md",
     "git/240112_git_remote.md",
-    "README.md",
     "daily"
   ]
 }
