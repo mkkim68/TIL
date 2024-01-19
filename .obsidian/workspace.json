@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9c597c65cf700018",
+            "id": "d3308a47a6292028",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-01-18.md",
-                "mode": "source",
+                "file": "Python/240116_python기초.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9661575ec9e64491",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-01-18.md",
+                "file": "Python/240116_python기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-01-18.md",
+                "file": "Python/240116_python기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-01-18.md"
+                "file": "Python/240116_python기초.md"
               }
             }
           }
@@ -146,29 +146,39 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9c597c65cf700018",
+  "active": "d3308a47a6292028",
   "lastOpenFiles": [
-    "python/240118_python기초.md",
-    "CLI.md",
-    "python/240117_python기초.md",
-    "python/240116_python기초.md",
-    "python/240115_python기초.md",
-    "python",
-    "img/240116_1.PNG",
-    "img/240115_4.PNG",
-    "img/240115_3.PNG",
-    "img/240115_2.PNG",
-    "img/240115_1.PNG",
-    "git/git.md",
+    "기타/CLI.md",
+    "Python/240116_python기초.md",
+    "git/240111_git기초.md",
+    "git/240112_git_remote.md",
+    "관통PJT/240119_PJT01.md",
     "daily/2024-01-18.md",
+    "기타",
     "daily/2024-01-17.md",
     "daily/2024-01-16.md",
     "daily/2024-01-15.md",
-    "git.md",
-    "git/240112_git_remote.md",
     "daily/2024-01-14.md",
+    "img/240119_3.PNG",
+    "Pasted image 20240119100854.png",
+    "img/240119_2.PNG",
+    "img/240119_1.PNG",
+    "관통PJT",
+    "Python/240118_python기초.md",
+    "Python/240117_python기초.md",
+    "Python/240115_python기초.md",
+    "img/240116_1.PNG",
+    "img/giphy.gif",
     "README.md",
-    "daily",
-    "git/240111_git기초.md"
+    "기타/markdown 사용법.md",
+    "git/git.md",
+    "Python",
+    "img/240115_1.PNG",
+    "240115_1.PNG",
+    "img/240112_1.png",
+    "img/240115_2.PNG",
+    "img/240115_2.md",
+    "img/240115_1.md",
+    "daily"
   ]
 }
