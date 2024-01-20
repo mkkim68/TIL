@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/240116_python기초.md",
-                "mode": "preview",
+                "file": "daily/2024-01-20.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/240116_python기초.md",
+                "file": "daily/2024-01-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/240116_python기초.md",
+                "file": "daily/2024-01-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/240116_python기초.md"
+                "file": "daily/2024-01-20.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "d3308a47a6292028",
   "lastOpenFiles": [
+    "daily/2024-01-20.md",
     "기타/CLI.md",
     "Python/240116_python기초.md",
     "git/240111_git기초.md",
