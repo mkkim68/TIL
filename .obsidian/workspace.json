@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-01-21.md",
+                "file": "daily/2024-01-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 204.5
   },
   "right": {
     "id": "0b1bd626d68b0682",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-01-21.md",
+                "file": "daily/2024-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-01-21.md",
+                "file": "daily/2024-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-01-21.md"
+                "file": "daily/2024-01-22.md"
               }
             }
           }
@@ -148,7 +148,27 @@
   },
   "active": "59aaf554f6b71c14",
   "lastOpenFiles": [
+    "().md",
+    "daily/2024-01-22.md",
+    "Python/240122_python데이터구조.md",
+    "daily/2024-01-21.md",
     "daily/2024-01-20.md",
-    "daily/2024-01-21.md"
+    "daily/2024-01-18.md",
+    "daily/2024-01-17.md",
+    "daily/2024-01-16.md",
+    "daily/2024-01-15.md",
+    "daily/2024-01-14.md",
+    "Python/240116_python기초.md",
+    "Python/240115_python기초.md",
+    "Python/240118_python기초.md",
+    "README.md",
+    "img/240122_7.PNG",
+    "img/240122_6.PNG",
+    "img/240122_5.PNG",
+    "img/240122_4.PNG",
+    "img/240122_3.PNG",
+    "img/240122_2.PNG",
+    "img/240122_1.PNG",
+    "img/240119_3.PNG"
   ]
 }
