@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "59c9362d726d9c86",
+    "id": "0c197586aeb2d459",
     "type": "split",
     "children": [
       {
-        "id": "c82e8e38c3fcac30",
+        "id": "608721ef51cd9525",
         "type": "tabs",
         "children": [
           {
-            "id": "d3308a47a6292028",
+            "id": "59aaf554f6b71c14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-01-18.md",
-                "mode": "preview",
+                "file": "daily/2024-01-21.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fc211c652e620dfe",
+    "id": "05b0e8ec65e8a605",
     "type": "split",
     "children": [
       {
-        "id": "8f08e4fdc617689b",
+        "id": "83b33fcaf52d0ae6",
         "type": "tabs",
         "children": [
           {
-            "id": "78821cc0733eccd2",
+            "id": "37834ba848924be0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "4bb36591db12bafc",
+            "id": "a921bac087de17db",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "2edd2d29188600c9",
+            "id": "c035cbb4a9ec3afc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "9661575ec9e64491",
+    "id": "0b1bd626d68b0682",
     "type": "split",
     "children": [
       {
-        "id": "5a794be9e0debe4e",
+        "id": "c19fa797e4a7e0e0",
         "type": "tabs",
         "children": [
           {
-            "id": "268344a379ad48c7",
+            "id": "fc03e8abc6505659",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-01-18.md",
+                "file": "daily/2024-01-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "2866b9b2ed2cb0d5",
+            "id": "7edf57e071155c3f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-01-18.md",
+                "file": "daily/2024-01-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1273ac1a88adcc93",
+            "id": "8f7d2cbb830f3407",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "87f64c901c336144",
+            "id": "d052d16e410fe451",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-01-18.md"
+                "file": "daily/2024-01-21.md"
               }
             }
           }
@@ -146,39 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d3308a47a6292028",
+  "active": "59aaf554f6b71c14",
   "lastOpenFiles": [
-    "Python/240116_python기초.md",
-    "기타/CLI.md",
-    "git/240111_git기초.md",
-    "git/240112_git_remote.md",
-    "관통PJT/240119_PJT01.md",
-    "daily/2024-01-18.md",
-    "기타",
-    "daily/2024-01-17.md",
-    "daily/2024-01-16.md",
-    "daily/2024-01-15.md",
-    "daily/2024-01-14.md",
-    "img/240119_3.PNG",
-    "Pasted image 20240119100854.png",
-    "img/240119_2.PNG",
-    "img/240119_1.PNG",
-    "관통PJT",
-    "Python/240118_python기초.md",
-    "Python/240117_python기초.md",
-    "Python/240115_python기초.md",
-    "img/240116_1.PNG",
-    "img/giphy.gif",
-    "README.md",
-    "기타/markdown 사용법.md",
-    "git/git.md",
-    "Python",
-    "img/240115_1.PNG",
-    "240115_1.PNG",
-    "img/240112_1.png",
-    "img/240115_2.PNG",
-    "img/240115_2.md",
-    "img/240115_1.md",
-    "daily"
+    "daily/2024-01-20.md",
+    "daily/2024-01-21.md"
   ]
 }
