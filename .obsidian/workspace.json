@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-01-22.md",
+                "file": "Python/240122_python데이터구조.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ae9021e404f2951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-01-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f8175951c14c865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/240122_python데이터구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "isdeci",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-01-22.md",
+                "file": "Python/240122_python데이터구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-01-22.md",
+                "file": "Python/240122_python데이터구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-01-22.md"
+                "file": "Python/240122_python데이터구조.md"
               }
             }
           }
@@ -148,9 +173,16 @@
   },
   "active": "59aaf554f6b71c14",
   "lastOpenFiles": [
-    "().md",
-    "daily/2024-01-22.md",
+    "Python/240117_python기초.md",
+    "Python/240118_python기초.md",
     "Python/240122_python데이터구조.md",
+    "Python/240123_python데이터구조.md",
+    "daily/2024-01-23.md",
+    "img/240123_1.PNG",
+    "README.md",
+    "Python/240115_python기초.md",
+    "daily/2024-01-22.md",
+    "().md",
     "daily/2024-01-21.md",
     "daily/2024-01-20.md",
     "daily/2024-01-18.md",
@@ -159,9 +191,6 @@
     "daily/2024-01-15.md",
     "daily/2024-01-14.md",
     "Python/240116_python기초.md",
-    "Python/240115_python기초.md",
-    "Python/240118_python기초.md",
-    "README.md",
     "img/240122_7.PNG",
     "img/240122_6.PNG",
     "img/240122_5.PNG",
