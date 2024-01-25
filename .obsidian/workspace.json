@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "0c197586aeb2d459",
+    "id": "59c9362d726d9c86",
     "type": "split",
     "children": [
       {
-        "id": "608721ef51cd9525",
+        "id": "c82e8e38c3fcac30",
         "type": "tabs",
         "children": [
           {
-            "id": "59aaf554f6b71c14",
+            "id": "d3308a47a6292028",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-01-24.md",
+                "file": "daily/2024-01-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "05b0e8ec65e8a605",
+    "id": "fc211c652e620dfe",
     "type": "split",
     "children": [
       {
-        "id": "83b33fcaf52d0ae6",
+        "id": "8f08e4fdc617689b",
         "type": "tabs",
         "children": [
           {
-            "id": "37834ba848924be0",
+            "id": "78821cc0733eccd2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "a921bac087de17db",
+            "id": "4bb36591db12bafc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "c035cbb4a9ec3afc",
+            "id": "2edd2d29188600c9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 200
   },
   "right": {
-    "id": "0b1bd626d68b0682",
+    "id": "9661575ec9e64491",
     "type": "split",
     "children": [
       {
-        "id": "c19fa797e4a7e0e0",
+        "id": "5a794be9e0debe4e",
         "type": "tabs",
         "children": [
           {
-            "id": "fc03e8abc6505659",
+            "id": "268344a379ad48c7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-01-24.md",
+                "file": "daily/2024-01-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "7edf57e071155c3f",
+            "id": "2866b9b2ed2cb0d5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-01-24.md",
+                "file": "daily/2024-01-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "8f7d2cbb830f3407",
+            "id": "1273ac1a88adcc93",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "d052d16e410fe451",
+            "id": "87f64c901c336144",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-01-24.md"
+                "file": "daily/2024-01-25.md"
               }
             }
           }
@@ -146,27 +146,33 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "59aaf554f6b71c14",
+  "active": "d3308a47a6292028",
   "lastOpenFiles": [
-    "Python/240123_python데이터구조.md",
-    "daily/2024-01-23.md",
-    "img/240123_1.PNG",
-    "daily/2024-01-24.md",
-    "daily/2024-01-22.md",
-    "Python/240122_python데이터구조.md",
-    "Python/240118_python기초.md",
-    "Python/240117_python기초.md",
-    "Python/240124_pythonOOP.md",
+    "python/240124_pythonOOP.md",
+    "daily/2024-01-25.md",
+    "python/240118_python기초.md",
+    "python/240123_python데이터구조.md",
+    "python/240122_python데이터구조.md",
     "img/240124_6.PNG",
     "img/240124_5.PNG",
     "img/240124_4.PNG",
     "img/240124_3.PNG",
     "img/240124_2.PNG",
     "img/240124_1.PNG",
-    "README.md",
-    "Python/240115_python기초.md",
-    "().md",
+    "img/240123_1.PNG",
+    "img/240122_7.PNG",
+    "img/240122_6.PNG",
+    "img/240122_5.PNG",
+    "daily/2024-01-24.md",
+    "daily/2024-01-23.md",
+    "daily/2024-01-22.md",
     "daily/2024-01-21.md",
+    "python/240117_python기초.md",
+    "python/240116_python기초.md",
+    "python/240115_python기초.md",
+    "git/240111_git기초.md",
+    "기타/markdown 사용법.md",
+    "기타/CLI.md",
     "daily/2024-01-20.md",
     "daily/2024-01-18.md",
     "daily/2024-01-17.md",
@@ -174,8 +180,13 @@
     "daily/2024-01-15.md",
     "daily/2024-01-14.md",
     "Python/240116_python기초.md",
-    "img/240122_7.PNG",
-    "img/240122_6.PNG",
-    "img/240122_5.PNG"
+    "git/240112_git_remote.md",
+    "관통PJT/240119_PJT01.md",
+    "기타",
+    "관통PJT",
+    "Python/240118_python기초.md",
+    "Python/240117_python기초.md",
+    "Python",
+    "daily"
   ]
 }
