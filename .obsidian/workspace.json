@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "0c197586aeb2d459",
+    "id": "eb79d86dc00decda",
     "type": "split",
     "children": [
       {
-        "id": "608721ef51cd9525",
+        "id": "447421a8163c63bb",
         "type": "tabs",
         "children": [
           {
-            "id": "59aaf554f6b71c14",
+            "id": "5c7dc54e4928ac5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "05b0e8ec65e8a605",
+    "id": "bdbc2ae53dd5bdc7",
     "type": "split",
     "children": [
       {
-        "id": "83b33fcaf52d0ae6",
+        "id": "bccdd471950e7386",
         "type": "tabs",
         "children": [
           {
-            "id": "37834ba848924be0",
+            "id": "6d4b3ea6ab49a38b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "a921bac087de17db",
+            "id": "93bc8dfa4207dfa2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "c035cbb4a9ec3afc",
+            "id": "5dc1be38045de01d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 300
   },
   "right": {
-    "id": "0b1bd626d68b0682",
+    "id": "87884bde8fe21f97",
     "type": "split",
     "children": [
       {
-        "id": "c19fa797e4a7e0e0",
+        "id": "64f7a9b85cf19371",
         "type": "tabs",
         "children": [
           {
-            "id": "fc03e8abc6505659",
+            "id": "2c48dbc028e51941",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "7edf57e071155c3f",
+            "id": "090f0c457c8a3bba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "8f7d2cbb830f3407",
+            "id": "d458b6c1d59e1b8e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "d052d16e410fe451",
+            "id": "2761e6300a5b0b42",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -146,38 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "59aaf554f6b71c14",
+  "active": "5c7dc54e4928ac5d",
   "lastOpenFiles": [
-    "Python/240125_pythonOOP.md",
-    "daily/2024-01-25.md",
-    "daily/2024-01-24.md",
-    "daily/2024-01-23.md",
-    "Python/240124_pythonOOP.md",
-    "img/240125_4.PNG",
-    "img/240125_3.PNG",
-    "img/240125_2.PNG",
-    "img/240125_1.PNG",
-    "Python/240116_python기초.md",
-    "Python/240117_python기초.md",
-    "Python/240122_python데이터구조.md",
-    "Python/240123_python데이터구조.md",
-    "Python/240118_python기초.md",
-    "Python/240115_python기초.md",
-    "img/240123_1.PNG",
-    "daily/2024-01-22.md",
-    "img/240124_6.PNG",
-    "img/240124_5.PNG",
-    "img/240124_4.PNG",
-    "img/240124_3.PNG",
-    "img/240124_2.PNG",
-    "README.md",
-    "().md",
     "daily/2024-01-21.md",
-    "daily/2024-01-20.md",
-    "daily/2024-01-18.md",
-    "daily/2024-01-17.md",
-    "daily/2024-01-16.md",
-    "daily/2024-01-15.md",
-    "daily/2024-01-14.md"
+    "daily/2024-01-25.md"
   ]
 }
