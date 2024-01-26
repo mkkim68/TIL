@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-01-25.md",
+                "file": "알고리즘/브루트 포스(Brute Force).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83fb84949f2ba273",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-01-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-01-25.md",
+                "file": "daily/2024-01-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-01-25.md",
+                "file": "daily/2024-01-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-01-25.md"
+                "file": "daily/2024-01-26.md"
               }
             }
           }
@@ -146,9 +159,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5c7dc54e4928ac5d",
+  "active": "83fb84949f2ba273",
   "lastOpenFiles": [
-    "daily/2024-01-21.md",
-    "daily/2024-01-25.md"
+    "알고리즘/브루트 포스(Brute Force).md",
+    "daily/2024-01-26.md",
+    "기타/markdown 사용법.md",
+    "관통PJT/240126_PJT02.md",
+    "관통PJT/240119_PJT01.md",
+    "기타/CLI.md",
+    "img/240126_3.PNG",
+    "img/240126_2.PNG",
+    "알고리즘",
+    "daily/2024-01-25.md",
+    "img/240126_1.PNG",
+    "daily/2024-01-21.md"
   ]
 }
