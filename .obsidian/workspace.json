@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "447421a8163c63bb",
+        "id": "fa88dbfa5ce08857",
         "type": "tabs",
         "children": [
           {
-            "id": "5c7dc54e4928ac5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/브루트 포스(Brute Force).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83fb84949f2ba273",
+            "id": "8a095bf0c8ea5cae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca96a7f4c517ee8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/Exhaustive_Search/Brute_Force.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 218.5
   },
   "right": {
     "id": "87884bde8fe21f97",
@@ -159,17 +158,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "83fb84949f2ba273",
+  "active": "8a095bf0c8ea5cae",
   "lastOpenFiles": [
-    "알고리즘/브루트 포스(Brute Force).md",
+    "Algorithm/Exhaustive_Search/Brute_Force.md",
     "daily/2024-01-26.md",
+    "Algorithm/Exhaustive_Search",
+    "README.md",
+    "Python/240115_python기초.md",
+    "Python/240122_python데이터구조.md",
+    "Python/240118_python기초.md",
     "기타/markdown 사용법.md",
     "관통PJT/240126_PJT02.md",
     "관통PJT/240119_PJT01.md",
     "기타/CLI.md",
     "img/240126_3.PNG",
     "img/240126_2.PNG",
-    "알고리즘",
+    "Algorithm",
     "daily/2024-01-25.md",
     "img/240126_1.PNG",
     "daily/2024-01-21.md"
