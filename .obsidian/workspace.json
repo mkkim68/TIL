@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "eb79d86dc00decda",
+    "id": "21d3c2452a8eff29",
     "type": "split",
     "children": [
       {
-        "id": "fa88dbfa5ce08857",
+        "id": "9acbd21b94eb98e8",
         "type": "tabs",
         "children": [
           {
-            "id": "8a095bf0c8ea5cae",
+            "id": "f741f1f47cc7e6d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "etc/CLI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca96a7f4c517ee8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/Exhaustive_Search/Brute_Force.md",
+                "file": "Algorithm/Counting_Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bdbc2ae53dd5bdc7",
+    "id": "606a8c7585a55a7a",
     "type": "split",
     "children": [
       {
-        "id": "bccdd471950e7386",
+        "id": "7fc84b734977cc74",
         "type": "tabs",
         "children": [
           {
-            "id": "6d4b3ea6ab49a38b",
+            "id": "87d1ebff191d1083",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +43,7 @@
             }
           },
           {
-            "id": "93bc8dfa4207dfa2",
+            "id": "bf27de4fe995b32e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +58,7 @@
             }
           },
           {
-            "id": "5dc1be38045de01d",
+            "id": "653ff526e61f1ace",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.5
+    "width": 300
   },
   "right": {
-    "id": "87884bde8fe21f97",
+    "id": "dc5be73e342fcdff",
     "type": "split",
     "children": [
       {
-        "id": "64f7a9b85cf19371",
+        "id": "1e89b923cbc064e0",
         "type": "tabs",
         "children": [
           {
-            "id": "2c48dbc028e51941",
+            "id": "adae2f27d11de938",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "etc/CLI.md",
+                "file": "Algorithm/Counting_Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +97,19 @@
             }
           },
           {
-            "id": "090f0c457c8a3bba",
+            "id": "3516c012c1a2c5eb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "etc/CLI.md",
+                "file": "Algorithm/Counting_Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d458b6c1d59e1b8e",
+            "id": "e1ff8aba4ab0da95",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,12 +120,12 @@
             }
           },
           {
-            "id": "2761e6300a5b0b42",
+            "id": "cae4e04a08c0cc36",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "etc/CLI.md"
+                "file": "Algorithm/Counting_Sort.md"
               }
             }
           }
@@ -158,32 +146,6 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6d4b3ea6ab49a38b",
-  "lastOpenFiles": [
-    "Algorithm/Exhaustive_Search/Brute_Force.md",
-    "daily/2024-01-26.md",
-    "README.md",
-    "etc/CLI.md",
-    "etc/markdown.md",
-    "Python/240125_pythonOOP2.md",
-    "240124_pythonOOP2.md",
-    "Python/240124_pythonOOP1.md",
-    "240124_python_OOP1.md",
-    "PJT_ver1/무제 파일.md",
-    "Python/240123_python_DS2.md",
-    "Python/240122_python_DS1.md",
-    "Python/240118_python_basic4.md",
-    "Python/240117_python_basic3.md",
-    "Python/240116_python_basic2.md",
-    "Python/240115_python_basic1.md",
-    "Algorithm/Exhaustive_Search",
-    "PJT_ver1/240126_PJT02.md",
-    "PJT_ver1/240119_PJT01.md",
-    "img/240126_3.PNG",
-    "img/240126_2.PNG",
-    "Algorithm",
-    "daily/2024-01-25.md",
-    "img/240126_1.PNG",
-    "daily/2024-01-21.md"
-  ]
+  "active": "f741f1f47cc7e6d4",
+  "lastOpenFiles": []
 }

@@ -9,11 +9,11 @@
 - `s.discard(x)` : 세트 s에서 항목 x를 제거
 - `s.update(iterable)` :  세트 s에 다른 iterable 요소를 추가
 ### 세트의 집합 메서드
-- `set1.diffference(set2)` : set1에는 들어있지만 set2에는 없는 항목으로 세트를 생성 후 반환 
-- `set1.intersection(set2)` : set1과 set2 모두 들어있는 항목으로 세트를 생성 후 반환 
+- `set1.diffference(set2)` : set1에는 들어있지만 set2에는 없는 항목으로 세트를 생성 후 반환
+- `set1.intersection(set2)` : set1과 set2 모두 들어있는 항목으로 세트를 생성 후 반환
 - `set1.issubset(set2)` : set1의 항목이 모두 set2에 들어있으면 True를 반환
-- `set1.issuperset(set2)` : set1이 set2의 항목을 모두 포함하면 True를 반환 
-- `set1.union(set2)` : set1 또는 set2에(혹은 둘 다) 들어있는 항목으로 세트를 생성 후 반환 
+- `set1.issuperset(set2)` : set1이 set2의 항목을 모두 포함하면 True를 반환
+- `set1.union(set2)` : set1 또는 set2에(혹은 둘 다) 들어있는 항목으로 세트를 생성 후 반환
 #### 연산자 버전
 - `set1 - set2` : 차집합
 - `set1 & set2` : 교집합
@@ -34,7 +34,7 @@
 - `D.setdefault(k)` : 딕셔너리 D에서 키 k와 연결된 값을 반환
 - `D.setdefault(k,v)` : 딕셔너리 D에서 키 k와 연결된 값을 반환, k가 D의 키가 아니면 값 v와 연결한 키 k를 D에 추가하고 v를 반환
 - `D.update(other)` : other 내 각 키에 대해 D에 있는 키면 D에 있는 그 키의 값을 other에 있는 값으로 대체. other에 있는 각 키에 대해 D에 없는 키면 키/값 쌍을 D에 추가
-	- 여러 개 한 번에 가능
+	- 여러 개 한 번에 가능 - 여러 딕셔너리가 가능하다는게 아니라 여러 키/값 가능
 # 참고
 ## 해시 테이블(Hash Table)
 : 해시 함수를 사용하여 변환한 값을 색인(index)으로 삼아 키(key)와 데이터(value)를 저장하는 자료구조 *데이터를 효율적으로 저장하고 검색하기 위해 사용*
@@ -127,5 +127,5 @@ my_dict = {{3,2}: 'a'}
 	- set와 dict의 키
 	- 중복 값 방지
 	- 빠른 검색과 조회
-1. 불변성을 통한 일관된 해시 값
-2. 안정성과 예측 가능성 유지
+2. 불변성을 통한 일관된 해시 값
+3. 안정성과 예측 가능성 유지

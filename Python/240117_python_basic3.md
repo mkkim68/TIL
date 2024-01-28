@@ -271,7 +271,7 @@ print(list(result)) # ['1', '2', '3']
 ```python
 girls = ['jane', 'ashley']
 boys = ['peter', 'jay']
-pair zip(girls, boys)
+pair = zip(girls, boys)
 
 print(pair)
 print(list(pair)) #[('jane', 'peter'), ('ashley', 'jay')]
