@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-01-26.md",
+                "file": "etc/CLI.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-01-26.md",
+                "file": "etc/CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-01-26.md",
+                "file": "etc/CLI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-01-26.md"
+                "file": "etc/CLI.md"
               }
             }
           }
@@ -158,7 +158,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8a095bf0c8ea5cae",
+  "active": "6d4b3ea6ab49a38b",
   "lastOpenFiles": [
     "Algorithm/Exhaustive_Search/Brute_Force.md",
     "daily/2024-01-26.md",
