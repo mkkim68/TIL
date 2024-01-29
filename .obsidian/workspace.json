@@ -1,96 +1,39 @@
 {
   "main": {
-    "id": "21d3c2452a8eff29",
+    "id": "1f9a79baf475d92c",
     "type": "split",
     "children": [
       {
-        "id": "9acbd21b94eb98e8",
+        "id": "494232cd7b0573e4",
         "type": "tabs",
         "children": [
           {
-            "id": "f741f1f47cc7e6d4",
+            "id": "1d3acb2fa8092476",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Python/240122_python_DS1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39a21cf0b710ff1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/2024-01-28.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0542efb4ee6a8ab5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/240118_python_basic4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65af68f6c5a5ac87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "etc/CLI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd43af39042a80d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/Counting_Sort.md",
-=======
                 "file": "daily/2024-01-29.md",
->>>>>>> 6976467708c2a2597c29c7305f1dce0c938690ee
                 "mode": "source",
                 "source": false
               }
             }
           }
-<<<<<<< HEAD
-        ],
-        "currentTab": 1
-=======
         ]
->>>>>>> 6976467708c2a2597c29c7305f1dce0c938690ee
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "606a8c7585a55a7a",
+    "id": "8264657a50e91b8c",
     "type": "split",
     "children": [
       {
-        "id": "7fc84b734977cc74",
+        "id": "f24c50ffc5efa6a2",
         "type": "tabs",
         "children": [
           {
-            "id": "87d1ebff191d1083",
+            "id": "620f7a8e8d89fff2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -100,12 +43,12 @@
             }
           },
           {
-            "id": "bf27de4fe995b32e",
+            "id": "3fc9e2e7b34912f7",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "zip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,39 +58,34 @@
             }
           },
           {
-            "id": "653ff526e61f1ace",
+            "id": "f0921ddd15657555",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
-    "id": "dc5be73e342fcdff",
+    "id": "bfc601be0dbdc2fb",
     "type": "split",
     "children": [
       {
-        "id": "1e89b923cbc064e0",
+        "id": "88270c1f8d2dcc24",
         "type": "tabs",
         "children": [
           {
-            "id": "adae2f27d11de938",
+            "id": "aecc5a62eed2cbdd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/2024-01-28.md",
-=======
                 "file": "daily/2024-01-29.md",
->>>>>>> 6976467708c2a2597c29c7305f1dce0c938690ee
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,23 +97,19 @@
             }
           },
           {
-            "id": "3516c012c1a2c5eb",
+            "id": "0dfb558f555fad46",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/2024-01-28.md",
-=======
                 "file": "daily/2024-01-29.md",
->>>>>>> 6976467708c2a2597c29c7305f1dce0c938690ee
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e1ff8aba4ab0da95",
+            "id": "1e1aba9801d94094",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -186,16 +120,12 @@
             }
           },
           {
-            "id": "cae4e04a08c0cc36",
+            "id": "19725f8d7c7b7d0e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/2024-01-28.md"
-=======
                 "file": "daily/2024-01-29.md"
->>>>>>> 6976467708c2a2597c29c7305f1dce0c938690ee
               }
             }
           }
@@ -216,73 +146,6 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f741f1f47cc7e6d4",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "Algorithm/Counting_Sort.md",
-    "Python/240125_pythonOOP2.md",
-    "Python/240123_python_DS2.md",
-    "Python/240124_pythonOOP1.md",
-    "Python/240122_python_DS1.md",
-    "Python/240117_python_basic3.md",
-    "Python/240118_python_basic4.md",
-    "etc/CLI.md",
-    "Python/240115_python_basic1.md",
-    "daily/2024-01-28.md",
-    "daily/2024-01-21.md",
-    "daily/2024-01-27.md",
-    "README.md",
-    "Algorithm/Exhaustive_Search/Brute_Force.md",
-    "daily/2024-01-26.md",
-    "daily/2024-01-25.md",
-    "daily/2024-01-17.md",
-    "daily/2024-01-14.md",
-    "().md",
-    "img/240126_3.PNG",
-    "img/240126_2.PNG",
-    "img/240126_1.PNG",
-    "img/240125_4.PNG",
-    "img/240125_3.PNG",
-    "img/240125_2.PNG",
-    "img/240125_1.PNG",
-    "etc/markdown.md",
-    "etc",
-    "Python/240116_python_basic2.md",
-    "Python",
-    "PJT_ver1/240126_PJT02.md",
-    "PJT_ver1/무제 파일.md",
-    "PJT_ver1/240119_PJT01.md",
-    "PJT_ver1",
-    "Algorithm/Exhaustive_Search",
-    "Algorithm",
-    "python/240124_pythonOOP.md",
-    "python/240118_python기초.md",
-    "img/240124_6.PNG",
-    "img/240124_5.PNG",
-    "img/240124_4.PNG",
-    "기타",
-    "관통PJT",
-    "daily"
-=======
-    "Python/240117_python_basic3.md",
-    "daily/2024-01-29.md",
-    "daily/2024-01-21.md",
-    "Algorithm/240129_algorithm1.md",
-    "Pasted image 20240129162225.png",
-    "img/240129_17.PNG",
-    "Pasted image 20240129163357.png",
-    "img/240129_16.PNG",
-    "img/240129_15.PNG",
-    "img/240129_14.PNG",
-    "img/240129_13.PNG",
-    "img/240129_12.PNG",
-    "img/240129_11.PNG",
-    "img/240129_10.PNG",
-    "Python/240123_python_DS2.md",
-    "Python/240125_pythonOOP2.md",
-    "etc/markdown.md",
-    "Algorithm/Counting_Sort.md",
-    "daily/2024-01-28.md"
->>>>>>> 6976467708c2a2597c29c7305f1dce0c938690ee
-  ]
+  "active": "1d3acb2fa8092476",
+  "lastOpenFiles": []
 }
