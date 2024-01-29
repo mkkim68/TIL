@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Counting_Sort.md",
+                "file": "daily/2024-01-29.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "zip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Counting_Sort.md",
+                "file": "daily/2024-01-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Counting_Sort.md",
+                "file": "daily/2024-01-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Counting_Sort.md"
+                "file": "daily/2024-01-29.md"
               }
             }
           }
@@ -147,5 +148,25 @@
     }
   },
   "active": "f741f1f47cc7e6d4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Python/240117_python_basic3.md",
+    "daily/2024-01-29.md",
+    "daily/2024-01-21.md",
+    "Algorithm/240129_algorithm1.md",
+    "Pasted image 20240129162225.png",
+    "img/240129_17.PNG",
+    "Pasted image 20240129163357.png",
+    "img/240129_16.PNG",
+    "img/240129_15.PNG",
+    "img/240129_14.PNG",
+    "img/240129_13.PNG",
+    "img/240129_12.PNG",
+    "img/240129_11.PNG",
+    "img/240129_10.PNG",
+    "Python/240123_python_DS2.md",
+    "Python/240125_pythonOOP2.md",
+    "etc/markdown.md",
+    "Algorithm/Counting_Sort.md",
+    "daily/2024-01-28.md"
+  ]
 }
