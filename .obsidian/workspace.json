@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-01-29.md",
-                "mode": "source",
+                "file": "daily/2024-01-30.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-01-29.md",
+                "file": "daily/2024-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-01-29.md",
+                "file": "daily/2024-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-01-29.md"
+                "file": "daily/2024-01-30.md"
               }
             }
           }
@@ -138,14 +138,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "1d3acb2fa8092476",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Untitled.md",
+    "daily/2024-01-30.md",
+    "Algorithm/240130_algorithm2.md",
+    "Algorithm/240129_algorithm1.md",
+    "Algorithm/Brute_Force.md",
+    "img/240130_2.PNG",
+    "img/240130_1.PNG",
+    "Algorithm/Exhaustive_Search",
+    "Algorithm/Counting_Sort.md",
+    "Algorithm",
+    "daily/2024-01-29.md"
+  ]
 }
