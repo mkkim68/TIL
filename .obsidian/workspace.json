@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-01-30.md",
-                "mode": "preview",
+                "file": "daily/2024-01-31.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-01-30.md",
+                "file": "daily/2024-01-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-01-30.md",
+                "file": "daily/2024-01-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-01-30.md"
+                "file": "daily/2024-01-31.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "1d3acb2fa8092476",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Algorithm/240131_algorithm3.md",
+    "daily/2024-01-31.md",
+    "Python/240116_python_basic2.md",
+    "img/240131_3.PNG",
+    "img/240131_2.PNG",
+    "img/240131_1.PNG",
     "daily/2024-01-30.md",
+    "Untitled.md",
     "Algorithm/240130_algorithm2.md",
     "Algorithm/240129_algorithm1.md",
     "Algorithm/Brute_Force.md",
