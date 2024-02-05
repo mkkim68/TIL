@@ -1,14 +1,27 @@
 {
   "main": {
-    "id": "1f9a79baf475d92c",
+    "id": "7d9bf336c6028649",
     "type": "split",
     "children": [
       {
-        "id": "494232cd7b0573e4",
+        "id": "3d25d598c1151d88",
         "type": "tabs",
+        "dimension": 48.13753581661891,
         "children": [
           {
-            "id": "1d3acb2fa8092476",
+            "id": "07ea1ff47e9421e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/240129_algorithm1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8975c56daf35d523",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +33,44 @@
             }
           },
           {
-            "id": "3d12f08a89edf842",
+            "id": "980043f783299716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/240131_algorithm3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7777faf9bed32413",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "daily/2024-02-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "d4215aa684b1c130",
+        "type": "tabs",
+        "dimension": 51.862464183381086,
+        "children": [
+          {
+            "id": "0c4f6bab93c9d137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2024-02-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +82,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8264657a50e91b8c",
+    "id": "2c517afbd79a38df",
     "type": "split",
     "children": [
       {
-        "id": "f24c50ffc5efa6a2",
+        "id": "6626712ba665542c",
         "type": "tabs",
         "children": [
           {
-            "id": "620f7a8e8d89fff2",
+            "id": "04f757c05b1d876c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,12 +100,12 @@
             }
           },
           {
-            "id": "3fc9e2e7b34912f7",
+            "id": "3f1cf7c64fe5e032",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "삽입 정렬",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,34 +115,39 @@
             }
           },
           {
-            "id": "f0921ddd15657555",
+            "id": "8fecd024b9d62f6a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "bfc601be0dbdc2fb",
+    "id": "5f6d0377833f1648",
     "type": "split",
     "children": [
       {
-        "id": "88270c1f8d2dcc24",
+        "id": "2ab3c89b9bbb0d57",
         "type": "tabs",
         "children": [
           {
-            "id": "aecc5a62eed2cbdd",
+            "id": "23fb94525fd69e5f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/Prime_Number.md",
+=======
+                "file": "daily/2024-02-04.md",
+>>>>>>> af655aa10e72b96adcaac05109b6627d78ca82d2
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +159,23 @@
             }
           },
           {
-            "id": "0dfb558f555fad46",
+            "id": "94954fd513a095d8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/Prime_Number.md",
+=======
+                "file": "daily/2024-02-04.md",
+>>>>>>> af655aa10e72b96adcaac05109b6627d78ca82d2
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1e1aba9801d94094",
+            "id": "3aaa5f8b7a4c618e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,12 +186,16 @@
             }
           },
           {
-            "id": "19725f8d7c7b7d0e",
+            "id": "d95b9173bca434a2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/Prime_Number.md"
+=======
+                "file": "daily/2024-02-04.md"
+>>>>>>> af655aa10e72b96adcaac05109b6627d78ca82d2
               }
             }
           }
@@ -150,36 +208,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1d3acb2fa8092476",
+  "active": "0c4f6bab93c9d137",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "daily/2024-02-02.md",
     "Algorithm/Prime_Number.md",
     "Algorithm/240201_algorithm4.md",
     "Algorithm/240130_algorithm2.md",
     "Algorithm/240131_algorithm3.md",
+=======
+    "Algorithm/240201_algorithm4.md",
+    "Algorithm/240130_algorithm2.md",
+    "Algorithm/240131_algorithm3.md",
+    "daily/2024-02-04.md",
+>>>>>>> af655aa10e72b96adcaac05109b6627d78ca82d2
     "Algorithm/240129_algorithm1.md",
-    "img/240201_12.PNG",
-    "img/240201_11.PNG",
-    "img/240201_10.PNG",
-    "img/240201_9.PNG",
-    "img/240201_8.PNG",
-    "img/240201_7.PNG",
-    "img/240201_6.PNG",
-    "img/240201_5.PNG",
-    "img/240201_4.PNG",
-    "img/240201_3.PNG",
-    "daily/2024-01-31.md",
-    "().md",
-    "daily/2024-01-29.md",
-    "daily/2024-01-30.md",
-    "Algorithm/Brute_Force.md"
+    "Python/240116_python_basic2.md",
+    "Python/240122_python_DS1.md",
+    "Python/240118_python_basic4.md",
+    "Python/240117_python_basic3.md"
   ]
 }
