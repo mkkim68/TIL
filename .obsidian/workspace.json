@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/240130_algorithm2.md",
+                "file": "Algorithm/Prime_Number.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/240201_algorithm4.md",
+                "file": "daily/2024-02-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/240130_algorithm2.md",
+                "file": "Algorithm/Prime_Number.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/240130_algorithm2.md",
+                "file": "Algorithm/Prime_Number.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/240130_algorithm2.md"
+                "file": "Algorithm/Prime_Number.md"
               }
             }
           }
@@ -160,9 +160,11 @@
   },
   "active": "1d3acb2fa8092476",
   "lastOpenFiles": [
-    "Algorithm/240131_algorithm3.md",
+    "daily/2024-02-02.md",
+    "Algorithm/Prime_Number.md",
     "Algorithm/240201_algorithm4.md",
     "Algorithm/240130_algorithm2.md",
+    "Algorithm/240131_algorithm3.md",
     "Algorithm/240129_algorithm1.md",
     "img/240201_12.PNG",
     "img/240201_11.PNG",
