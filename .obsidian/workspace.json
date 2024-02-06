@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-02-05.md",
+                "file": "daily/2024-02-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "binary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "af08ad6330d214ab",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-02-05.md",
+                "file": "daily/2024-02-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-02-05.md",
+                "file": "daily/2024-02-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-02-05.md"
+                "file": "daily/2024-02-04.md"
               }
             }
           }
@@ -148,12 +149,24 @@
   },
   "active": "fe483167204b2679",
   "lastOpenFiles": [
+    "Algorithm/240206_String.md",
+    "Python/240122_python_DS1.md",
+    "Python/240123_python_DS2.md",
+    "Python/240118_python_basic4.md",
+    "Python/240115_python_basic1.md",
+    "Python/240116_python_basic2.md",
+    "Python/240117_python_basic3.md",
+    "img/240206_5.PNG",
+    "img/240206_4.PNG",
+    "img/240206_3.PNG",
+    "img/240206_2.PNG",
+    "img/240206_1.PNG",
+    "Algorithm/240129_List1.md",
     "Algorithm/240205_String.md",
     "daily/2024-02-05.md",
     "Algorithm/240201_List2.md",
     "Algorithm/240131_List2.md",
     "Algorithm/240130_List1.md",
-    "Algorithm/240129_List1.md",
     "daily/2024-02-04.md"
   ]
 }
