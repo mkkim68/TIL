@@ -1,56 +1,51 @@
 {
   "main": {
-    "id": "7d9bf336c6028649",
+    "id": "d271f252708c6ec8",
     "type": "split",
     "children": [
       {
-        "id": "3d25d598c1151d88",
+        "id": "24e9f99fe2c28e55",
         "type": "tabs",
         "children": [
           {
-            "id": "7777faf9bed32413",
+            "id": "0286c111f87c0df8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Algorithm/Prime_Number.md",
+                "file": "daily/2024-02-13.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1f51bee32ffe97f7",
+            "id": "64aa9634b93acb19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-02-09.md",
-=======
-                "file": "daily/2024-02-13.md",
->>>>>>> 355a3307d2439b4123f3cafe87ec5a3d3b05fdbe
+                "file": "Algorithm/Prime_Number.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2c517afbd79a38df",
+    "id": "153f99dd5f8a6ec8",
     "type": "split",
     "children": [
       {
-        "id": "6626712ba665542c",
+        "id": "56cf476b19dda3b9",
         "type": "tabs",
         "children": [
           {
-            "id": "04f757c05b1d876c",
+            "id": "a77b00d6489e4793",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,16 +55,12 @@
             }
           },
           {
-            "id": "3f1cf7c64fe5e032",
+            "id": "6934de85ad91d4a0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
-                "query": "삽입 정렬",
-=======
-                "query": "binary",
->>>>>>> 355a3307d2439b4123f3cafe87ec5a3d3b05fdbe
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +70,7 @@
             }
           },
           {
-            "id": "8fecd024b9d62f6a",
+            "id": "951b6c8a21a0684f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -90,27 +81,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "5f6d0377833f1648",
+    "id": "95ae8c5fe400c03d",
     "type": "split",
     "children": [
       {
-        "id": "2ab3c89b9bbb0d57",
+        "id": "141221ac0b8ecb00",
         "type": "tabs",
         "children": [
           {
-            "id": "23fb94525fd69e5f",
+            "id": "81741689bf5ccc40",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/2024-02-09.md",
-=======
                 "file": "daily/2024-02-13.md",
->>>>>>> 355a3307d2439b4123f3cafe87ec5a3d3b05fdbe
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,23 +109,19 @@
             }
           },
           {
-            "id": "94954fd513a095d8",
+            "id": "08f48f185afd76ef",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/2024-02-09.md",
-=======
                 "file": "daily/2024-02-13.md",
->>>>>>> 355a3307d2439b4123f3cafe87ec5a3d3b05fdbe
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3aaa5f8b7a4c618e",
+            "id": "5e1828d83ce8f92f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,16 +132,12 @@
             }
           },
           {
-            "id": "d95b9173bca434a2",
+            "id": "acb6a2c80257cd55",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/2024-02-09.md"
-=======
                 "file": "daily/2024-02-13.md"
->>>>>>> 355a3307d2439b4123f3cafe87ec5a3d3b05fdbe
               }
             }
           }
@@ -179,57 +158,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1f51bee32ffe97f7",
+  "active": "0286c111f87c0df8",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "무제 파일.md",
-    "daily/2024-02-09.md",
     "Algorithm/Prime_Number.md",
-=======
-    "Algorithm/240208_Stack1.md",
-    "daily/2024-02-13.md",
-    "Algorithm/240213_Stack2.md",
-    "img/240213_27.PNG",
-    "img/240213_26.PNG",
-    "img/240213_25.PNG",
-    "img/240213_24.PNG",
-    "img/240213_23.PNG",
-    "img/240213_22.PNG",
-    "img/240213_21.PNG",
-    "img/240213_20.PNG",
-    "img/240213_19.PNG",
-    "img/240213_18.PNG",
-    "Algorithm/240207_Stack1.md",
-    "daily/2024-02-04.md",
-    "Algorithm/240206_String.md",
-    "Python/240122_python_DS1.md",
-    "Python/240123_python_DS2.md",
-    "Python/240118_python_basic4.md",
-    "Python/240115_python_basic1.md",
-    "Python/240116_python_basic2.md",
-    "Python/240117_python_basic3.md",
-    "Algorithm/240129_List1.md",
-    "Algorithm/240205_String.md",
->>>>>>> 355a3307d2439b4123f3cafe87ec5a3d3b05fdbe
-    "daily/2024-02-05.md",
-    "daily/2024-02-04.md",
-    "daily/2024-02-02.md",
-    "Algorithm/240205_String.md",
-    "Algorithm/240201_List2.md",
-    "Algorithm/240131_List2.md",
-<<<<<<< HEAD
-    "Algorithm/240130_List1.md",
-    "Algorithm/240129_List1.md",
-    "Algorithm/240201_algorithm4.md",
-    "Algorithm/240130_algorithm2.md",
-    "Algorithm/240131_algorithm3.md",
-    "Algorithm/240129_algorithm1.md",
-    "Python/240116_python_basic2.md",
-    "Python/240122_python_DS1.md",
-    "Python/240118_python_basic4.md",
-    "Python/240117_python_basic3.md"
-=======
-    "Algorithm/240130_List1.md"
->>>>>>> 355a3307d2439b4123f3cafe87ec5a3d3b05fdbe
+    "daily/2024-02-13.md"
   ]
 }
