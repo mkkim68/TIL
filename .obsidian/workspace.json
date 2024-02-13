@@ -13,6 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/Prime_Number.md",
                 "mode": "source",
                 "source": false
@@ -26,6 +27,9 @@
               "type": "markdown",
               "state": {
                 "file": "daily/2024-02-09.md",
+=======
+                "file": "daily/2024-02-13.md",
+>>>>>>> 355a3307d2439b4123f3cafe87ec5a3d3b05fdbe
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +65,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "삽입 정렬",
+=======
+                "query": "binary",
+>>>>>>> 355a3307d2439b4123f3cafe87ec5a3d3b05fdbe
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +106,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "daily/2024-02-09.md",
+=======
+                "file": "daily/2024-02-13.md",
+>>>>>>> 355a3307d2439b4123f3cafe87ec5a3d3b05fdbe
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "daily/2024-02-09.md",
+=======
+                "file": "daily/2024-02-13.md",
+>>>>>>> 355a3307d2439b4123f3cafe87ec5a3d3b05fdbe
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +154,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "daily/2024-02-09.md"
+=======
+                "file": "daily/2024-02-13.md"
+>>>>>>> 355a3307d2439b4123f3cafe87ec5a3d3b05fdbe
               }
             }
           }
@@ -161,15 +181,43 @@
   },
   "active": "1f51bee32ffe97f7",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "무제 파일.md",
     "daily/2024-02-09.md",
     "Algorithm/Prime_Number.md",
+=======
+    "Algorithm/240208_Stack1.md",
+    "daily/2024-02-13.md",
+    "Algorithm/240213_Stack2.md",
+    "img/240213_27.PNG",
+    "img/240213_26.PNG",
+    "img/240213_25.PNG",
+    "img/240213_24.PNG",
+    "img/240213_23.PNG",
+    "img/240213_22.PNG",
+    "img/240213_21.PNG",
+    "img/240213_20.PNG",
+    "img/240213_19.PNG",
+    "img/240213_18.PNG",
+    "Algorithm/240207_Stack1.md",
+    "daily/2024-02-04.md",
+    "Algorithm/240206_String.md",
+    "Python/240122_python_DS1.md",
+    "Python/240123_python_DS2.md",
+    "Python/240118_python_basic4.md",
+    "Python/240115_python_basic1.md",
+    "Python/240116_python_basic2.md",
+    "Python/240117_python_basic3.md",
+    "Algorithm/240129_List1.md",
+    "Algorithm/240205_String.md",
+>>>>>>> 355a3307d2439b4123f3cafe87ec5a3d3b05fdbe
     "daily/2024-02-05.md",
     "daily/2024-02-04.md",
     "daily/2024-02-02.md",
     "Algorithm/240205_String.md",
     "Algorithm/240201_List2.md",
     "Algorithm/240131_List2.md",
+<<<<<<< HEAD
     "Algorithm/240130_List1.md",
     "Algorithm/240129_List1.md",
     "Algorithm/240201_algorithm4.md",
@@ -180,5 +228,8 @@
     "Python/240122_python_DS1.md",
     "Python/240118_python_basic4.md",
     "Python/240117_python_basic3.md"
+=======
+    "Algorithm/240130_List1.md"
+>>>>>>> 355a3307d2439b4123f3cafe87ec5a3d3b05fdbe
   ]
 }
