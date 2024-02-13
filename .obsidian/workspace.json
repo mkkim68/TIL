@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/240208_Stack1.md",
-                "mode": "preview",
+                "file": "daily/2024-02-13.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/240208_Stack1.md",
+                "file": "daily/2024-02-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/240208_Stack1.md",
+                "file": "daily/2024-02-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/240208_Stack1.md"
+                "file": "daily/2024-02-13.md"
               }
             }
           }
@@ -148,19 +148,20 @@
   },
   "active": "fe483167204b2679",
   "lastOpenFiles": [
-    "img/240208_16.PNG",
-    "img/240208_15.PNG",
-    "img/240208_14.PNG",
-    "img/240208_13.PNG",
-    "img/240208_12.PNG",
-    "img/240208_11.PNG",
-    "img/240208_10.PNG",
-    "img/240208_9.PNG",
-    "img/240208_8.PNG",
-    "img/240208_7.PNG",
-    "img/240208_6.PNG",
-    "Algorithm/240207_Stack1.md",
     "Algorithm/240208_Stack1.md",
+    "daily/2024-02-13.md",
+    "Algorithm/240213_Stack2.md",
+    "img/240213_27.PNG",
+    "img/240213_26.PNG",
+    "img/240213_25.PNG",
+    "img/240213_24.PNG",
+    "img/240213_23.PNG",
+    "img/240213_22.PNG",
+    "img/240213_21.PNG",
+    "img/240213_20.PNG",
+    "img/240213_19.PNG",
+    "img/240213_18.PNG",
+    "Algorithm/240207_Stack1.md",
     "daily/2024-02-04.md",
     "Algorithm/240206_String.md",
     "Python/240122_python_DS1.md",
