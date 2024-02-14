@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-02-13.md",
+                "file": "Algorithm/240214_Stack2.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 208.5
   },
   "right": {
     "id": "95ae8c5fe400c03d",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-02-13.md",
+                "file": "Algorithm/240214_Stack2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-02-13.md",
+                "file": "Algorithm/240214_Stack2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-02-13.md"
+                "file": "Algorithm/240214_Stack2.md"
               }
             }
           }
@@ -150,17 +150,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "0286c111f87c0df8",
   "lastOpenFiles": [
-    "Algorithm/Prime_Number.md",
-    "daily/2024-02-13.md"
+    "daily/2024-02-14.md",
+    "Algorithm/240214_Stack2.md",
+    "img/240214_9.PNG",
+    "img/240214_8.PNG",
+    "img/240214_7.PNG",
+    "Pasted image 20240214102030.png",
+    "img/240214_6.PNG",
+    "img/240214_5.PNG",
+    "img/240214_4.PNG",
+    "img/240214_3.PNG",
+    "img/240214_2.PNG",
+    "img/240214_1.PNG",
+    "daily/2024-02-13.md",
+    "Algorithm/Prime_Number.md"
   ]
 }
