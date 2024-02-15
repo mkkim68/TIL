@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/240214_Stack2.md",
+                "file": "daily/2024-02-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/240214_Stack2.md",
+                "file": "daily/2024-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/240214_Stack2.md",
+                "file": "daily/2024-02-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/240214_Stack2.md"
+                "file": "daily/2024-02-15.md"
               }
             }
           }
@@ -145,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -160,18 +160,21 @@
   },
   "active": "0286c111f87c0df8",
   "lastOpenFiles": [
-    "daily/2024-02-14.md",
     "Algorithm/240214_Stack2.md",
-    "img/240214_9.PNG",
-    "img/240214_8.PNG",
-    "img/240214_7.PNG",
-    "Pasted image 20240214102030.png",
-    "img/240214_6.PNG",
-    "img/240214_5.PNG",
-    "img/240214_4.PNG",
-    "img/240214_3.PNG",
-    "img/240214_2.PNG",
-    "img/240214_1.PNG",
+    "daily/2024-02-15.md",
+    "Algorithm/240215_Queue.md",
+    "img/240215_22.PNG",
+    "img/240215_21.PNG",
+    "img/240215_20.PNG",
+    "img/240215_19.PNG",
+    "img/240215_18.PNG",
+    "img/240215_17.PNG",
+    "Pasted image 20240215101149.png",
+    "img/240215_16.PNG",
+    "img/240215_15.PNG",
+    "img/240215_14.PNG",
+    "무제 파일.md",
+    "daily/2024-02-14.md",
     "daily/2024-02-13.md",
     "Algorithm/Prime_Number.md"
   ]
