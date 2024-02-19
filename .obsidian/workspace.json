@@ -13,11 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/2024-02-19.md",
-=======
-                "file": "daily/2024-02-13.md",
->>>>>>> 3af8bb5c428cae920f86df6300e85fa52dfe750c
+                "file": "daily/2024-02-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 208.5
   },
   "right": {
     "id": "95ae8c5fe400c03d",
@@ -101,11 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/2024-02-19.md",
-=======
-                "file": "daily/2024-02-13.md",
->>>>>>> 3af8bb5c428cae920f86df6300e85fa52dfe750c
+                "file": "daily/2024-02-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,11 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/2024-02-19.md",
-=======
-                "file": "daily/2024-02-13.md",
->>>>>>> 3af8bb5c428cae920f86df6300e85fa52dfe750c
+                "file": "daily/2024-02-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,11 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/2024-02-19.md"
-=======
-                "file": "daily/2024-02-13.md"
->>>>>>> 3af8bb5c428cae920f86df6300e85fa52dfe750c
+                "file": "daily/2024-02-16.md"
               }
             }
           }
@@ -161,47 +145,41 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "0286c111f87c0df8",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "daily/2024-02-16.md",
     "daily/2024-02-19.md",
+    "daily/2024-02-16.md",
     "daily/2024-02-15.md",
     "Algorithm/Brute_Force.md",
     "Algorithm/240216_Queue.md",
-=======
->>>>>>> 3af8bb5c428cae920f86df6300e85fa52dfe750c
     "img/240216_3.PNG",
     "img/240216_2.PNG",
     "img/240216_1.PNG",
-    "img/240215_9.PNG",
-    "img/240215_8.PNG",
-    "img/240215_7.PNG",
-    "img/240215_6.PNG",
-    "img/240215_5.PNG",
-    "img/240215_4.PNG",
-    "img/240215_3.PNG",
-    "img/240215_22.PNG",
-    "daily/2024-02-16.md",
-    "daily/2024-02-15.md",
-    "daily/2024-02-14.md",
-    "Algorithm/240216_Queue.md",
-    "Algorithm/240215_Queue.md",
     "Algorithm/240214_Stack2.md",
-    "Algorithm/Prime_Number.md",
-    "daily/2024-02-13.md"
+    "Algorithm/240215_Queue.md",
+    "img/240215_22.PNG",
+    "img/240215_21.PNG",
+    "img/240215_20.PNG",
+    "img/240215_19.PNG",
+    "img/240215_18.PNG",
+    "img/240215_17.PNG",
+    "Pasted image 20240215101149.png",
+    "무제 파일.md",
+    "daily/2024-02-14.md",
+    "daily/2024-02-13.md",
+    "Algorithm/Prime_Number.md"
   ]
 }
