@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Algorithm/240220_Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca9bb15f37bce66b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "daily/2024-02-19.md",
                 "mode": "source",
                 "source": false
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-02-19.md",
+                "file": "Algorithm/240220_Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-02-19.md",
+                "file": "Algorithm/240220_Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-02-19.md"
+                "file": "Algorithm/240220_Tree.md"
               }
             }
           }
@@ -160,25 +172,26 @@
   },
   "active": "0286c111f87c0df8",
   "lastOpenFiles": [
-    "img/240218_6.png",
-    "img/240218_5.png",
-    "img/240218_4.png",
-    "img/240218_3.png",
-    "img/240218_2.png",
-    "img/240218_1.png",
+    "img/240220_25.PNG",
+    "img/240220_24.PNG",
+    "img/240220_23.PNG",
+    "Pasted image 20240220115708.png",
+    "img/240220_22.PNG",
+    "img/240220_21.PNG",
+    "img/240220_20.PNG",
+    "img/240220_19.PNG",
+    "img/240220_18.PNG",
+    "img/240220_17.PNG",
+    "Pasted image 20240220111912.png",
+    "daily/2024-02-19.md",
+    "Algorithm/240220_Tree.md",
     "daily/2024-02-18.md",
     "daily/2024-02-16.md",
-    "daily/2024-02-19.md",
     "daily/2024-02-15.md",
     "Algorithm/Brute_Force.md",
     "Algorithm/240216_Queue.md",
-    "img/240216_3.PNG",
-    "img/240216_2.PNG",
-    "img/240216_1.PNG",
     "Algorithm/240214_Stack2.md",
     "Algorithm/240215_Queue.md",
-    "img/240215_22.PNG",
-    "img/240215_21.PNG",
     "무제 파일.md",
     "daily/2024-02-14.md",
     "daily/2024-02-13.md",
