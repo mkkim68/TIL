@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-02-19.md",
+                "file": "daily/2024-02-20.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 200
   },
   "right": {
     "id": "95ae8c5fe400c03d",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-02-19.md",
+                "file": "daily/2024-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-02-19.md",
+                "file": "daily/2024-02-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-02-19.md"
+                "file": "daily/2024-02-20.md"
               }
             }
           }
@@ -145,43 +145,45 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "0286c111f87c0df8",
   "lastOpenFiles": [
+    "Algorithm/240208_Stack1.md",
+    "daily/2024-02-20.md",
+    "Algorithm/240207_Stack1.md",
+    "Algorithm/240213_Stack2.md",
+    "Algorithm/240214_Stack2.md",
+    "Algorithm/240216_Queue.md",
+    "daily/2024-02-19.md",
+    "daily/2024-02-18.md",
+    "daily/2024-02-15.md",
+    "daily/2024-02-16.md",
+    "README.md",
     "img/240218_6.png",
     "img/240218_5.png",
     "img/240218_4.png",
     "img/240218_3.png",
     "img/240218_2.png",
     "img/240218_1.png",
-    "daily/2024-02-18.md",
-    "daily/2024-02-16.md",
-    "daily/2024-02-19.md",
-    "daily/2024-02-15.md",
-    "Algorithm/Brute_Force.md",
-    "Algorithm/240216_Queue.md",
+    "Algorithm/240215_Queue.md",
+    "daily/2024-02-13.md",
     "img/240216_3.PNG",
     "img/240216_2.PNG",
     "img/240216_1.PNG",
-    "Algorithm/240214_Stack2.md",
-    "Algorithm/240215_Queue.md",
-    "img/240215_22.PNG",
-    "img/240215_21.PNG",
-    "무제 파일.md",
+    "img/240215_9.PNG",
     "daily/2024-02-14.md",
-    "daily/2024-02-13.md",
     "Algorithm/Prime_Number.md"
   ]
 }
