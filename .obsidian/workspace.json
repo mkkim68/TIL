@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/240222_Start.md",
+                "file": "daily/2024-02-23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b7852c1cac6b8a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/240213_Stack2.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "순열",
+                "query": "에라토",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/240222_Start.md",
+                "file": "daily/2024-02-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/240222_Start.md",
+                "file": "daily/2024-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/240222_Start.md"
+                "file": "daily/2024-02-23.md"
               }
             }
           }
@@ -160,35 +172,38 @@
   },
   "active": "0286c111f87c0df8",
   "lastOpenFiles": [
+    "Algorithm/240223_Start.md",
+    "daily/2024-02-23.md",
+    "daily/2024-02-13.md",
+    "Algorithm/Prime_Number.md",
+    "daily/2024-02-02.md",
+    "Algorithm/240213_Stack2.md",
+    "img/240223_3.PNG",
+    "img/240223_2.PNG",
+    "img/240223_1.PNG",
+    "daily/2024-02-22.md",
+    "Algorithm/240222_Start.md",
+    "Pasted image 20240222094851.png",
     "img/240222_8.PNG",
     "Algorithm/240214_Stack2.md",
     "Algorithm/240215_Queue.md",
     "Algorithm/240216_Queue.md",
     "Algorithm/240221_Tree.md",
-    "Algorithm/240222_Start.md",
     "img/240222_7.PNG",
     "img/240222_6.PNG",
     "img/240222_5.PNG",
     "img/240222_4.PNG",
-    "Pasted image 20240222094851.png",
     "img/240222_3.PNG",
-    "Algorithm/Prime_Number.md",
-    "img/240222_2.PNG",
-    "img/240222_1.PNG",
     "daily/2024-02-21.md",
     "daily/2024-02-20.md",
-    "Algorithm/240213_Stack2.md",
     "Algorithm/240130_List1.md",
     "Algorithm/240220_Tree.md",
-    "img/240221_5.PNG",
-    "img/240221_4.PNG",
     "daily/2024-02-19.md",
     "daily/2024-02-18.md",
     "daily/2024-02-16.md",
     "daily/2024-02-15.md",
     "Algorithm/Brute_Force.md",
     "무제 파일.md",
-    "daily/2024-02-14.md",
-    "daily/2024-02-13.md"
+    "daily/2024-02-14.md"
   ]
 }
