@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-02-20.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-02-20.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-02-20.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-02-20.md"
+                "file": "README.md"
               }
             }
           }
@@ -162,14 +161,15 @@
   },
   "active": "ccb5e5025304a9ac",
   "lastOpenFiles": [
+    "Algorithm/240221_Tree.md",
+    "README.md",
+    "Algorithm/240216_Queue.md",
+    "Algorithm/240129_List1.md",
+    "daily/2024-02-20.md",
     "Algorithm/240208_Stack1.md",
     "daily/2024-02-14.md",
     "daily/2024-02-04.md",
-    "Algorithm/240221_Tree.md",
-    "README.md",
-    "Algorithm/240129_List1.md",
     "Algorithm/240207_Stack1.md",
-    "Algorithm/240216_Queue.md",
     "Algorithm/240213_Stack2.md",
     "Algorithm/240214_Stack2.md",
     "Algorithm/240220_Tree.md",
@@ -193,7 +193,6 @@
     "img/240222_4.PNG",
     "img/240222_3.PNG",
     "daily/2024-02-21.md",
-    "daily/2024-02-20.md",
     "Algorithm/240130_List1.md",
     "daily/2024-02-19.md",
     "daily/2024-02-18.md",

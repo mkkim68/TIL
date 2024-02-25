@@ -17,24 +17,24 @@
 - [OOP 2 (2024-01-25)](./Python/240125_pythonOOP2.md)
 ## Algorithm
 ### List
-- [List1-1 (2024-01-29)](../Algorithm/240129_List1.md)
-- [List1-2 (2024-01-30)](../Algorithm/240130_List1.md)
-- [List2-1 (2024-01-31)](../Algorithm/240131_List2.md)
-- [List2-2 (2024-02-01)](../Algorithm/240201_List2.md)
+- [List1-1 (2024-01-29)](./Algorithm/240129_List1.md)
+- [List1-2 (2024-01-30)](./Algorithm/240130_List1.md)
+- [List2-1 (2024-01-31)](./Algorithm/240131_List2.md)
+- [List2-2 (2024-02-01)](./Algorithm/240201_List2.md)
 ### String
-- [String-1 (2024-02-05)](../Algorithm/240205_String.md)
-- [String-2 (2024-02-06)](../Algorithm/240206_String.md)
+- [String-1 (2024-02-05)](./Algorithm/240205_String.md)
+- [String-2 (2024-02-06)](./Algorithm/240206_String.md)
 ### Stack
-- [Stack1-1 (2024-02-07)](../Algorithm/240207_Stack1.md)
-- [Stack1-2 (2024-02-08)](../Algorithm/240208_Stack1.md)
-- [Stack2-1 (2024-02-13)](../Algorithm/240213_Stack2.md)
-- [Stack2-2 (2024-02-14)](../Algorithm/240214_Stack2.md)
+- [Stack1-1 (2024-02-07)](./Algorithm/240207_Stack1.md)
+- [Stack1-2 (2024-02-08)](./Algorithm/240208_Stack1.md)
+- [Stack2-1 (2024-02-13)](./Algorithm/240213_Stack2.md)
+- [Stack2-2 (2024-02-14)](./Algorithm/240214_Stack2.md)
 ### Queue
-- [Queue-1 (2024-02-15)](../Algorithm/240215_Queue.md)
-- [Queue-2 (2024-02-16)](../Algorithm/240216_Queue.md)
+- [Queue-1 (2024-02-15)](./Algorithm/240215_Queue.md)
+- [Queue-2 (2024-02-16)](./Algorithm/240216_Queue.md)
 ### Tree
-- [Tree-1 (2024-02-20)](../Algorithm/240220_Tree.md)
-- [Tree-2 (2024-02-21)](../Algorithm/240221_Tree.md)
+- [Tree-1 (2024-02-20)](./Algorithm/240220_Tree.md)
+- [Tree-2 (2024-02-21)](./Algorithm/240221_Tree.md)
 ## etc
 - [CLI](./etc/CLI.md)
 - [markdown](./etc/markdown.md)
