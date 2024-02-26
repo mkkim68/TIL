@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-02-23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b7852c1cac6b8a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/240213_Stack2.md",
+                "file": "Algorithm/240226_문제풀이.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-02-23.md",
+                "file": "Algorithm/240226_문제풀이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-02-23.md",
+                "file": "Algorithm/240226_문제풀이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-02-23.md"
+                "file": "Algorithm/240226_문제풀이.md"
               }
             }
           }
@@ -172,6 +160,10 @@
   },
   "active": "0286c111f87c0df8",
   "lastOpenFiles": [
+    "Algorithm/240221_Tree.md",
+    "Algorithm/240226_문제풀이.md",
+    "Algorithm/240207_Stack1.md",
+    "Algorithm/240222_Start.md",
     "Algorithm/240223_Start.md",
     "daily/2024-02-23.md",
     "daily/2024-02-13.md",
@@ -182,13 +174,11 @@
     "img/240223_2.PNG",
     "img/240223_1.PNG",
     "daily/2024-02-22.md",
-    "Algorithm/240222_Start.md",
     "Pasted image 20240222094851.png",
     "img/240222_8.PNG",
     "Algorithm/240214_Stack2.md",
     "Algorithm/240215_Queue.md",
     "Algorithm/240216_Queue.md",
-    "Algorithm/240221_Tree.md",
     "img/240222_7.PNG",
     "img/240222_6.PNG",
     "img/240222_5.PNG",
