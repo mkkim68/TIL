@@ -13,25 +13,39 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/240226_문제풀이.md",
                 "mode": "source",
+=======
+                "file": "README.md",
+                "mode": "preview",
+>>>>>>> 8b11261d4bc4a02633ee5b3882f777fdf759bb9e
                 "source": false
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "6a57ec7c4f9824ae",
+=======
+            "id": "ccb5e5025304a9ac",
+>>>>>>> 8b11261d4bc4a02633ee5b3882f777fdf759bb9e
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/240214_Stack2.md",
+=======
+                "file": "README.md",
+>>>>>>> 8b11261d4bc4a02633ee5b3882f777fdf759bb9e
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "에라토",
+                "query": "dfs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +111,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/240226_문제풀이.md",
+=======
+                "file": "README.md",
+>>>>>>> 8b11261d4bc4a02633ee5b3882f777fdf759bb9e
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +132,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/240226_문제풀이.md",
+=======
+                "file": "README.md",
+>>>>>>> 8b11261d4bc4a02633ee5b3882f777fdf759bb9e
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +159,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/240226_문제풀이.md"
+=======
+                "file": "README.md"
+>>>>>>> 8b11261d4bc4a02633ee5b3882f777fdf759bb9e
               }
             }
           }
@@ -150,50 +176,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0286c111f87c0df8",
+  "active": "ccb5e5025304a9ac",
   "lastOpenFiles": [
     "Algorithm/240221_Tree.md",
+<<<<<<< HEAD
     "Algorithm/240226_문제풀이.md",
     "Algorithm/240207_Stack1.md",
     "Algorithm/240222_Start.md",
     "Algorithm/240223_Start.md",
+=======
+    "README.md",
+    "Algorithm/240216_Queue.md",
+    "Algorithm/240129_List1.md",
+    "daily/2024-02-20.md",
+    "Algorithm/240208_Stack1.md",
+    "daily/2024-02-14.md",
+    "daily/2024-02-04.md",
+    "Algorithm/240207_Stack1.md",
+    "Algorithm/240213_Stack2.md",
+    "Algorithm/240214_Stack2.md",
+    "Algorithm/240220_Tree.md",
+>>>>>>> 8b11261d4bc4a02633ee5b3882f777fdf759bb9e
     "daily/2024-02-23.md",
+    "daily/2024-02-24.md",
+    "daily/2024-02-22.md",
+    "Algorithm/240223_Start.md",
     "daily/2024-02-13.md",
     "Algorithm/Prime_Number.md",
     "daily/2024-02-02.md",
-    "Algorithm/240213_Stack2.md",
     "img/240223_3.PNG",
     "img/240223_2.PNG",
     "img/240223_1.PNG",
+<<<<<<< HEAD
     "daily/2024-02-22.md",
+=======
+    "Algorithm/240222_Start.md",
+>>>>>>> 8b11261d4bc4a02633ee5b3882f777fdf759bb9e
     "Pasted image 20240222094851.png",
     "img/240222_8.PNG",
-    "Algorithm/240214_Stack2.md",
     "Algorithm/240215_Queue.md",
+<<<<<<< HEAD
     "Algorithm/240216_Queue.md",
+=======
+>>>>>>> 8b11261d4bc4a02633ee5b3882f777fdf759bb9e
     "img/240222_7.PNG",
     "img/240222_6.PNG",
     "img/240222_5.PNG",
     "img/240222_4.PNG",
     "img/240222_3.PNG",
     "daily/2024-02-21.md",
-    "daily/2024-02-20.md",
     "Algorithm/240130_List1.md",
-    "Algorithm/240220_Tree.md",
     "daily/2024-02-19.md",
     "daily/2024-02-18.md",
-    "daily/2024-02-16.md",
-    "daily/2024-02-15.md",
-    "Algorithm/Brute_Force.md",
-    "무제 파일.md",
-    "daily/2024-02-14.md"
+    "daily/2024-02-16.md"
   ]
 }
