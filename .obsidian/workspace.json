@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,8 +158,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2ed2b48277b9e98f",
+  "active": "406a6aa8300b1578",
   "lastOpenFiles": [
+    "img/240311_9.PNG",
+    "img/240311_8.PNG",
+    "img/240311_7.PNG",
+    "img/240311_6.PNG",
+    "img/240311_5.PNG",
+    "img/240311_4.PNG",
+    "img/240311_3.PNG",
+    "img/240311_2.PNG",
+    "img/240311_10.PNG",
+    "img/240311_1.PNG",
+    "img/240308_5.PNG",
+    "daily/2024-03-11.md",
+    "Web/240311_ResponsiveWeb.md",
+    "Web/240308_Bootstrap.md",
+    "Web/240306_HTML&CSS.md",
+    "Web",
+    "Algorithm/240228_APS응용.md",
     "daily/2024-02-22.md",
     "daily/2024-03-10.md",
     "daily/2024-02-21.md",
@@ -169,7 +185,6 @@
     "daily/2024-02-20.md",
     "Algorithm/240227_APS응용.md",
     "Algorithm/240226_문제풀이.md",
-    "daily/2024-02-24.md",
-    "img/240227_1.PNG"
+    "daily/2024-02-24.md"
   ]
 }
