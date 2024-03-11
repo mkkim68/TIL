@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-02-27.md",
+                "file": "daily/2024-03-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bfs",
+                "query": "순열",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-02-27.md",
+                "file": "daily/2024-03-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-02-27.md",
+                "file": "daily/2024-03-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-02-27.md"
+                "file": "daily/2024-03-10.md"
               }
             }
           }
@@ -161,8 +161,12 @@
   },
   "active": "2ed2b48277b9e98f",
   "lastOpenFiles": [
-    "daily/2024-02-20.md",
+    "daily/2024-02-22.md",
+    "daily/2024-03-10.md",
+    "daily/2024-02-21.md",
+    "daily/2024-02-04.md",
     "daily/2024-02-27.md",
+    "daily/2024-02-20.md",
     "Algorithm/240227_APS응용.md",
     "Algorithm/240226_문제풀이.md",
     "daily/2024-02-24.md",
