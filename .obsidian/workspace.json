@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/240311_ResponsiveWeb.md",
+                "file": "daily/2024-03-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/240311_ResponsiveWeb.md",
+                "file": "daily/2024-03-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/240311_ResponsiveWeb.md",
+                "file": "daily/2024-03-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/240311_ResponsiveWeb.md"
+                "file": "daily/2024-03-11.md"
               }
             }
           }
@@ -160,6 +160,8 @@
   },
   "active": "f4037938b1a3a18c",
   "lastOpenFiles": [
+    "Web/240311_ResponsiveWeb.md",
+    "daily/2024-03-11.md",
     "img/240311_10.PNG",
     "img/240311_9.PNG",
     "img/240311_8.PNG",
@@ -171,10 +173,8 @@
     "img/240311_2.PNG",
     "img/240311_1.PNG",
     "daily/2024-02-27.md",
-    "Web/240311_ResponsiveWeb.md",
     "Algorithm/240221_Tree.md",
     "Web/240308_Bootstrap.md",
-    "img/240308_5.PNG",
     "daily/2024-02-04.md",
     "git/git.md",
     "Algorithm/240220_Tree.md",
