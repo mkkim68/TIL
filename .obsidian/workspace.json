@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-03-10.md",
+                "file": "daily/2024-03-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-03-10.md",
+                "file": "daily/2024-03-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-03-10.md",
+                "file": "daily/2024-03-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-03-10.md"
+                "file": "daily/2024-03-11.md"
               }
             }
           }
@@ -158,8 +158,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "406a6aa8300b1578",
+  "active": "2ed2b48277b9e98f",
   "lastOpenFiles": [
+    "daily/2024-03-10.md",
     "img/240311_9.PNG",
     "img/240311_8.PNG",
     "img/240311_7.PNG",
@@ -170,7 +171,6 @@
     "img/240311_2.PNG",
     "img/240311_10.PNG",
     "img/240311_1.PNG",
-    "img/240308_5.PNG",
     "daily/2024-03-11.md",
     "Web/240311_ResponsiveWeb.md",
     "Web/240308_Bootstrap.md",
@@ -178,7 +178,6 @@
     "Web",
     "Algorithm/240228_APS응용.md",
     "daily/2024-02-22.md",
-    "daily/2024-03-10.md",
     "daily/2024-02-21.md",
     "daily/2024-02-04.md",
     "daily/2024-02-27.md",
