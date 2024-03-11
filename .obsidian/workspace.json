@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-02-27.md",
+                "file": "Web/240311_ResponsiveWeb.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-02-27.md",
+                "file": "Web/240311_ResponsiveWeb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-02-27.md",
+                "file": "Web/240311_ResponsiveWeb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-02-27.md"
+                "file": "Web/240311_ResponsiveWeb.md"
               }
             }
           }
@@ -161,13 +160,21 @@
   },
   "active": "f4037938b1a3a18c",
   "lastOpenFiles": [
+    "img/240311_10.PNG",
+    "img/240311_9.PNG",
+    "img/240311_8.PNG",
+    "img/240311_7.PNG",
+    "img/240311_6.PNG",
+    "img/240311_5.PNG",
+    "img/240311_4.PNG",
+    "img/240311_3.PNG",
+    "img/240311_2.PNG",
+    "img/240311_1.PNG",
+    "daily/2024-02-27.md",
+    "Web/240311_ResponsiveWeb.md",
     "Algorithm/240221_Tree.md",
     "Web/240308_Bootstrap.md",
     "img/240308_5.PNG",
-    "img/240308_4.PNG",
-    "img/240308_3.PNG",
-    "img/240308_2.PNG",
-    "img/240308_1.PNG",
     "daily/2024-02-04.md",
     "git/git.md",
     "Algorithm/240220_Tree.md",
@@ -177,17 +184,11 @@
     "git/240111_git기초.md",
     "Web/240306_HTML&CSS.md",
     "README.md",
-    "img/240306_4.PNG",
-    "img/240306_3.PNG",
-    "img/240306_2.PNG",
-    "img/240306_1.PNG",
     "daily/2024-02-20.md",
-    "daily/2024-02-27.md",
     "Algorithm/240228_APS응용.md",
     "Web",
     "Algorithm/240227_APS응용.md",
     "Algorithm/240226_문제풀이.md",
-    "daily/2024-02-24.md",
-    "img/240227_1.PNG"
+    "daily/2024-02-24.md"
   ]
 }
