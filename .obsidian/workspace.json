@@ -4,29 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "6280ece267344525",
+        "id": "1897d40d3e3dfb94",
         "type": "tabs",
         "children": [
           {
-            "id": "2ed2b48277b9e98f",
+            "id": "a248bac45d91558f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-03-11.md",
+                "file": "Web/240313_Django02.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a93c281a4b68c9a8",
+            "id": "ff501ebfe8add764",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-02-20.md",
-                "mode": "source",
+                "file": "Web/240312_Django01.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "순열",
+                "query": "dfs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-03-11.md",
+                "file": "Web/240313_Django02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-03-11.md",
+                "file": "Web/240313_Django02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-03-11.md"
+                "file": "Web/240313_Django02.md"
               }
             }
           }
@@ -150,38 +150,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "2ed2b48277b9e98f",
+  "active": "a248bac45d91558f",
   "lastOpenFiles": [
-    "daily/2024-03-10.md",
-    "img/240311_9.PNG",
-    "img/240311_8.PNG",
-    "img/240311_7.PNG",
-    "img/240311_6.PNG",
-    "img/240311_5.PNG",
-    "img/240311_4.PNG",
-    "img/240311_3.PNG",
-    "img/240311_2.PNG",
-    "img/240311_10.PNG",
-    "img/240311_1.PNG",
-    "daily/2024-03-11.md",
+    "Web/240312_Django01.md",
+    "Web/240313_Django02.md",
+    "img/240313_13.PNG",
+    "img/240313_12.PNG",
+    "img/240313_11.PNG",
+    "img/240313_10.PNG",
+    "img/240313_9.PNG",
+    "img/240313_8.PNG",
+    "img/240313_7.PNG",
+    "img/240313_6.PNG",
+    "img/240313_5.PNG",
+    "daily/2024-02-04.md",
+    "README.md",
     "Web/240311_ResponsiveWeb.md",
     "Web/240308_Bootstrap.md",
-    "Web/240306_HTML&CSS.md",
-    "Web",
-    "Algorithm/240228_APS응용.md",
-    "daily/2024-02-22.md",
-    "daily/2024-02-21.md",
-    "daily/2024-02-04.md",
-    "daily/2024-02-27.md",
+    "img/240313_4.PNG",
     "daily/2024-02-20.md",
+    "daily/2024-02-14.md",
+    "etc/CLI.md",
+    "daily/2024-03-11.md",
+    "daily/2024-03-10.md",
+    "daily/2024-02-27.md",
+    "Algorithm/240221_Tree.md",
+    "git/git.md",
+    "Algorithm/240220_Tree.md",
+    "Algorithm/240216_Queue.md",
+    "git/240112_git_remote.md",
+    "git/240111_git기초.md",
+    "Web/240306_HTML&CSS.md",
+    "Algorithm/240228_APS응용.md",
+    "Web",
     "Algorithm/240227_APS응용.md",
     "Algorithm/240226_문제풀이.md",
     "daily/2024-02-24.md"
