@@ -43,6 +43,10 @@
 ### ◼ Django
 - [Django01-Intro & Design pattern (2024-03-12)](./Web/240312_Django01.md)
 - [Django02-Templates & URLs  (2024-03-13)](./Web/240313_Django02.md)
+## ✔ React JS
+📌[https://ko.legacy.reactjs.org/docs/getting-started.html](https://ko.legacy.reactjs.org/docs/getting-started.html)
+### ◼ BASIC
+- [THE BASICS OF REACT (2024-03-14)](./React/BASIC_01.md)
 ## ✔ etc
 - [CLI](./etc/CLI.md)
 - [markdown](./etc/markdown.md)

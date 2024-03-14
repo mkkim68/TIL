@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "780d195acc4784f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Web/240313_Django02.md",
                 "mode": "source",
                 "source": false
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/240313_Django02.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/240313_Django02.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/240313_Django02.md"
+                "file": "README.md"
               }
             }
           }
@@ -160,30 +172,33 @@
   },
   "active": "a248bac45d91558f",
   "lastOpenFiles": [
-    "Web/240312_Django01.md",
-    "Web/240313_Django02.md",
-    "img/240313_13.PNG",
-    "img/240313_12.PNG",
-    "img/240313_11.PNG",
-    "img/240313_10.PNG",
-    "img/240313_9.PNG",
-    "img/240313_8.PNG",
-    "img/240313_7.PNG",
-    "img/240313_6.PNG",
-    "img/240313_5.PNG",
-    "daily/2024-02-04.md",
+    "React/BASIC_02.md",
     "README.md",
+    "Web/240312_Django01.md",
+    "etc/CLI.md",
+    "React",
+    "git/git.md",
+    "Web/240314_Django03.md",
+    "Web/240313_Django02.md",
+    "img/240314_20.PNG",
+    "img/240314_19.PNG",
+    "img/240314_18.PNG",
+    "img/240314_17.PNG",
+    "img/240314_16.PNG",
+    "img/240314_15.PNG",
+    "img/240314_14.PNG",
+    "img/240314_13.PNG",
+    "img/240314_12.PNG",
+    "img/240314_11.PNG",
+    "daily/2024-02-04.md",
     "Web/240311_ResponsiveWeb.md",
     "Web/240308_Bootstrap.md",
-    "img/240313_4.PNG",
     "daily/2024-02-20.md",
     "daily/2024-02-14.md",
-    "etc/CLI.md",
     "daily/2024-03-11.md",
     "daily/2024-03-10.md",
     "daily/2024-02-27.md",
     "Algorithm/240221_Tree.md",
-    "git/git.md",
     "Algorithm/240220_Tree.md",
     "Algorithm/240216_Queue.md",
     "git/240112_git_remote.md",
