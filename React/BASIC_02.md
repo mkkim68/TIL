@@ -29,3 +29,66 @@ const elementName = React.createElement("span", {property: "property-name"}, "co
 ReactDOM.render(elementName, parentElement)
 ```
 - 부모 요소 안에 넣어줌
+# JSX
+: javascript를 확장한 문법
+```jsx
+const Title = <h3 id="title" onMouseEnter={() => console.log("mouse enter")}>hello, I'm a title</h3>
+```
+- html처럼 요소를 만들어주면 됨 (eventlistener도 property에 넣어주면 된다)
+### Babel 설치해야함
+- JSX를 기본적으로 이해하지 못함
+```html
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+<script type="text/babel"></script>
+```
+- 작성하는 파일 script로 type 정의해줘야됨
+### 다른 요소 담기
+```jsx
+const Button = () => (
+
+      <button
+
+        style={{
+
+          backgroundColor: "teal",
+
+        }}
+
+        onClick={() => console.log("i'm clicked")}
+
+      >
+
+        Click me
+
+      </button>
+
+    );
+
+function Title() {  <!-- 위에랑 같지만 다른 방식 -->
+
+      return (
+
+        <h3 id="title" onMouseEnter={() => console.log("mouse enter")}>
+
+          hello, I'm a title.
+
+        </h3>
+
+      );
+
+    }
+    
+const Container = (
+
+      <div>
+
+        <Title /> <Button />
+
+      </div>
+
+    );
+```
+- 요소를 함수로 만들고 <이름 /> 을 넣어준다
+- 컴포넌트의 첫 글자는 *대문자!!!!*
+	- 소문자로 하면 html요소로 헷갈릴 수 있음
+	- 따로 요소 안만들고 html요소를 바로 넣어주는 것도 가능

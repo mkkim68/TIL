@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a248bac45d91558f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "780d195acc4784f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/240313_Django02.md",
+                "file": "React/BASIC_02.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "React/BASIC_02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "React/BASIC_02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "React/BASIC_02.md"
               }
             }
           }
@@ -170,16 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a248bac45d91558f",
+  "active": "780d195acc4784f2",
   "lastOpenFiles": [
-    "React/BASIC_02.md",
+    "Web/240314_Django03.md",
+    "Web/240313_Django02.md",
+    "PJT_ver1/240315_PJT03.md",
     "README.md",
+    "React/BASIC_02.md",
     "Web/240312_Django01.md",
     "etc/CLI.md",
     "React",
     "git/git.md",
-    "Web/240314_Django03.md",
-    "Web/240313_Django02.md",
     "img/240314_20.PNG",
     "img/240314_19.PNG",
     "img/240314_18.PNG",
