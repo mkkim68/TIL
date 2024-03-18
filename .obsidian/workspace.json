@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/BASIC_02.md",
+                "file": "daily/2024-03-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/BASIC_02.md",
+                "file": "daily/2024-03-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/BASIC_02.md",
+                "file": "daily/2024-03-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/BASIC_02.md"
+                "file": "daily/2024-03-18.md"
               }
             }
           }
@@ -160,25 +160,27 @@
   },
   "active": "780d195acc4784f2",
   "lastOpenFiles": [
+    "Algorithm/240318_APS응용2.md",
+    "daily/2024-03-18.md",
+    "img/240318_9.PNG",
+    "img/240318_8.PNG",
+    "img/240318_7.PNG",
+    "img/240318_6.PNG",
+    "img/240318_5.PNG",
+    "img/240318_4.PNG",
+    "img/240318_3.PNG",
+    "img/240318_2.PNG",
+    "img/240318_1.PNG",
+    "React/BASIC_02.md",
     "Web/240314_Django03.md",
     "Web/240313_Django02.md",
     "PJT_ver1/240315_PJT03.md",
     "README.md",
-    "React/BASIC_02.md",
     "Web/240312_Django01.md",
     "etc/CLI.md",
     "React",
     "git/git.md",
     "img/240314_20.PNG",
-    "img/240314_19.PNG",
-    "img/240314_18.PNG",
-    "img/240314_17.PNG",
-    "img/240314_16.PNG",
-    "img/240314_15.PNG",
-    "img/240314_14.PNG",
-    "img/240314_13.PNG",
-    "img/240314_12.PNG",
-    "img/240314_11.PNG",
     "daily/2024-02-04.md",
     "Web/240311_ResponsiveWeb.md",
     "Web/240308_Bootstrap.md",
@@ -195,8 +197,6 @@
     "Web/240306_HTML&CSS.md",
     "Algorithm/240228_APS응용.md",
     "Web",
-    "Algorithm/240227_APS응용.md",
-    "Algorithm/240226_문제풀이.md",
-    "daily/2024-02-24.md"
+    "Algorithm/240227_APS응용.md"
   ]
 }
