@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-03-18.md",
+                "file": "Algorithm/240131_List2.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/240312_Django01.md",
+                "file": "Algorithm/240319_APS응용2.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dfs",
+                "query": "부분집합",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bfe35b0778524631",
@@ -97,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2024-03-18.md",
+                "file": "Algorithm/240319_APS응용2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/2024-03-18.md",
+                "file": "Algorithm/240319_APS응용2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2024-03-18.md"
+                "file": "Algorithm/240319_APS응용2.md"
               }
             }
           }
@@ -158,8 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "780d195acc4784f2",
+  "active": "ff501ebfe8add764",
   "lastOpenFiles": [
+    "Web/240312_Django01.md",
+    "Algorithm/240131_List2.md",
+    "Algorithm/240214_Stack2.md",
+    "Algorithm/240319_APS응용2.md",
+    "img/240319_3.PNG",
+    "img/240319_2.PNG",
+    "img/240319_1.PNG",
     "Algorithm/240318_APS응용2.md",
     "daily/2024-03-18.md",
     "img/240318_9.PNG",
@@ -169,18 +178,14 @@
     "img/240318_5.PNG",
     "img/240318_4.PNG",
     "img/240318_3.PNG",
-    "img/240318_2.PNG",
-    "img/240318_1.PNG",
     "React/BASIC_02.md",
     "Web/240314_Django03.md",
     "Web/240313_Django02.md",
     "PJT_ver1/240315_PJT03.md",
     "README.md",
-    "Web/240312_Django01.md",
     "etc/CLI.md",
     "React",
     "git/git.md",
-    "img/240314_20.PNG",
     "daily/2024-02-04.md",
     "Web/240311_ResponsiveWeb.md",
     "Web/240308_Bootstrap.md",
@@ -194,9 +199,6 @@
     "Algorithm/240216_Queue.md",
     "git/240112_git_remote.md",
     "git/240111_git기초.md",
-    "Web/240306_HTML&CSS.md",
-    "Algorithm/240228_APS응용.md",
-    "Web",
-    "Algorithm/240227_APS응용.md"
+    "Web"
   ]
 }
