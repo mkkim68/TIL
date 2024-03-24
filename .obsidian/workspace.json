@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/240320_APS응용2.md",
+                "file": "daily/2024-02-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2172bac30c8f1f66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/240321_APS응용2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff670ac8b66c482f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/Bellman-Ford.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bf2d29e8f395628e",
@@ -86,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/240320_APS응용2.md",
+                "file": "Algorithm/240321_APS응용2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/240320_APS응용2.md",
+                "file": "Algorithm/240321_APS응용2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/240320_APS응용2.md"
+                "file": "Algorithm/240321_APS응용2.md"
               }
             }
           }
@@ -147,15 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "327ca6b8ebf4b6d6",
+  "active": "2172bac30c8f1f66",
   "lastOpenFiles": [
-    "Algorithm/Brute_Force.md",
-    "Algorithm/240319_APS응용2.md",
-    "Algorithm/240318_APS응용2.md",
-    "Algorithm/240228_APS응용.md",
-    "Algorithm/240227_APS응용.md",
-    "Python/240123_python_DS2.md",
-    "Algorithm/240223_Start.md",
+    "Algorithm/Bellman-Ford.md",
+    "Algorithm/LCS.md",
+    "Algorithm/240321_APS응용2.md",
+    "daily/2024-02-04.md",
     "Algorithm/240320_APS응용2.md",
     "img/240320_7.PNG",
     "img/240320_6.PNG",
@@ -163,6 +184,7 @@
     "img/240320_4.PNG",
     "img/240320_3.PNG",
     "img/240320_2.PNG",
-    "img/240320_1.PNG"
+    "img/240320_1.PNG",
+    "daily/2024-03-19.md"
   ]
 }
