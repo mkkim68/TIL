@@ -1,64 +1,88 @@
 {
   "main": {
-    "id": "ef223c559b0247a8",
+    "id": "fc08f75234dca04b",
     "type": "split",
     "children": [
       {
-        "id": "a720d1098fccb174",
+        "id": "78d2bb67e8c10c04",
         "type": "tabs",
         "children": [
           {
-            "id": "7399ebc593538dea",
+            "id": "b0accd016666f8e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/2024-02-04.md",
+                "file": "Web/240312_Django01.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2172bac30c8f1f66",
+            "id": "7db73fdc92122512",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/240321_APS응용2.md",
+                "file": "Web/240313_Django02.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ff670ac8b66c482f",
+            "id": "7b42013955cee4ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/Bellman-Ford.md",
+                "file": "Web/240314_Django03.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89071baf90120584",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/240325_Django04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c06e1b32050f11e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/240326_Django05.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "88fd867d198d30e4",
+    "id": "105ac663d836e774",
     "type": "split",
     "children": [
       {
-        "id": "ee2abd33dc0a1e45",
+        "id": "cfe68389e6a9eb4e",
         "type": "tabs",
         "children": [
           {
-            "id": "38c6357b5517bb3a",
+            "id": "d30a5406f8bd4cbe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +92,7 @@
             }
           },
           {
-            "id": "2960173fce0a52ca",
+            "id": "89b8a9ab1f4ccc79",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +107,7 @@
             }
           },
           {
-            "id": "aa4dbfddf982c7b3",
+            "id": "45bfbe464adf7cfd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +121,20 @@
     "width": 200
   },
   "right": {
-    "id": "bf2d29e8f395628e",
+    "id": "3f06d7763d536c9f",
     "type": "split",
     "children": [
       {
-        "id": "36d848fadc233aa1",
+        "id": "d7670198ddbbb7f9",
         "type": "tabs",
         "children": [
           {
-            "id": "b7bfebad390217bc",
+            "id": "ef0c8020f0ce6222",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/240321_APS응용2.md",
+                "file": "Web/240326_Django05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +146,19 @@
             }
           },
           {
-            "id": "ae9ec0c3f3baf49c",
+            "id": "77b2382c55db63aa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/240321_APS응용2.md",
+                "file": "Web/240326_Django05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9dbeb68f9fe2f78b",
+            "id": "0da37faab5d7f179",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,12 +169,12 @@
             }
           },
           {
-            "id": "b94cb4970f44fc9a",
+            "id": "4835bc3af90f3af3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/240321_APS응용2.md"
+                "file": "Web/240326_Django05.md"
               }
             }
           }
@@ -171,20 +195,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2172bac30c8f1f66",
+  "active": "7c06e1b32050f11e",
   "lastOpenFiles": [
-    "Algorithm/Bellman-Ford.md",
-    "Algorithm/LCS.md",
-    "Algorithm/240321_APS응용2.md",
-    "daily/2024-02-04.md",
-    "Algorithm/240320_APS응용2.md",
-    "img/240320_7.PNG",
-    "img/240320_6.PNG",
-    "img/240320_5.PNG",
-    "img/240320_4.PNG",
-    "img/240320_3.PNG",
-    "img/240320_2.PNG",
-    "img/240320_1.PNG",
-    "daily/2024-03-19.md"
+    "Web/240325_Django04.md",
+    "Web/240326_Django05.md",
+    "Web/240312_Django01.md",
+    "Web/240314_Django03.md",
+    "Web/240313_Django02.md",
+    "img/240326_1.PNG",
+    "img/240325_15.PNG",
+    "img/240325_14.PNG",
+    "img/240325_13.PNG",
+    "img/240325_12.PNG",
+    "img/240325_11.PNG",
+    "img/240325_10.PNG",
+    "img/240325_9.PNG",
+    "img/240325_8.PNG",
+    "img/240325_7.PNG",
+    "React/BASIC03_STATE.md",
+    "README.md",
+    "React/BASIC02.md",
+    "git/240112_git_remote.md",
+    "git/240111_git기초.md",
+    "git/git.md",
+    "etc/CLI.md"
   ]
 }
