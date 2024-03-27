@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/240314_Django03.md",
+                "file": "Web/240313_Django02.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/240326_Django05.md",
-                "mode": "preview",
+                "file": "Web/240327_Django06.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/240326_Django05.md",
+                "file": "Web/240313_Django02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/240326_Django05.md",
+                "file": "Web/240313_Django02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/240326_Django05.md"
+                "file": "Web/240313_Django02.md"
               }
             }
           }
@@ -195,23 +195,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c06e1b32050f11e",
+  "active": "7b42013955cee4ec",
   "lastOpenFiles": [
     "Web/240325_Django04.md",
-    "Web/240326_Django05.md",
     "Web/240312_Django01.md",
     "Web/240314_Django03.md",
     "Web/240313_Django02.md",
+    "Web/240327_Django06.md",
+    "Web/240326_Django05.md",
+    "img/240327_4.PNG",
+    "img/240327_3.PNG",
+    "img/240327_2.PNG",
+    "img/240327_1.PNG",
     "img/240326_1.PNG",
     "img/240325_15.PNG",
     "img/240325_14.PNG",
     "img/240325_13.PNG",
     "img/240325_12.PNG",
     "img/240325_11.PNG",
-    "img/240325_10.PNG",
-    "img/240325_9.PNG",
-    "img/240325_8.PNG",
-    "img/240325_7.PNG",
     "React/BASIC03_STATE.md",
     "README.md",
     "React/BASIC02.md",
