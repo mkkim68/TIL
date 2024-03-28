@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78d2bb67e8c10c04",
+        "id": "5713309fdc10ac2a",
         "type": "tabs",
         "children": [
           {
-            "id": "b0accd016666f8e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/240312_Django01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7db73fdc92122512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/240313_Django02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b42013955cee4ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/240313_Django02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89071baf90120584",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/240325_Django04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c06e1b32050f11e",
+            "id": "d969db3dde33dfe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -67,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/240313_Django02.md",
+                "file": "Web/240327_Django06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/240313_Django02.md",
+                "file": "Web/240327_Django06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/240313_Django02.md"
+                "file": "Web/240327_Django06.md"
               }
             }
           }
@@ -195,14 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b42013955cee4ec",
+  "active": "d969db3dde33dfe6",
   "lastOpenFiles": [
-    "Web/240325_Django04.md",
-    "Web/240312_Django01.md",
-    "Web/240314_Django03.md",
     "Web/240313_Django02.md",
-    "Web/240327_Django06.md",
     "Web/240326_Django05.md",
+    "Web/240325_Django04.md",
+    "Web/240314_Django03.md",
+    "Web/240327_Django06.md",
+    "Web/240328_Django07.md",
+    "Web/240312_Django01.md",
+    "img/240328_2.PNG",
+    "img/240328_1.PNG",
     "img/240327_4.PNG",
     "img/240327_3.PNG",
     "img/240327_2.PNG",
@@ -211,8 +165,6 @@
     "img/240325_15.PNG",
     "img/240325_14.PNG",
     "img/240325_13.PNG",
-    "img/240325_12.PNG",
-    "img/240325_11.PNG",
     "React/BASIC03_STATE.md",
     "README.md",
     "React/BASIC02.md",
