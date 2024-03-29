@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/240327_Django06.md",
+                "file": "Web/240329_Django08.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "template",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/240327_Django06.md",
+                "file": "Web/240329_Django08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/240327_Django06.md",
+                "file": "Web/240329_Django08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/240327_Django06.md"
+                "file": "Web/240329_Django08.md"
               }
             }
           }
@@ -149,10 +150,15 @@
   "active": "d969db3dde33dfe6",
   "lastOpenFiles": [
     "Web/240313_Django02.md",
+    "Web/240329_Django08.md",
+    "img/240329_4.PNG",
+    "img/240329_3.PNG",
+    "img/240329_2.PNG",
+    "img/240329_1.PNG",
+    "Web/240327_Django06.md",
     "Web/240326_Django05.md",
     "Web/240325_Django04.md",
     "Web/240314_Django03.md",
-    "Web/240327_Django06.md",
     "Web/240328_Django07.md",
     "Web/240312_Django01.md",
     "img/240328_2.PNG",
@@ -161,10 +167,6 @@
     "img/240327_3.PNG",
     "img/240327_2.PNG",
     "img/240327_1.PNG",
-    "img/240326_1.PNG",
-    "img/240325_15.PNG",
-    "img/240325_14.PNG",
-    "img/240325_13.PNG",
     "React/BASIC03_STATE.md",
     "README.md",
     "React/BASIC02.md",
