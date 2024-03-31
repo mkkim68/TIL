@@ -1,19 +1,23 @@
 {
   "main": {
-    "id": "7d3e3d443ee929cf",
+    "id": "fc08f75234dca04b",
     "type": "split",
     "children": [
       {
-        "id": "eab9bd588aef605b",
+        "id": "5713309fdc10ac2a",
         "type": "tabs",
         "children": [
           {
-            "id": "327ca6b8ebf4b6d6",
+            "id": "d969db3dde33dfe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/240320_APS응용2.md",
+=======
+                "file": "Web/240329_Django08.md",
+>>>>>>> 0fade5cd843892319d74d9963ef1c30311bf4998
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +29,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "436a630b8eb15a30",
+    "id": "105ac663d836e774",
     "type": "split",
     "children": [
       {
-        "id": "b47de666771a4513",
+        "id": "cfe68389e6a9eb4e",
         "type": "tabs",
         "children": [
           {
-            "id": "b78333c4843e80f0",
+            "id": "d30a5406f8bd4cbe",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +47,12 @@
             }
           },
           {
-            "id": "91084dd89fc4f3e0",
+            "id": "89b8a9ab1f4ccc79",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "template",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,35 +62,44 @@
             }
           },
           {
-            "id": "2f58161866c77f5e",
+            "id": "45bfbe464adf7cfd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 300,
     "collapsed": true
+=======
+    "width": 200
+>>>>>>> 0fade5cd843892319d74d9963ef1c30311bf4998
   },
   "right": {
-    "id": "a40047faa47b71f6",
+    "id": "3f06d7763d536c9f",
     "type": "split",
     "children": [
       {
-        "id": "e071142844326703",
+        "id": "d7670198ddbbb7f9",
         "type": "tabs",
         "children": [
           {
-            "id": "f73e33dddb26e5ad",
+            "id": "ef0c8020f0ce6222",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/240320_APS응용2.md",
+=======
+                "file": "Web/240329_Django08.md",
+>>>>>>> 0fade5cd843892319d74d9963ef1c30311bf4998
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +111,23 @@
             }
           },
           {
-            "id": "29c269e6188e9195",
+            "id": "77b2382c55db63aa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/240320_APS응용2.md",
+=======
+                "file": "Web/240329_Django08.md",
+>>>>>>> 0fade5cd843892319d74d9963ef1c30311bf4998
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f9ee3d8299ff204a",
+            "id": "0da37faab5d7f179",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,12 +138,16 @@
             }
           },
           {
-            "id": "cac5c0d0eae01808",
+            "id": "4835bc3af90f3af3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Algorithm/240320_APS응용2.md"
+=======
+                "file": "Web/240329_Django08.md"
+>>>>>>> 0fade5cd843892319d74d9963ef1c30311bf4998
               }
             }
           }
@@ -139,14 +160,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "327ca6b8ebf4b6d6",
   "lastOpenFiles": [
     "Algorithm/Brute_Force.md",
@@ -164,5 +186,34 @@
     "img/240320_3.PNG",
     "img/240320_2.PNG",
     "img/240320_1.PNG"
+=======
+  "active": "d969db3dde33dfe6",
+  "lastOpenFiles": [
+    "Web/240313_Django02.md",
+    "Web/240329_Django08.md",
+    "img/240329_4.PNG",
+    "img/240329_3.PNG",
+    "img/240329_2.PNG",
+    "img/240329_1.PNG",
+    "Web/240327_Django06.md",
+    "Web/240326_Django05.md",
+    "Web/240325_Django04.md",
+    "Web/240314_Django03.md",
+    "Web/240328_Django07.md",
+    "Web/240312_Django01.md",
+    "img/240328_2.PNG",
+    "img/240328_1.PNG",
+    "img/240327_4.PNG",
+    "img/240327_3.PNG",
+    "img/240327_2.PNG",
+    "img/240327_1.PNG",
+    "React/BASIC03_STATE.md",
+    "README.md",
+    "React/BASIC02.md",
+    "git/240112_git_remote.md",
+    "git/240111_git기초.md",
+    "git/git.md",
+    "etc/CLI.md"
+>>>>>>> 0fade5cd843892319d74d9963ef1c30311bf4998
   ]
 }
