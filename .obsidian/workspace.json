@@ -11,8 +11,12 @@
             "id": "327ca6b8ebf4b6d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/240320_APS응용2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a40047faa47b71f6",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Algorithm/240320_APS응용2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Algorithm/240320_APS응용2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Algorithm/240320_APS응용2.md"
+              }
             }
           }
         ]
@@ -138,15 +147,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b78333c4843e80f0",
+  "active": "327ca6b8ebf4b6d6",
   "lastOpenFiles": [
+    "Algorithm/Brute_Force.md",
+    "Algorithm/240319_APS응용2.md",
+    "Algorithm/240318_APS응용2.md",
+    "Algorithm/240228_APS응용.md",
+    "Algorithm/240227_APS응용.md",
+    "Python/240123_python_DS2.md",
+    "Algorithm/240223_Start.md",
+    "Algorithm/240320_APS응용2.md",
     "img/240320_7.PNG",
     "img/240320_6.PNG",
     "img/240320_5.PNG",
     "img/240320_4.PNG",
     "img/240320_3.PNG",
     "img/240320_2.PNG",
-    "img/240320_1.PNG",
-    "Algorithm/240320_APS응용2.md"
+    "img/240320_1.PNG"
   ]
 }
