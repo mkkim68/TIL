@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/240321_APS응용2.md",
+                "file": "Web/240401_Django09.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c74ff8beac87b1d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/240329_Django08.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/240321_APS응용2.md",
+                "file": "Web/240401_Django09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/240321_APS응용2.md",
+                "file": "Web/240401_Django09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/240321_APS응용2.md"
+                "file": "Web/240401_Django09.md"
               }
             }
           }
@@ -149,14 +160,31 @@
   },
   "active": "71f3c1aeef3a19b2",
   "lastOpenFiles": [
-    "React/BASIC03_STATE.md",
-    "React/BASIC02.md",
+    "Web/240329_Django08.md",
+    "Web/240401_Django09.md",
+    "img/240401_4.PNG",
+    "img/240401_3.PNG",
+    "img/240401_2.PNG",
+    "img/240401_1.PNG",
+    "Web/240313_Django02.md",
+    "img/240329_4.PNG",
+    "img/240329_3.PNG",
+    "img/240329_2.PNG",
+    "img/240329_1.PNG",
     "Web/240327_Django06.md",
     "Web/240326_Django05.md",
     "Web/240325_Django04.md",
     "Web/240314_Django03.md",
     "Web/240313_Django02.md",
     "Web/240312_Django01.md",
-    "Web/240329_Django08.md"
+    "img/240328_2.PNG",
+    "img/240328_1.PNG",
+    "React/BASIC03_STATE.md",
+    "README.md",
+    "React/BASIC02.md",
+    "git/240112_git_remote.md",
+    "git/240111_git기초.md",
+    "git/git.md",
+    "etc/CLI.md"
   ]
 }
