@@ -13,6 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Web/240401_Django09.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c74ff8beac87b1d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Web/240329_Django08.md",
                 "mode": "source",
                 "source": false
@@ -65,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/240329_Django08.md",
+                "file": "Web/240401_Django09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/240329_Django08.md",
+                "file": "Web/240401_Django09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/240329_Django08.md"
+                "file": "Web/240401_Django09.md"
               }
             }
           }
@@ -149,8 +160,13 @@
   },
   "active": "d969db3dde33dfe6",
   "lastOpenFiles": [
-    "Web/240313_Django02.md",
     "Web/240329_Django08.md",
+    "Web/240401_Django09.md",
+    "img/240401_4.PNG",
+    "img/240401_3.PNG",
+    "img/240401_2.PNG",
+    "img/240401_1.PNG",
+    "Web/240313_Django02.md",
     "img/240329_4.PNG",
     "img/240329_3.PNG",
     "img/240329_2.PNG",
@@ -163,10 +179,6 @@
     "Web/240312_Django01.md",
     "img/240328_2.PNG",
     "img/240328_1.PNG",
-    "img/240327_4.PNG",
-    "img/240327_3.PNG",
-    "img/240327_2.PNG",
-    "img/240327_1.PNG",
     "React/BASIC03_STATE.md",
     "README.md",
     "React/BASIC02.md",
