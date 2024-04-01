@@ -38,3 +38,8 @@ const [counter, modifier] = data;
 ```
 - `useState(초기값)` 을 하면 배열이 할당됨
 - 배열의 각 idx의 값을 다시 변수에 할당하고 싶을때 저렇게 리스트에 한번에 할 수 있다!
+```JSX
+const onClick = () => {
+	modifier(counter + 1);
+};
+```
