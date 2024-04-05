@@ -107,3 +107,22 @@ const reset = () => setMinutes(0);
 />
 ```
 - disabled 속성을 이용해 hours에 input을 못 받게 해줌
+#### flipped
+- flip button 생성
+	- `[flipped, setFlipped] = React.useState(false);`
+	- `flipped`가 True면 hours -> minutes
+	- False면 minutes -> hours
+- 삼항 연산자를 이용하여 value를 작성해준다.
+```jsx
+<label htmlFor="minutes">minutes</label>
+<input
+	value={flipped ? amount * 60 : amount}
+	id="minutes"
+	placeholder="minutes"
+	type="number"
+	onChange={onChange}
+	disabled={flipped}
+/>
+```
+- 조건 ? 조건이 True일때 실행할 연산 : else일때 실행할 연산
+- hours에도 onChange 속성 넣어주고 disabled, value에 각각 맞는 값을 넣어서 작성
