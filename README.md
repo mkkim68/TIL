@@ -47,7 +47,8 @@
 📌[https://ko.legacy.reactjs.org/docs/getting-started.html](https://ko.legacy.reactjs.org/docs/getting-started.html)
 ### ◼ BASIC
 - [THE BASICS OF REACT (2024-03-14)](./React/BASIC02.md)
-- [THE BASICS OF REACT (2024-03-25)](./React/BASIC03_STATE.md)
+- [STATE (2024-03-25)](./React/BASIC03_STATE.md)
+- [PROPS (2024-04-08)](./React/BASIC04_PROPS.md)
 ## ✔ etc
 - [CLI](./etc/CLI.md)
 - [markdown](./etc/markdown.md)
