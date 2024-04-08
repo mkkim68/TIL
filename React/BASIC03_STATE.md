@@ -126,3 +126,32 @@ const reset = () => setMinutes(0);
 ```
 - 조건 ? 조건이 True일때 실행할 연산 : else일때 실행할 연산
 - hours에도 onChange 속성 넣어주고 disabled, value에 각각 맞는 값을 넣어서 작성
+#### 함수 분리
+```jsx
+function MinutesToHours() {
+	...
+    }
+function KmToMiles() {
+  ...
+}
+function App() {
+  const [index, setIndex] = React.useState("0");
+  const onSelect = (event) => {
+	setIndex(event.target.value);
+  };
+  return (
+	<div>
+	  <h1>Super Converter</h1>
+	  <select value={index} onChange={onSelect}>
+		<option value="0">Minutes & Hours</option>
+		<option value="1">Km & Miles</option>
+	  </select>
+	  <hr />
+	  {index === "0" ? <MinutesToHours /> : null}
+	  {index === "1" ? <KmToMiles /> : null}
+	</div>
+  );
+}
+```
+- HTML의 select 요소를 만들어 각 option에 value를 주고
+- value의 값에 따라 어떤 컨버터(함수)를 렌더할 것인지 js의 if문으로 (`{}` 내에 작성) 결정
