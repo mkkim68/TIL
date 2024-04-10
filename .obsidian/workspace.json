@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/BASIC03_STATE.md",
+                "file": "Algorithm/240321_APS응용2.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dijkstr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/BASIC03_STATE.md",
+                "file": "Algorithm/240321_APS응용2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/BASIC03_STATE.md",
+                "file": "Algorithm/240321_APS응용2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/BASIC03_STATE.md"
+                "file": "Algorithm/240321_APS응용2.md"
               }
             }
           }
@@ -148,8 +149,8 @@
   },
   "active": "71f3c1aeef3a19b2",
   "lastOpenFiles": [
-    "React/BASIC02.md",
     "React/BASIC03_STATE.md",
+    "React/BASIC02.md",
     "Web/240327_Django06.md",
     "Web/240326_Django05.md",
     "Web/240325_Django04.md",
