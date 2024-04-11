@@ -1,19 +1,31 @@
 {
   "main": {
-    "id": "113a857b9ca1bc6e",
+    "id": "7f8fbcbeff118119",
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "f6786c025f791b21",
         "type": "tabs",
         "children": [
           {
             "id": "8ca4dfc5bd8e9538",
+=======
+        "id": "5f2580c92e52de97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71f3c1aeef3a19b2",
+>>>>>>> b76d8cf07a7fa1f475e7a37c3aba42f08146a442
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "React/BASIC04_PROPS.md",
+=======
+                "file": "Algorithm/240321_APS응용2.md",
+>>>>>>> b76d8cf07a7fa1f475e7a37c3aba42f08146a442
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b7b81612804eb3fb",
+    "id": "09a33029cc8de570",
     "type": "split",
     "children": [
       {
-        "id": "2728f1fc48ad2139",
+        "id": "ae071847c3968f82",
         "type": "tabs",
         "children": [
           {
-            "id": "288f358387fa7d47",
+            "id": "ba6b5e288941a55b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +55,16 @@
             }
           },
           {
-            "id": "cdb78da16439e615",
+            "id": "24bebd4468552114",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "dumpdata",
+=======
+                "query": "dijkstr",
+>>>>>>> b76d8cf07a7fa1f475e7a37c3aba42f08146a442
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,34 +74,39 @@
             }
           },
           {
-            "id": "3302878ad9b724b7",
+            "id": "175445f6f5985bd0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 200
   },
   "right": {
-    "id": "6ac8d33ac0483fb6",
+    "id": "07efb71529839d6f",
     "type": "split",
     "children": [
       {
-        "id": "ac913ea8fe6f4320",
+        "id": "a65d92f47a7765da",
         "type": "tabs",
         "children": [
           {
-            "id": "9e9f53c9b6a29c4d",
+            "id": "87b9f9e0a58b832a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "React/BASIC04_PROPS.md",
+=======
+                "file": "Algorithm/240321_APS응용2.md",
+>>>>>>> b76d8cf07a7fa1f475e7a37c3aba42f08146a442
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +118,23 @@
             }
           },
           {
-            "id": "f33b8b14c0a3541b",
+            "id": "7c948a9fc806adae",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "React/BASIC04_PROPS.md",
+=======
+                "file": "Algorithm/240321_APS응용2.md",
+>>>>>>> b76d8cf07a7fa1f475e7a37c3aba42f08146a442
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1f63745690d66bae",
+            "id": "ebca067be09dddcb",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +145,16 @@
             }
           },
           {
-            "id": "5323284b714e4669",
+            "id": "4594f308f3f4577c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "React/BASIC04_PROPS.md"
+=======
+                "file": "Algorithm/240321_APS응용2.md"
+>>>>>>> b76d8cf07a7fa1f475e7a37c3aba42f08146a442
               }
             }
           }
@@ -138,14 +167,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
+<<<<<<< HEAD
   "active": "8ca4dfc5bd8e9538",
   "lastOpenFiles": [
     "DB/240409_DB05.md",
@@ -164,15 +194,33 @@
     "img/240411_5.PNG",
     "daily/2024-04-09.md",
     "Web/240329_Django08.md",
+=======
+  "active": "71f3c1aeef3a19b2",
+  "lastOpenFiles": [
+    "img/240409_9.PNG",
+    "img/240409_8.PNG",
+    "img/240409_7.PNG",
+    "img/240409_6.PNG",
+    "img/240409_5.PNG",
+    "img/240409_4.PNG",
+    "img/240409_3.PNG",
+    "img/240409_25.PNG",
+    "img/240409_24.PNG",
+    "img/240409_23.PNG",
+    "img/240409_22.PNG",
+    "daily/2024-04-09.md",
+    "Web/240401_Django09.md",
+    "React/BASIC04_PROPS.md",
+    "DB/240409_DB05.md",
+>>>>>>> b76d8cf07a7fa1f475e7a37c3aba42f08146a442
     "DB/240408_DB04.md",
     "DB/240404_DB03_2.md",
     "DB/240403_DB03_1.md",
     "DB/240402_SQL02.md",
     "DB/240402_SQL01.md",
-    "React/BASIC02.md",
-    "README.md",
-    "React/BASIC04_PROPS.md",
+    "DB",
     "React/BASIC03_STATE.md",
+<<<<<<< HEAD
     "Algorithm/240208_Stack1.md",
     "Algorithm/240131_List2.md",
     "daily/2024-01-14.md",
@@ -184,5 +232,15 @@
     "Algorithm/240321_APS응용2.md",
     "Web/240328_Django07.md",
     "DB"
+=======
+    "React/BASIC02.md",
+    "Web/240327_Django06.md",
+    "Web/240326_Django05.md",
+    "Web/240325_Django04.md",
+    "Web/240314_Django03.md",
+    "Web/240313_Django02.md",
+    "Web/240312_Django01.md",
+    "Web/240329_Django08.md"
+>>>>>>> b76d8cf07a7fa1f475e7a37c3aba42f08146a442
   ]
 }
