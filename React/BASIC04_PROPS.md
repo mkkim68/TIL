@@ -72,3 +72,48 @@ function App() {
 }
 ```
 - style 속성 안에 연산을 넣어서 적용할 수도 있다
+# 1. Memo
+```jsx
+function Btn({ text, changeValue }) {
+  return (
+	<button
+	  onClick={changeValue}
+	  style={{
+		backgroundColor: "teal",
+		color: "white",
+		padding: "10px 20px",
+		border: 0,
+		borderRadius: 10,
+	  }}
+>
+	  {text}
+	</button>
+  );
+}
+function App() {
+  const [value, setValue] = React.useState("Save Changes");
+  const changeValue = () => setValue("Revert Changes");
+  return (
+	<div>
+	  <Btn text={value} changeValue={changeValue} />
+	  <Btn text="Confirm" />
+	</div>
+  );
+}
+```
+- 함수도 props에 넣을 수 있음
+- 하지만 component가 많아지면 모든 component를 다시 그려줘야함
+	- memo를 사용해서 component가 다시 그려질 때 우리가 컨트롤 가능함
+```jsx
+const MemorizedBtn = React.memo(Btn)
+function App() {
+  const [value, setValue] = React.useState("Save Changes");
+  const changeValue = () => setValue("Revert Changes");
+  return (
+	<div>
+	  <MemorizedBtn text={value} changeValue={changeValue} />
+	  <MemorizedBtn text="Confirm" />
+	</div>
+  );
+}
+```
