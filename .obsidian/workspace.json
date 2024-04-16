@@ -4,16 +4,32 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
+        "id": "2177b1b720dddf43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce4349f17c544333",
+=======
         "id": "f6d9e7725449884a",
         "type": "tabs",
         "children": [
           {
             "id": "a2b5924bb159eed8",
+>>>>>>> 03a36ca3de82f90c591082333e95f5195e13df8f
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "React/BASIC04_PROPS.md",
+=======
+<<<<<<< HEAD
+                "file": "daily/2024-04-09.md",
+=======
+                "file": "DB/240403_DB03_1.md",
+>>>>>>> 03a36ca3de82f90c591082333e95f5195e13df8f
+>>>>>>> e5972c3566fed508b74f78478376ac711ae44b11
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +101,15 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "React/BASIC04_PROPS.md",
+=======
+<<<<<<< HEAD
+                "file": "daily/2024-04-09.md",
+=======
+                "file": "DB/240403_DB03_1.md",
+>>>>>>> 03a36ca3de82f90c591082333e95f5195e13df8f
+>>>>>>> e5972c3566fed508b74f78478376ac711ae44b11
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,15 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "React/BASIC04_PROPS.md",
+=======
+<<<<<<< HEAD
+                "file": "daily/2024-04-09.md",
+=======
+                "file": "DB/240403_DB03_1.md",
+>>>>>>> 03a36ca3de82f90c591082333e95f5195e13df8f
+>>>>>>> e5972c3566fed508b74f78478376ac711ae44b11
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +157,15 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "React/BASIC04_PROPS.md"
+=======
+<<<<<<< HEAD
+                "file": "daily/2024-04-09.md"
+=======
+                "file": "DB/240403_DB03_1.md"
+>>>>>>> 03a36ca3de82f90c591082333e95f5195e13df8f
+>>>>>>> e5972c3566fed508b74f78478376ac711ae44b11
               }
             }
           }
@@ -146,6 +186,40 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
+  "active": "ce4349f17c544333",
+  "lastOpenFiles": [
+    "Web/240401_Django09.md",
+    "React/BASIC04_PROPS.md",
+    "React/BASIC03_STATE.md",
+    "React/BASIC02.md",
+    "Algorithm/240321_APS응용2.md",
+    "img/240409_9.PNG",
+    "img/240409_8.PNG",
+    "img/240409_7.PNG",
+    "img/240409_6.PNG",
+    "img/240409_5.PNG",
+    "img/240409_4.PNG",
+    "img/240409_3.PNG",
+    "img/240409_25.PNG",
+    "img/240409_24.PNG",
+    "img/240409_23.PNG",
+    "daily/2024-04-09.md",
+    "DB/240409_DB05.md",
+    "DB/240408_DB04.md",
+    "DB/240404_DB03_2.md",
+    "DB/240403_DB03_1.md",
+    "DB/240402_SQL02.md",
+    "DB/240402_SQL01.md",
+    "DB",
+    "Web/240327_Django06.md",
+    "Web/240326_Django05.md",
+    "Web/240325_Django04.md",
+    "Web/240314_Django03.md",
+    "Web/240313_Django02.md",
+    "Web/240312_Django01.md",
+    "Web/240329_Django08.md"
+=======
   "active": "a2b5924bb159eed8",
   "lastOpenFiles": [
     "Web/240416_JavaScript01.md",
@@ -160,5 +234,6 @@
     "PJT_ver1/240412_PJT05.md",
     "README.md",
     "Python/240125_pythonOOP2.md"
+>>>>>>> 03a36ca3de82f90c591082333e95f5195e13df8f
   ]
 }
