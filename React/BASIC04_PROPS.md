@@ -117,3 +117,22 @@ function App() {
   );
 }
 ```
+## 2. Prop Types
+```jsx
+<script src="https://unpkg.com/prop-types@15.7.2/prop-types.js"></script>
+```
+- 각 prop에 입력으로 받기 원하는 type 설정 가능
+	- react에서 error를 띄워 줌 
+```jsx
+function Btn({ text, fontSize = 14 }) {
+	...
+}
+Btn.propTypes = {
+  text: PropTypes.string.isRequired,
+  fontSize: PropTypes.number,
+};
+```
+- `PropTypes.<원하는 타입>`
+- `isRequired` : 무조건 입력해야하는 prop
+- `<prop이름> = <디폴트값>` : 필수가 아니어서 입력되지 않은 prop이면 디폴트값을 정해줄수 있다.
+	- 입력하지 않으면 디폴트값으로 설정됨
