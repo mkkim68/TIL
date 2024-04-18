@@ -37,12 +37,12 @@
 - [Tree-2 (2024-02-21)](./Algorithm/240221_Tree.md)
 ## ✔ Web
 ### ◼ Basic
-- [HTML&CSS (2024-03-06)](./Web/240306_HTML&CSS.md)
-- [Bootstrap (2024-03-08)](./Web/240308_Bootstrap.md)
-- [Responsive Web (2024-03-11)](./Web/240311_ResponsiveWeb.md)
+- [HTML&CSS (2024-03-06)](240306_HTML&CSS.md)
+- [Bootstrap (2024-03-08)](240308_Bootstrap.md)
+- [Responsive Web (2024-03-11)](240311_ResponsiveWeb.md)
 ### ◼ Django
-- [Django01-Intro & Design pattern (2024-03-12)](./Web/240312_Django01.md)
-- [Django02-Templates & URLs  (2024-03-13)](./Web/240313_Django02.md)
+- [Django01-Intro & Design pattern (2024-03-12)](240312_Django01.md)
+- [Django02-Templates & URLs  (2024-03-13)](240313_Django02.md)
 ## ✔ React JS
 📌[https://ko.legacy.reactjs.org/docs/getting-started.html](https://ko.legacy.reactjs.org/docs/getting-started.html)
 ### ◼ BASIC
