@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/BASIC04_PROPS.md",
+                "file": "JavaScript/240416_JavaScript01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4170f76bea7bbb16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/240418_JavaScript03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b14b08100acce00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/BASIC05_CREATE_REACT_APP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fixtures",
+                "query": "foreach",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,19 +171,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2b5924bb159eed8",
+  "active": "1b14b08100acce00",
   "lastOpenFiles": [
-    "Web/240416_JavaScript01.md",
-    "Web/240415_Django11.md",
+    "etc/CLI.md",
+    "JavaScript/240416_JavaScript01.md",
+    "JavaScript/240418_JavaScript03.md",
+    "JavaScript/240422_JavaScript04.md",
+    "JavaScript/240423_JavaScript05.md",
+    "img/240423_5.PNG",
+    "img/240423_4.PNG",
+    "img/240423_3.PNG",
+    "img/240423_2.PNG",
+    "img/240423_1.PNG",
+    "JavaScript/240417_JavaScript02.md",
+    "img/240422_2.PNG",
+    "img/240422_1.PNG",
+    "Algorithm/LCS.md",
     "DB/240409_DB05.md",
-    "img/240415_2.PNG",
-    "img/240415_1.PNG",
-    "DB/240403_DB03_1.md",
-    "git/240412_git_branch.md",
-    "git/git.md",
-    "git/240112_git_remote.md",
-    "PJT_ver1/240412_PJT05.md",
-    "README.md",
-    "Python/240125_pythonOOP2.md"
+    "Django/240401_Django09.md",
+    "Web/240311_ResponsiveWeb.md",
+    "Django/240329_Django08.md",
+    "DB/240404_DB03_2.md",
+    "PJT_ver1/240419_PJT06.md",
+    "React/BASIC05_CREATE_REACT_APP.md",
+    "img/240418_6.PNG",
+    "img/240418_5.PNG",
+    "img/240418_4.PNG",
+    "Algorithm/240321_APS응용2.md",
+    "Web",
+    "JavaScript"
   ]
 }
