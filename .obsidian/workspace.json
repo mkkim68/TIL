@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "JavaScript/240416_JavaScript01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4170f76bea7bbb16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/240418_JavaScript03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b14b08100acce00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "React/BASIC05_CREATE_REACT_APP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dijkst",
+                "query": "foreach",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0a3aab73db8be480",
@@ -147,20 +171,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e5353b01d0400f5",
+  "active": "1b14b08100acce00",
   "lastOpenFiles": [
+    "etc/CLI.md",
+    "JavaScript/240416_JavaScript01.md",
     "JavaScript/240418_JavaScript03.md",
+    "JavaScript/240422_JavaScript04.md",
+    "JavaScript/240423_JavaScript05.md",
+    "img/240423_5.PNG",
+    "img/240423_4.PNG",
+    "img/240423_3.PNG",
+    "img/240423_2.PNG",
+    "img/240423_1.PNG",
+    "JavaScript/240417_JavaScript02.md",
+    "img/240422_2.PNG",
+    "img/240422_1.PNG",
+    "Algorithm/LCS.md",
+    "DB/240409_DB05.md",
+    "Django/240401_Django09.md",
+    "Web/240311_ResponsiveWeb.md",
+    "Django/240329_Django08.md",
+    "DB/240404_DB03_2.md",
+    "PJT_ver1/240419_PJT06.md",
+    "React/BASIC05_CREATE_REACT_APP.md",
     "img/240418_6.PNG",
     "img/240418_5.PNG",
     "img/240418_4.PNG",
-    "img/240418_3.PNG",
-    "img/240418_2.PNG",
-    "img/240418_1.PNG",
-    "React/BASIC05_CREATE_REACT_APP.md",
     "Algorithm/240321_APS응용2.md",
-    "JavaScript/240417_JavaScript02.md",
-    "img/240417_2.PNG",
-    "img/240417_1.PNG",
     "Web",
     "JavaScript"
   ]
