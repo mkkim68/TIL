@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e5353b01d0400f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/240416_JavaScript01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4170f76bea7bbb16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/240418_JavaScript03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "541166b8ccc033c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/240422_JavaScript04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "313c48e6d467ed9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/240423_JavaScript05.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1b14b08100acce00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/240424_JavaScript06.md",
+                "file": "React/BASIC06_EFFECTS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0a3aab73db8be480",
@@ -135,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/240424_JavaScript06.md",
+                "file": "React/BASIC06_EFFECTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/240424_JavaScript06.md",
+                "file": "React/BASIC06_EFFECTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/240424_JavaScript06.md"
+                "file": "React/BASIC06_EFFECTS.md"
               }
             }
           }
@@ -198,32 +148,43 @@
   },
   "active": "1b14b08100acce00",
   "lastOpenFiles": [
-    "JavaScript/240422_JavaScript04.md",
-    "JavaScript/240423_JavaScript05.md",
+    "React/BASIC03_STATE.md",
+    "React/BASIC04_PROPS.md",
+    "React/BASIC06_EFFECTS.md",
+    "README.md",
+    "React/BASIC05_CREATE_REACT_APP.md",
+    "DB/240403_DB03_1.md",
+    "Algorithm/LCS.md",
+    "Algorithm/Prime_Number.md",
+    "Algorithm/Bellman-Ford.md",
+    "DB/240402_SQL01.md",
+    "VueJS/240425_Vue01.md",
     "JavaScript/240424_JavaScript06.md",
+    "Django/240415_Django11.md",
+    "Django/240411_Django10.md",
+    "Django/240329_Django08.md",
+    "Django/240401_Django09.md",
+    "Django/240327_Django06.md",
+    "Django/240328_Django07.md",
+    "Django/240326_Django05.md",
+    "Django/240325_Django04.md",
+    "Django/240314_Django03.md",
+    "JavaScript/240423_JavaScript05.md",
+    "JavaScript/240422_JavaScript04.md",
     "JavaScript/240418_JavaScript03.md",
+    "JavaScript/240416_JavaScript01.md",
+    "img/240425_3.PNG",
+    "img/240425_2.PNG",
+    "img/240425_1.PNG",
+    "VueJS",
     "img/240424_2.PNG",
     "img/240424_1.PNG",
     "etc/CLI.md",
-    "React/BASIC05_CREATE_REACT_APP.md",
-    "JavaScript/240416_JavaScript01.md",
     "img/240423_5.PNG",
     "img/240423_4.PNG",
     "img/240423_3.PNG",
     "img/240423_2.PNG",
     "img/240423_1.PNG",
-    "JavaScript/240417_JavaScript02.md",
-    "img/240422_2.PNG",
-    "img/240422_1.PNG",
-    "Algorithm/LCS.md",
-    "DB/240409_DB05.md",
-    "Django/240401_Django09.md",
-    "Web/240311_ResponsiveWeb.md",
-    "Django/240329_Django08.md",
-    "DB/240404_DB03_2.md",
-    "PJT_ver1/240419_PJT06.md",
-    "img/240418_6.PNG",
-    "Algorithm/240321_APS응용2.md",
     "Web",
     "JavaScript"
   ]

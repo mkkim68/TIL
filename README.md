@@ -35,20 +35,53 @@
 ### ◼ Tree
 - [Tree-1 (2024-02-20)](./Algorithm/240220_Tree.md)
 - [Tree-2 (2024-02-21)](./Algorithm/240221_Tree.md)
+### ◼ etc
+- [Brute Force](./Algorithm/Brute_Force.md)
+- [Bellman Ford](./Algorithm/Bellman-Ford.md)
+- [Counting Sort](./Algorithm/Counting_Sort.md)
+- [LCS](./Algorithm/LCS.md)
+- [Prime Number](./Algorithm/Prime_Number.md)
 ## ✔ Web
 ### ◼ Basic
 - [HTML&CSS (2024-03-06)](240306_HTML&CSS.md)
 - [Bootstrap (2024-03-08)](240308_Bootstrap.md)
 - [Responsive Web (2024-03-11)](240311_ResponsiveWeb.md)
 ### ◼ Django
-- [Django01-Intro & Design pattern (2024-03-12)](240312_Django01.md)
-- [Django02-Templates & URLs  (2024-03-13)](240313_Django02.md)
-## ✔ React JS
+- [Django01-Intro & Design pattern (2024-03-12)](./Django/240312_Django01.md)
+- [Django02-Templates & URLs  (2024-03-13)](./Django/240313_Django02.md)
+- [Django03-URLs (2024-03-14)](./Django/240314_Django03.md)
+- [Django04-ORM (2024-03-25)](./Django/240325_Django04.md)
+- [Django05-ORM with View (2024-03-26)](./Django/240326_Django05.md)
+- [Django06-Django Form (2024-03-27)](./Django/240327_Django06.md)
+- [Django07-Static Files & Media (2024-03-28)](./Django/240328_Django07.md)
+- [Django08-Cookie & Session (2024-03-29)](./Django/240329_Django08.md)
+- [Django09-Authentication System (2024-04-01)](./Django/240401_Django09.md)
+- [Django10-REST API (2024-04-11)](./Django/240411_Django10.md)
+- [Django11-REST API 2 (2024-04-15)](./Django/240415_Django11.md)
+## ✔ JavaScript
+- [JavaScript 01 (2024-04-16)](./JavaScript/240416_JavaScript01.md)
+- [JavaScript 02 (2024-04-17)](./JavaScript/240417_JavaScript02.md)
+- [JavaScript 03 (2024-04-18)](./JavaScript/240418_JavaScript03.md)
+- [JavaScript 04 (2024-04-22)](./JavaScript/240422_JavaScript04.md)
+- [JavaScript 05 (2024-04-23)](./JavaScript/240423_JavaScript05.md)
+- [JavaScript 06 (2024-04-24)](./JavaScript/240424_JavaScript06.md)
+## ✔ Vue.js
+- [Vue.js 01 (2024-04-25)](./VueJS/240425_Vue01.md)
+## ✔ React.js
 📌[https://ko.legacy.reactjs.org/docs/getting-started.html](https://ko.legacy.reactjs.org/docs/getting-started.html)
 ### ◼ BASIC
 - [THE BASICS OF REACT (2024-03-14)](./React/BASIC02.md)
 - [STATE (2024-03-25)](./React/BASIC03_STATE.md)
 - [PROPS (2024-04-08)](./React/BASIC04_PROPS.md)
+- [CREATE REACT APP (2024-04-15)](./React/BASIC05_CREATE_REACT_APP.md)
+- [EFFECTS (2024-04-25)](./React/BASIC06_EFFECTS.md)
+## ✔ DB
+- [DB 01 - SQL 01 (2024-04-02)](./DB/240402_SQL01.md)
+- [DB 02 - SQL 02 (2024-04-02)](./DB/240402_SQL02.md)
+- [DB 03-1 (2024-04-03)](./DB/240403_DB03_1.md)
+- [DB 03-2 (2024-04-04)](./DB/240404_DB03_2.md)
+- [DB 04 (2024-04-08)](./DB/240408_DB04.md)
+- [DB 05 (2024-04-09)](./DB/240409_DB05.md)
 ## ✔ etc
 - [CLI](./etc/CLI.md)
 - [markdown](./etc/markdown.md)
