@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b836e9d9e96369fb",
+        "id": "5ff7f4be7af16ee0",
         "type": "tabs",
         "children": [
           {
-            "id": "f19780ef16573b5f",
+            "id": "5ed171ed90475457",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/240328_Django07.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "is_authenti",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/240328_Django07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/240328_Django07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Web/240328_Django07.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +138,21 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a24c0f8a8ecf25ac",
+  "active": "72dbba793d58a79b",
   "lastOpenFiles": [
+    "Web/240328_Django07.md",
+    "Django/240327_Django06.md",
+    "Django/240415_Django11.md",
+    "Django/240411_Django10.md",
+    "Django/240401_Django09.md",
+    "Django/240329_Django08.md",
+    "Django/240328_Django07.md",
+    "Django/240326_Django05.md",
+    "Django/240325_Django04.md",
+    "Django/240314_Django03.md",
+    "Django/240313_Django02.md",
+    "Django/240312_Django01.md",
+    "Django",
     "Web/240326_Django05.md",
     "Web/240325_Django04.md",
     "Web/240312_Django01.md",

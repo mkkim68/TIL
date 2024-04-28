@@ -48,5 +48,17 @@ else:
 4. result의 역순이 정답
 ### 코드
 ```python
-
+result = []  
+j, i = N, M  
+while i>=0 and j>=0:  
+    if LCS[i][j] == 0:  
+        break  
+    if LCS[i][j] == LCS[i][j-1]:  
+        i, j = i, j-1  
+    elif LCS[i][j] == LCS[i-1][j]:  
+        i, j = i-1, j  
+    else:  
+        result.append(B[i-1])  
+        i, j = i-1, j-1
 ```
+- [!] 두 문자열의 길이와 인덱스를 잘 설정해야함
