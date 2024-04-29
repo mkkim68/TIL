@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/240206_String.md",
+                "file": "VueJS/240429_Vue02.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ffe14dbc5d02079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VueJS/240425_Vue01.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/240206_String.md",
+                "file": "VueJS/240429_Vue02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/240206_String.md",
+                "file": "VueJS/240429_Vue02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/240206_String.md"
+                "file": "VueJS/240429_Vue02.md"
               }
             }
           }
@@ -148,10 +160,25 @@
   },
   "active": "1b14b08100acce00",
   "lastOpenFiles": [
+    "VueJS/240425_Vue01.md",
+    "VueJS/240429_Vue02.md",
+    "img/240429_12.PNG",
+    "img/240429_11.PNG",
+    "img/240429_10.PNG",
+    "img/240429_9.PNG",
+    "img/240429_8.PNG",
+    "img/240429_7.PNG",
+    "img/240429_6.PNG",
+    "img/240429_5.PNG",
+    "img/240429_4.PNG",
+    "img/240429_3.PNG",
     "Django/240415_Django11.md",
+    "JavaScript/240424_JavaScript06.md",
+    "JavaScript/240423_JavaScript05.md",
+    "JavaScript/240422_JavaScript04.md",
+    "Algorithm/240206_String.md",
     "Django/240411_Django10.md",
     "PJT_ver1/240426_PJT07.md",
-    "img/240426_1.PNG",
     "React/BASIC05_CREATE_REACT_APP.md",
     "React/BASIC06_EFFECTS.md",
     "React/BASIC03_STATE.md",
@@ -162,28 +189,13 @@
     "Algorithm/Prime_Number.md",
     "Algorithm/Bellman-Ford.md",
     "DB/240402_SQL01.md",
-    "VueJS/240425_Vue01.md",
-    "JavaScript/240424_JavaScript06.md",
     "Django/240329_Django08.md",
     "Django/240401_Django09.md",
     "Django/240327_Django06.md",
     "Django/240328_Django07.md",
     "Django/240326_Django05.md",
     "Django/240325_Django04.md",
-    "Django/240314_Django03.md",
-    "JavaScript/240423_JavaScript05.md",
-    "JavaScript/240422_JavaScript04.md",
-    "JavaScript/240418_JavaScript03.md",
-    "img/240425_3.PNG",
-    "img/240425_2.PNG",
-    "img/240425_1.PNG",
     "VueJS",
-    "img/240424_2.PNG",
-    "img/240424_1.PNG",
-    "img/240423_5.PNG",
-    "img/240423_4.PNG",
-    "img/240423_3.PNG",
-    "img/240423_2.PNG",
     "Web",
     "JavaScript"
   ]
