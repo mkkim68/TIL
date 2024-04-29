@@ -1,16 +1,17 @@
 {
   "main": {
-    "id": "0cc56a21819d687f",
+    "id": "ee0a1fc53402ac2d",
     "type": "split",
     "children": [
       {
-        "id": "1471c742b06e77d7",
+        "id": "5ff7f4be7af16ee0",
         "type": "tabs",
         "children": [
           {
-            "id": "1b14b08100acce00",
+            "id": "5ed171ed90475457",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "VueJS/240429_Vue02.md",
@@ -29,6 +30,10 @@
                 "mode": "source",
                 "source": false
               }
+=======
+              "type": "empty",
+              "state": {}
+>>>>>>> 231ff2f69662b17d0c75ef1296bcf9cf4cd9d588
             }
           }
         ]
@@ -37,15 +42,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "49f4305c282fb230",
+    "id": "ce9c1755ea388a60",
     "type": "split",
     "children": [
       {
-        "id": "415b1d36865a1e3a",
+        "id": "50efa7d9ff7ef896",
         "type": "tabs",
         "children": [
           {
-            "id": "49766fc3d44d0274",
+            "id": "72dbba793d58a79b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,13 +60,13 @@
             }
           },
           {
-            "id": "b833a84503eaa916",
+            "id": "a24c0f8a8ecf25ac",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -70,7 +75,7 @@
             }
           },
           {
-            "id": "3c3003da570b0bcb",
+            "id": "78fdd931da9be18c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,20 +89,23 @@
     "width": 200
   },
   "right": {
-    "id": "0a3aab73db8be480",
+    "id": "c2d66fd1423946b8",
     "type": "split",
     "children": [
       {
-        "id": "2a442abbd67799d0",
+        "id": "fa13bfcbc6af20e9",
         "type": "tabs",
         "children": [
           {
-            "id": "19389b03f80b5045",
+            "id": "f98f9c0c553d2a5f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "VueJS/240429_Vue02.md",
+=======
+>>>>>>> 231ff2f69662b17d0c75ef1296bcf9cf4cd9d588
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,19 +117,22 @@
             }
           },
           {
-            "id": "be9fd1b0bd51c1b7",
+            "id": "f6ad2ee0850ca132",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "VueJS/240429_Vue02.md",
+=======
+>>>>>>> 231ff2f69662b17d0c75ef1296bcf9cf4cd9d588
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d58e9ffa576f8cae",
+            "id": "8b351795cab69898",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,13 +143,17 @@
             }
           },
           {
-            "id": "40806ff43ec6a358",
+            "id": "4a458cfbc937a165",
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {
                 "file": "VueJS/240429_Vue02.md"
               }
+=======
+              "state": {}
+>>>>>>> 231ff2f69662b17d0c75ef1296bcf9cf4cd9d588
             }
           }
         ]
@@ -150,16 +165,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "1b14b08100acce00",
+  "active": "72dbba793d58a79b",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "VueJS/240425_Vue01.md",
     "VueJS/240429_Vue02.md",
     "img/240429_12.PNG",
@@ -172,12 +188,17 @@
     "img/240429_5.PNG",
     "img/240429_4.PNG",
     "img/240429_3.PNG",
+=======
+    "Web/240328_Django07.md",
+    "Django/240327_Django06.md",
+>>>>>>> 231ff2f69662b17d0c75ef1296bcf9cf4cd9d588
     "Django/240415_Django11.md",
     "JavaScript/240424_JavaScript06.md",
     "JavaScript/240423_JavaScript05.md",
     "JavaScript/240422_JavaScript04.md",
     "Algorithm/240206_String.md",
     "Django/240411_Django10.md",
+<<<<<<< HEAD
     "PJT_ver1/240426_PJT07.md",
     "React/BASIC05_CREATE_REACT_APP.md",
     "React/BASIC06_EFFECTS.md",
@@ -190,13 +211,31 @@
     "Algorithm/Bellman-Ford.md",
     "DB/240402_SQL01.md",
     "Django/240329_Django08.md",
+=======
+>>>>>>> 231ff2f69662b17d0c75ef1296bcf9cf4cd9d588
     "Django/240401_Django09.md",
-    "Django/240327_Django06.md",
+    "Django/240329_Django08.md",
     "Django/240328_Django07.md",
     "Django/240326_Django05.md",
     "Django/240325_Django04.md",
+<<<<<<< HEAD
     "VueJS",
     "Web",
     "JavaScript"
+=======
+    "Django/240314_Django03.md",
+    "Django/240313_Django02.md",
+    "Django/240312_Django01.md",
+    "Django",
+    "Web/240326_Django05.md",
+    "Web/240325_Django04.md",
+    "Web/240312_Django01.md",
+    "Web/240313_Django02.md",
+    "DB/240402_SQL02.md",
+    "DB/240402_SQL01.md",
+    "Algorithm/240129_List1.md",
+    "Algorithm/Bellman-Ford.md",
+    "daily/2024-04-14.md"
+>>>>>>> 231ff2f69662b17d0c75ef1296bcf9cf4cd9d588
   ]
 }
