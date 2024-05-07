@@ -11,11 +11,52 @@
             "id": "2f6e3a7cf60a3347",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/240424_JavaScript06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b5ca4f91c5021b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/240423_JavaScript05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab0eaf4f147b702b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VueJS/240430_Vue03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6654fcee341e4848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VueJS/240502_Vue04.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "filter",
+                "query": "watch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "VueJS/240430_Vue03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "VueJS/240430_Vue03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "VueJS/240430_Vue03.md"
+              }
             }
           }
         ]
@@ -138,29 +184,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f6e3a7cf60a3347",
+  "active": "ab0eaf4f147b702b",
   "lastOpenFiles": [
+    "VueJS/240507_Vue05.md",
+    "img/240507_6.PNG",
+    "img/240507_5.PNG",
+    "img/240507_4.PNG",
+    "img/240507_3.PNG",
+    "img/240507_2.PNG",
+    "VueJS/240502_Vue04.md",
+    "img/240507_1.PNG",
+    "JavaScript/240416_JavaScript01.md",
+    "daily/2024-02-04.md",
+    "PJT_ver1/240503_PJT08.md",
+    "JavaScript/240423_JavaScript05.md",
+    "JavaScript/240424_JavaScript06.md",
+    "JavaScript/240422_JavaScript04.md",
+    "JavaScript/240418_JavaScript03.md",
+    "JavaScript/240417_JavaScript02.md",
+    "img/240503_12.PNG",
+    "img/240503_11.PNG",
+    "img/240503_10.PNG",
+    "img/240503_9.PNG",
+    "PJT_ver1/240426_PJT07.md",
     "Algorithm/Prefix_sum.md",
     "daily/2024-05-02.md",
     "VueJS/240430_Vue03.md",
-    "VueJS/240502_Vue04.md",
-    "img/240502_16.PNG",
-    "img/240502_15.PNG",
-    "img/240502_14.PNG",
-    "img/240502_13.PNG",
-    "img/240502_12.PNG",
-    "img/240502_11.PNG",
-    "img/240502_10.PNG",
-    "img/240502_9.PNG",
-    "img/240502_99.PNG",
-    "img/240502_8.PNG",
     "VueJS/240429_Vue02.md",
-    "JavaScript/240418_JavaScript03.md",
     "Django/240415_Django11.md",
     "Django/240313_Django02.md",
-    "JavaScript/240423_JavaScript05.md",
-    "JavaScript/240422_JavaScript04.md",
-    "JavaScript/240424_JavaScript06.md",
     "VueJS/240425_Vue01.md"
   ]
 }
