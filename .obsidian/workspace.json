@@ -11,11 +11,52 @@
             "id": "5ed171ed90475457",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/240418_JavaScript03.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abbf46fc8770fe5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/BASIC06_EFFECTS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc1c2b0113bcbfa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/BASIC06_EFFECTS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "851d7c4da120ff36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django/240415_Django11.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React/BASIC06_EFFECTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "React/BASIC06_EFFECTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React/BASIC06_EFFECTS.md"
+              }
             }
           }
         ]
@@ -138,12 +183,23 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "72dbba793d58a79b",
+  "active": "cc1c2b0113bcbfa9",
   "lastOpenFiles": [
+    "React/BASIC05_CREATE_REACT_APP.md",
+    "React/BASIC06_EFFECTS.md",
+    "JavaScript/240422_JavaScript04.md",
+    "JavaScript/240418_JavaScript03.md",
+    "JavaScript/240417_JavaScript02.md",
+    "JavaScript/240416_JavaScript01.md",
+    "Django/240411_Django10.md",
+    "Django/240415_Django11.md",
+    "JavaScript/240424_JavaScript06.md",
+    "VueJS/240425_Vue01.md",
+    "VueJS",
+    "JavaScript/240423_JavaScript05.md",
+    "JavaScript",
     "Web/240328_Django07.md",
     "Django/240327_Django06.md",
-    "Django/240415_Django11.md",
-    "Django/240411_Django10.md",
     "Django/240401_Django09.md",
     "Django/240329_Django08.md",
     "Django/240328_Django07.md",
@@ -157,10 +213,6 @@
     "Web/240325_Django04.md",
     "Web/240312_Django01.md",
     "Web/240313_Django02.md",
-    "DB/240402_SQL02.md",
-    "DB/240402_SQL01.md",
-    "Algorithm/240129_List1.md",
-    "Algorithm/Bellman-Ford.md",
-    "daily/2024-04-14.md"
+    "DB/240402_SQL02.md"
   ]
 }

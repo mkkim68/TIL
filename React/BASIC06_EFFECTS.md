@@ -58,3 +58,30 @@ function App() {
 ```
 - react가 우리에게 준 선물 
 	- 어떤 변수가 변하는 지에 따라 각각 다른 동작을 할 수 있다!!!
+# 4. Cleanup
+- useEffect를 사용할 떄 요소가 생성됐을 때, 변화했을 때 특정 함수를 실행시킬 수 있었음
+	- 특정 요소가 destroy될때도 가능하다!!
+```javascript
+import { useState, useEffect } from "react";
+
+function Hello() {
+  useEffect(() => {
+    console.log("created :)"); // 요소가 생성되었을 때
+    return () => console.log("destroyed :("); // 요소가 파괴되었을 때
+  }, []);
+  return <h1>Hello</h1>;
+}
+
+function App() {
+  const [showing, setShowing] = useState(false);
+  const onClick = () => setShowing((prev) => !prev);
+  return (
+    <div>
+      {showing ? <Hello /> : null}
+      <button onClick={onClick}>{showing ? "Hide" : "Show"}</button>
+    </div>
+  );
+}
+```
+- useEffect 내에서 실행할 함수 내에서 return `특정 함수` 를 하면 요소가 붕괴될 때 실행
+- 위의 예시처럼 `useEffect` 내에 모든 함수를 작성한다 (일반적으 함수를 따로 분리하여 정의해서 사용하지 않는다고 함)

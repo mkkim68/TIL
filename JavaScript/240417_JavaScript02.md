@@ -185,8 +185,8 @@ console.log(0 == false)  // true
 - 엄격한 비교가 이뤄지며 암묵적 타입 변환이 발생하지 않음
 - 특수한 경우를 제외하고는 동등 연산자가 아닌 *일치 연산자 사용 권장*
 ```js
-console.log('1'==1)  // false
-console.log(0 == false)  // false
+console.log('1'===1)  // false
+console.log(0 === false)  // false
 ```
 ## 논리 연산자
 - and 연산
