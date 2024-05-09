@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5aa0b61879b76ff8",
+        "id": "0ab9728f9eb9cec9",
         "type": "tabs",
         "children": [
           {
-            "id": "829c03d9ca5e3dc5",
+            "id": "0f250c163d40e7ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/240418_JavaScript03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "113dd8f7d7d27a1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VueJS/240508_Vue06.md",
+                "file": "React/BASIC07_Practice_Movie_APP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "find",
+                "query": "axios",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VueJS/240508_Vue06.md",
+                "file": "React/BASIC07_Practice_Movie_APP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VueJS/240508_Vue06.md",
+                "file": "React/BASIC07_Practice_Movie_APP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VueJS/240508_Vue06.md"
+                "file": "React/BASIC07_Practice_Movie_APP.md"
               }
             }
           }
@@ -160,24 +147,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "113dd8f7d7d27a1d",
+  "active": "0f250c163d40e7ce",
   "lastOpenFiles": [
-    "VueJS/240507_Vue05.md",
-    "JavaScript/240418_JavaScript03.md",
+    "JavaScript/240424_JavaScript06.md",
+    "VueJS/240509_Vue07.md",
     "VueJS/240508_Vue06.md",
-    "daily/2024-01-18.md",
-    "img/240508_20.PNG",
-    "img/240508_19.PNG",
-    "img/240508_18.PNG",
-    "img/240508_17.PNG",
-    "img/240508_16.PNG",
-    "img/240508_15.PNG",
-    "img/240508_14.PNG",
-    "img/240508_13.PNG",
-    "img/240508_12.PNG",
-    "img/240508_11.PNG",
-    "VueJS/240425_Vue01.md",
+    "JavaScript/240423_JavaScript05.md",
+    "JavaScript/240418_JavaScript03.md",
+    "img/240509_10.PNG",
+    "img/240509_9.PNG",
     "React/BASIC07_Practice_Movie_APP.md",
+    "img/240509_8.PNG",
+    "img/240509_7.PNG",
+    "img/240509_6.PNG",
+    "img/240509_5.PNG",
+    "img/240509_4.PNG",
+    "img/240509_3.PNG",
+    "img/240509_2.PNG",
+    "img/240509_1.PNG",
+    "VueJS/240507_Vue05.md",
+    "daily/2024-01-18.md",
+    "VueJS/240425_Vue01.md",
     "React/BASIC06_EFFECTS.md"
   ]
 }
