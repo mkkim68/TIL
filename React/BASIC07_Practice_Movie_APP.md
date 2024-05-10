@@ -9,3 +9,42 @@
 	))}
   </ul>
 ```
+- React.js 는 element에 key 값을 줘야 함
+# 2. Coin Tracker
+```js
+import { useEffect, useState } from "react";
+
+function App() {
+  const [loading, setLoading] = useState(true);
+  const [coins, setCoins] = useState([]);
+  useEffect(() => {
+    fetch("https://api.coinpaprika.com/v1/tickers")
+      .then((response) => response.json())
+      .then((json) => {
+        setCoins(json);
+        setLoading(false);
+      });
+  }, []);
+  return (
+    <div>
+      <h1>The Coins! {loading ? "" : `(${coins.length})`}</h1>
+      {loading ? (
+        <strong>Loading...</strong>
+      ) : (
+        <select>
+          {coins.map((coin) => (
+            <option>
+              {coin.name} ({coin.symbol}): ${coin.quotes.USD.price}
+            </option>
+          ))}
+        </select>
+      )}
+    </div>
+  );
+}
+
+
+export default App;
+```
+- coins API를 이용해 select 만들기
+- API를 받아오는 동안 Loading... 메시지가 뜨고 API를 다 받아오면 select 태그가 뜨도록 함

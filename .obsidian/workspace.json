@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "axios",
+                "query": "update",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,14 +149,14 @@
   },
   "active": "0f250c163d40e7ce",
   "lastOpenFiles": [
-    "JavaScript/240424_JavaScript06.md",
     "VueJS/240509_Vue07.md",
     "VueJS/240508_Vue06.md",
+    "JavaScript/240424_JavaScript06.md",
     "JavaScript/240423_JavaScript05.md",
+    "React/BASIC07_Practice_Movie_APP.md",
     "JavaScript/240418_JavaScript03.md",
     "img/240509_10.PNG",
     "img/240509_9.PNG",
-    "React/BASIC07_Practice_Movie_APP.md",
     "img/240509_8.PNG",
     "img/240509_7.PNG",
     "img/240509_6.PNG",
