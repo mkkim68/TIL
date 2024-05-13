@@ -48,3 +48,52 @@ export default App;
 ```
 - coins API를 이용해 select 만들기
 - API를 받아오는 동안 Loading... 메시지가 뜨고 API를 다 받아오면 select 태그가 뜨도록 함
+# 3-4. Movie App
+- [https://yts.mx/api/v2/list_movies.json?minimum_rating=9&sort_by=year](https://yts.mx/api/v2/list_movies.json?minimum_rating=9&sort_by=year)
+- movie API 사용
+```js
+import { useEffect, useState } from "react";
+
+function App() {
+  const [loading, setLoading] = useState(true);
+  const [movies, setMovies] = useState([]);
+  const getMovies = async () => {
+    const json = await (
+      await fetch(
+        `https://yts.mx/api/v2/list_movies.json?minimum_rating=9&sort_by=year`
+      )
+    ).json();
+    setMovies(json.data.movies);
+    setLoading(false);
+  };
+  useEffect(() => {
+    getMovies();
+  }, []);
+  console.log(movies);
+  return (
+    <div>
+      {loading ? (
+        <h1>Loading...</h1>
+      ) : (
+        <div>
+          {movies.map((movie) => (
+            <div key={movie.id}>
+              <img src={movie.medium_cover_image} />
+              <h2>{movie.title}</h2>
+              <p>{movie.summary}</p>
+              <ul>
+                {movie.genres.map((g) => (
+                  <li key={g}>{g}</li>
+                ))}
+              </ul>
+              <hr />
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
+```
+- 전에 배운 것이랑 같음
+	- *key값 필수 조심*
