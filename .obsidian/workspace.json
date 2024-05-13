@@ -1,67 +1,19 @@
 {
   "main": {
-    "id": "206a5deaf2c2fa52",
+    "id": "aecd087d885c7271",
     "type": "split",
     "children": [
       {
-        "id": "0ab9728f9eb9cec9",
+        "id": "20577f4eff14cd54",
         "type": "tabs",
         "children": [
           {
-            "id": "0f250c163d40e7ce",
+            "id": "2d164f89a63b8511",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VueJS/240502_Vue04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd69e16e7b076036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Django/240411_Django10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8d6fa8e6652cc15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/240422_JavaScript04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1390746934b2537b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/240417_JavaScript02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0bcfc4d3ce2ab356",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/240418_JavaScript03.md",
+                "file": "React/BASIC07_Practice_Movie_APP.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "906bf037f8870a9e",
+    "id": "25706670ca1a5e0f",
     "type": "split",
     "children": [
       {
-        "id": "cf32f8eb100f9a5a",
+        "id": "6a4d4c4ab9a066ea",
         "type": "tabs",
         "children": [
           {
-            "id": "a205587ad021bc96",
+            "id": "0ce92c1207d28684",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -91,12 +43,12 @@
             }
           },
           {
-            "id": "3dbe02e92bd3f98c",
+            "id": "1c8a673b8b785746",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "fixtures",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +58,7 @@
             }
           },
           {
-            "id": "7836e749af2cb777",
+            "id": "17dd245b6dcc60f5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -120,20 +72,20 @@
     "width": 200
   },
   "right": {
-    "id": "19ff07be22e323b9",
+    "id": "5b1f58d4dc998ac2",
     "type": "split",
     "children": [
       {
-        "id": "9089f5028861e50e",
+        "id": "52dc0314dde3101c",
         "type": "tabs",
         "children": [
           {
-            "id": "b1d9d149045e7e3c",
+            "id": "020e3358e9385809",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VueJS/240502_Vue04.md",
+                "file": "React/BASIC07_Practice_Movie_APP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,19 +97,19 @@
             }
           },
           {
-            "id": "f8a4291dc74c85a4",
+            "id": "32aa80ac25cc24c9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VueJS/240502_Vue04.md",
+                "file": "React/BASIC07_Practice_Movie_APP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c090b29235749484",
+            "id": "38802352edeb0ead",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -168,17 +120,16 @@
             }
           },
           {
-            "id": "0c4e96e554eccfdb",
+            "id": "084586e96f6e70ea",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "VueJS/240502_Vue04.md"
+                "file": "React/BASIC07_Practice_Movie_APP.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,61 +146,8 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0f250c163d40e7ce",
+  "active": "2d164f89a63b8511",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "VueJS/240430_Vue03.md",
-    "VueJS/240507_Vue05.md",
-    "VueJS/240502_Vue04.md",
-    "VueJS/240429_Vue02.md",
-    "VueJS/240425_Vue01.md",
-    "React/BASIC07_Practice_Movie_APP.md",
-    "VueJS/240509_Vue07.md",
-    "VueJS/240508_Vue06.md",
-    "JavaScript/240424_JavaScript06.md",
-    "JavaScript/240423_JavaScript05.md",
-    "JavaScript/240418_JavaScript03.md",
-    "img/240509_10.PNG",
-    "img/240509_9.PNG",
-    "img/240509_8.PNG",
-    "img/240509_7.PNG",
-    "img/240509_6.PNG",
-    "img/240509_5.PNG",
-    "img/240509_4.PNG",
-    "img/240509_3.PNG",
-    "img/240509_2.PNG",
-    "img/240509_1.PNG",
-=======
-    "DB/240409_DB05.md",
-    "VueJS/240513_Vue08.md",
-    "Django/240411_Django10.md",
-    "Django/240415_Django11.md",
-    "Django/240329_Django08.md",
-    "Django/240327_Django06.md",
-    "Django/240326_Django05.md",
-    "PJT_ver1/240426_PJT07.md",
-    "DB/240403_DB03_1.md",
-    "VueJS/240508_Vue06.md",
-    "VueJS/240509_Vue07.md",
-    "JavaScript/240418_JavaScript03.md",
-    "JavaScript/240417_JavaScript02.md",
-    "JavaScript/240422_JavaScript04.md",
-    "JavaScript/240424_JavaScript06.md",
-    "img/240513_13.PNG",
-    "img/240513_12.PNG",
-    "img/240513_11.PNG",
-    "img/240513_10.PNG",
-    "img/240513_9.PNG",
-    "img/240513_8.PNG",
-    "img/240513_7.PNG",
-    "img/240513_6.PNG",
-    "img/240513_5.PNG",
-    "img/240513_4.PNG",
-    "React/BASIC07_Practice_Movie_APP.md",
-    "JavaScript/240423_JavaScript05.md",
-    "VueJS/240507_Vue05.md",
->>>>>>> 8808eec3f4a2bbc333fa6a3868a6236d42cd9452
-    "daily/2024-01-18.md",
-    "React/BASIC06_EFFECTS.md"
+    "VueJS/240513_Vue08.md"
   ]
 }

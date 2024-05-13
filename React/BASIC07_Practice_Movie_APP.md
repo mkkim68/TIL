@@ -97,3 +97,92 @@ function App() {
 ```
 - 전에 배운 것이랑 같음
 	- *key값 필수 조심*
+## 파일 분리
+- `src`내에 `routes, components` 폴더 생성 (vue와 비슷한 흐름름)
+	- routes : 각각 다른 url 경로마다 보여줄 파일
+	- components : 요소
+### routes/Home.js
+- Movie List
+```js
+import { useEffect, useState } from "react";
+import Movie from "./components/Movie";
+
+function Home() {
+  const [loading, setLoading] = useState(true);
+  const [movies, setMovies] = useState([]);
+  const getMovies = async () => {
+    const json = await (
+      await fetch(
+        `https://yts.mx/api/v2/list_movies.json?minimum_rating=9&sort_by=year`
+      )
+    ).json();
+    setMovies(json.data.movies);
+    setLoading(false);
+  };
+  useEffect(() => {
+    getMovies();
+  }, []);
+  console.log(movies);
+  return (
+    <div>
+      {loading ? (
+        <h1>Loading...</h1>
+      ) : (
+        <div>
+          {movies.map((movie) => (
+            <Movie
+              key={movie.id}
+              coverImg={movie.medium_cover_image}
+              title={movie.title}
+              summary={movie.summary}
+              genres={movie.genres}
+            />
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
+
+export default Home;
+```
+### routes/Detail.js
+- Movie Detail
+```js
+function Detail() {
+  return <h1>Detail</h1>;
+}
+
+export default Detail;
+```
+### components/Movie.js
+- Movie List의 각 Item 요소
+- Props 사
+```js
+import PropTypes from "prop-types";
+
+function Movie({ coverImg, title, summary, genres }) {
+  return (
+    <div>
+      <img src={coverImg} alt={title} />
+      <h2>{title}</h2>
+      <p>{summary}</p>
+      <ul>
+        {genres.map((g) => (
+          <li key={g}>{g}</li>
+        ))}
+      </ul>
+      <hr />
+    </div>
+  );
+}
+
+Movie.propTypes = {
+  coverImg: PropTypes.string.isRequired,
+  title: PropTypes.string.isRequired,
+  summary: PropTypes.string.isRequired,
+  genres: PropTypes.arrayOf(PropTypes.string),
+};
+
+export default Movie;
+```
