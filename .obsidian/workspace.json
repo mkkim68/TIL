@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/BASIC07_Practice_Movie_APP.md",
+                "file": "VueJS/240502_Vue04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/BASIC07_Practice_Movie_APP.md",
+                "file": "VueJS/240502_Vue04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/BASIC07_Practice_Movie_APP.md",
+                "file": "VueJS/240502_Vue04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/BASIC07_Practice_Movie_APP.md"
+                "file": "VueJS/240502_Vue04.md"
               }
             }
           }
@@ -139,21 +139,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
   "active": "0f250c163d40e7ce",
   "lastOpenFiles": [
+    "VueJS/240430_Vue03.md",
+    "VueJS/240507_Vue05.md",
+    "VueJS/240502_Vue04.md",
+    "VueJS/240429_Vue02.md",
+    "VueJS/240425_Vue01.md",
+    "React/BASIC07_Practice_Movie_APP.md",
     "VueJS/240509_Vue07.md",
     "VueJS/240508_Vue06.md",
     "JavaScript/240424_JavaScript06.md",
     "JavaScript/240423_JavaScript05.md",
-    "React/BASIC07_Practice_Movie_APP.md",
     "JavaScript/240418_JavaScript03.md",
     "img/240509_10.PNG",
     "img/240509_9.PNG",
@@ -165,9 +170,7 @@
     "img/240509_3.PNG",
     "img/240509_2.PNG",
     "img/240509_1.PNG",
-    "VueJS/240507_Vue05.md",
     "daily/2024-01-18.md",
-    "VueJS/240425_Vue01.md",
     "React/BASIC06_EFFECTS.md"
   ]
 }
