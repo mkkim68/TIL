@@ -13,7 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/BASIC07_Practice_Movie_APP.md",
+                "file": "DB/240409_DB05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd69e16e7b076036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django/240411_Django10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8d6fa8e6652cc15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/240422_JavaScript04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1390746934b2537b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/240417_JavaScript02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bcfc4d3ce2ab356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/240418_JavaScript03.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "update",
+                "query": "fixtures",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +113,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/BASIC07_Practice_Movie_APP.md",
+                "file": "DB/240409_DB05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/BASIC07_Practice_Movie_APP.md",
+                "file": "DB/240409_DB05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/BASIC07_Practice_Movie_APP.md"
+                "file": "DB/240409_DB05.md"
               }
             }
           }
@@ -149,22 +198,32 @@
   },
   "active": "0f250c163d40e7ce",
   "lastOpenFiles": [
-    "VueJS/240509_Vue07.md",
+    "VueJS/240513_Vue08.md",
+    "Django/240411_Django10.md",
+    "Django/240415_Django11.md",
+    "Django/240329_Django08.md",
+    "Django/240327_Django06.md",
+    "Django/240326_Django05.md",
+    "PJT_ver1/240426_PJT07.md",
+    "DB/240403_DB03_1.md",
     "VueJS/240508_Vue06.md",
-    "JavaScript/240424_JavaScript06.md",
-    "JavaScript/240423_JavaScript05.md",
-    "React/BASIC07_Practice_Movie_APP.md",
+    "VueJS/240509_Vue07.md",
     "JavaScript/240418_JavaScript03.md",
-    "img/240509_10.PNG",
-    "img/240509_9.PNG",
-    "img/240509_8.PNG",
-    "img/240509_7.PNG",
-    "img/240509_6.PNG",
-    "img/240509_5.PNG",
-    "img/240509_4.PNG",
-    "img/240509_3.PNG",
-    "img/240509_2.PNG",
-    "img/240509_1.PNG",
+    "JavaScript/240417_JavaScript02.md",
+    "JavaScript/240422_JavaScript04.md",
+    "JavaScript/240424_JavaScript06.md",
+    "img/240513_13.PNG",
+    "img/240513_12.PNG",
+    "img/240513_11.PNG",
+    "img/240513_10.PNG",
+    "img/240513_9.PNG",
+    "img/240513_8.PNG",
+    "img/240513_7.PNG",
+    "img/240513_6.PNG",
+    "img/240513_5.PNG",
+    "img/240513_4.PNG",
+    "React/BASIC07_Practice_Movie_APP.md",
+    "JavaScript/240423_JavaScript05.md",
     "VueJS/240507_Vue05.md",
     "daily/2024-01-18.md",
     "VueJS/240425_Vue01.md",
