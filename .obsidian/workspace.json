@@ -1,19 +1,67 @@
 {
   "main": {
-    "id": "aecd087d885c7271",
+    "id": "206a5deaf2c2fa52",
     "type": "split",
     "children": [
       {
-        "id": "20577f4eff14cd54",
+        "id": "0ab9728f9eb9cec9",
         "type": "tabs",
         "children": [
           {
-            "id": "2d164f89a63b8511",
+            "id": "0f250c163d40e7ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VueJS/240514_Vue09.md",
+                "file": "React/BASIC07_Practice_Movie_APP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd69e16e7b076036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Django/240411_Django10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8d6fa8e6652cc15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/240422_JavaScript04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1390746934b2537b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/240417_JavaScript02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bcfc4d3ce2ab356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/240418_JavaScript03.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +73,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "25706670ca1a5e0f",
+    "id": "906bf037f8870a9e",
     "type": "split",
     "children": [
       {
-        "id": "6a4d4c4ab9a066ea",
+        "id": "cf32f8eb100f9a5a",
         "type": "tabs",
         "children": [
           {
-            "id": "0ce92c1207d28684",
+            "id": "a205587ad021bc96",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +91,12 @@
             }
           },
           {
-            "id": "1c8a673b8b785746",
+            "id": "3dbe02e92bd3f98c",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fixtures",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +106,7 @@
             }
           },
           {
-            "id": "17dd245b6dcc60f5",
+            "id": "7836e749af2cb777",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +120,20 @@
     "width": 200
   },
   "right": {
-    "id": "5b1f58d4dc998ac2",
+    "id": "19ff07be22e323b9",
     "type": "split",
     "children": [
       {
-        "id": "52dc0314dde3101c",
+        "id": "9089f5028861e50e",
         "type": "tabs",
         "children": [
           {
-            "id": "020e3358e9385809",
+            "id": "b1d9d149045e7e3c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VueJS/240514_Vue09.md",
+                "file": "React/BASIC07_Practice_Movie_APP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +145,19 @@
             }
           },
           {
-            "id": "32aa80ac25cc24c9",
+            "id": "f8a4291dc74c85a4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VueJS/240514_Vue09.md",
+                "file": "React/BASIC07_Practice_Movie_APP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "38802352edeb0ead",
+            "id": "c090b29235749484",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,16 +168,17 @@
             }
           },
           {
-            "id": "084586e96f6e70ea",
+            "id": "0c4e96e554eccfdb",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "VueJS/240514_Vue09.md"
+                "file": "React/BASIC07_Practice_Movie_APP.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,17 +187,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "2d164f89a63b8511",
+  "active": "0f250c163d40e7ce",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "VueJS/240514_Vue09.md",
     "img/240514_17.PNG",
     "img/240514_16.PNG",
     "img/240514_15.PNG",
@@ -159,9 +208,7 @@
     "img/240514_10.PNG",
     "img/240514_9.PNG",
     "img/240514_8.PNG",
-    "img/240514_7.PNG",
     "React/BASIC07_Practice_Movie_APP.md",
-    "VueJS/240514_Vue09.md",
     "DB/240409_DB05.md",
     "VueJS/240513_Vue08.md",
     "Django/240411_Django10.md",
@@ -182,8 +229,5 @@
     "daily/2024-01-18.md",
     "VueJS/240425_Vue01.md",
     "React/BASIC06_EFFECTS.md"
-=======
-    "VueJS/240513_Vue08.md"
->>>>>>> 228f95dbaf72ac7dfd2fa8be27f09752b8105ca2
   ]
 }

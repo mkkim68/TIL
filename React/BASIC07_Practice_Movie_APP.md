@@ -157,7 +157,7 @@ export default Detail;
 ```
 ### components/Movie.js
 - Movie List의 각 Item 요소
-- Props 사
+- Props 사용
 ```js
 import PropTypes from "prop-types";
 
@@ -186,3 +186,39 @@ Movie.propTypes = {
 
 export default Movie;
 ```
+# 5. Router
+```
+npm i react-router-dom@latest
+```
+- 강의에서는 5.3.0 버전으로 다운받으라고 했는데 현재 react 버전과 충돌
+	- 그래서 가장 최신 버전으로 받음
+	- 강의에서 (버전 5에서) `Switch` → 최신 버전(6.23.0)에서 `Routes`
+	- `Route` 컴포넌트 사이에 자식 컴포넌트를 넣는 방식이 아닌 element prop에 자식 컴포넌트를 할당하도록 변경됨 
+	- `<Route path='경로' element={<컴포넌트 />} />`
+```js
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Home from "./routes/Home";
+import Detail from "./routes/Detail";
+function App() {
+  return (
+    <Router>
+      <Routes>
+        <Route path="/movie" element={<Detail />} />
+        <Route path="/" element={<Home />} />
+      </Routes>
+    </Router>
+  );
+}
+
+export default App;
+```
+### `BrowserRouter`
+- Router 사용 시 가장 바깥쪽
+### `Routes`
+- Route 들을 묶는 태그
+### `Route`
+- 실제 경로를 적고 그 경로에서 띄우고 싶은 요소들을 정의해줌
+	- `path` : 경로 작성 (string)
+	- `element` : 컴포넌트나 html 요소들
+### BrowserRouter와 HashRouter 차이
+- hashrouter는 url 뒤에 \#을 붙임
