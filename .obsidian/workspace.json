@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/BASIC07_Practice_Movie_APP.md",
+                "file": "VueJS/240514_Vue09.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/BASIC07_Practice_Movie_APP.md",
+                "file": "VueJS/240514_Vue09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/BASIC07_Practice_Movie_APP.md",
+                "file": "VueJS/240514_Vue09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/BASIC07_Practice_Movie_APP.md"
+                "file": "VueJS/240514_Vue09.md"
               }
             }
           }
@@ -197,6 +197,19 @@
   },
   "active": "0f250c163d40e7ce",
   "lastOpenFiles": [
+    "img/240514_17.PNG",
+    "img/240514_16.PNG",
+    "img/240514_15.PNG",
+    "img/240514_14.PNG",
+    "img/240514_13.PNG",
+    "img/240514_12.PNG",
+    "img/240514_11.PNG",
+    "img/240514_10.PNG",
+    "img/240514_9.PNG",
+    "img/240514_8.PNG",
+    "img/240514_7.PNG",
+    "React/BASIC07_Practice_Movie_APP.md",
+    "VueJS/240514_Vue09.md",
     "DB/240409_DB05.md",
     "VueJS/240513_Vue08.md",
     "Django/240411_Django10.md",
@@ -212,17 +225,6 @@
     "JavaScript/240417_JavaScript02.md",
     "JavaScript/240422_JavaScript04.md",
     "JavaScript/240424_JavaScript06.md",
-    "img/240513_13.PNG",
-    "img/240513_12.PNG",
-    "img/240513_11.PNG",
-    "img/240513_10.PNG",
-    "img/240513_9.PNG",
-    "img/240513_8.PNG",
-    "img/240513_7.PNG",
-    "img/240513_6.PNG",
-    "img/240513_5.PNG",
-    "img/240513_4.PNG",
-    "React/BASIC07_Practice_Movie_APP.md",
     "JavaScript/240423_JavaScript05.md",
     "VueJS/240507_Vue05.md",
     "daily/2024-01-18.md",
