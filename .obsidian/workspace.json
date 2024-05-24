@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/240415_Django11.md",
+                "file": "JavaScript/240416_JavaScript01.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "comment_set",
+                "query": "setattri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/240415_Django11.md",
+                "file": "JavaScript/240416_JavaScript01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/240415_Django11.md",
+                "file": "JavaScript/240416_JavaScript01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/240415_Django11.md"
+                "file": "JavaScript/240416_JavaScript01.md"
               }
             }
           }
@@ -223,8 +223,11 @@
   },
   "active": "0fd21066c3413d1b",
   "lastOpenFiles": [
-    "DB/240408_DB04.md",
+    "DB/240402_SQL01.md",
+    "DB/240402_SQL02.md",
     "DB/240409_DB05.md",
+    "Django/240415_Django11.md",
+    "DB/240408_DB04.md",
     "JavaScript/240424_JavaScript06.md",
     "VueJS/240508_Vue06.md",
     "daily/2024-01-21.md",
@@ -233,7 +236,6 @@
     "VueJS/240514_Vue09.md",
     "VueJS/240513_Vue08.md",
     "VueJS/240507_Vue05.md",
-    "Django/240415_Django11.md",
     "Django/240411_Django10.md",
     "Django/240401_Django09.md",
     "JavaScript/240417_JavaScript02.md",
@@ -244,8 +246,6 @@
     "git/240412_git_branch.md",
     "git/240112_git_remote.md",
     "git/240111_git기초.md",
-    "DB/240402_SQL02.md",
-    "DB/240402_SQL01.md",
     "JavaScript/240422_JavaScript04.md",
     "Django/240329_Django08.md",
     "Django/240328_Django07.md",
