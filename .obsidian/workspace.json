@@ -4,70 +4,99 @@
     "type": "split",
     "children": [
       {
-        "id": "0ab9728f9eb9cec9",
+        "id": "4c1e7a7e2291a18f",
         "type": "tabs",
         "children": [
           {
-            "id": "0f250c163d40e7ce",
+            "id": "ac6a639800b67f93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "VueJS/240425_Vue01.md",
+=======
+                "file": "DB/240408_DB04.md",
+>>>>>>> cdc5795b11e28ea6d8493dff923262d188e3d671
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cd69e16e7b076036",
+            "id": "af23052fead4c3d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/240411_Django10.md",
+                "file": "VueJS/240514_Vue09.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b8d6fa8e6652cc15",
+            "id": "cda73a3074a48946",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/240422_JavaScript04.md",
+                "file": "JavaScript/240424_JavaScript06.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1390746934b2537b",
+            "id": "2117af597d998af2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/240417_JavaScript02.md",
+                "file": "Django/240401_Django09.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0bcfc4d3ce2ab356",
+            "id": "0fe04821647f6810",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/240418_JavaScript03.md",
+                "file": "Django/240415_Django11.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6962704ba8d990e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VueJS/240508_Vue06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fd21066c3413d1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/240416_JavaScript01.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -96,7 +125,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "before",
+=======
+                "query": "setattri",
+>>>>>>> cdc5795b11e28ea6d8493dff923262d188e3d671
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,7 +146,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -133,7 +167,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "VueJS/240425_Vue01.md",
+=======
+                "file": "JavaScript/240416_JavaScript01.md",
+>>>>>>> cdc5795b11e28ea6d8493dff923262d188e3d671
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +188,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "VueJS/240425_Vue01.md",
+=======
+                "file": "JavaScript/240416_JavaScript01.md",
+>>>>>>> cdc5795b11e28ea6d8493dff923262d188e3d671
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +215,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "VueJS/240425_Vue01.md"
+=======
+                "file": "JavaScript/240416_JavaScript01.md"
+>>>>>>> cdc5795b11e28ea6d8493dff923262d188e3d671
               }
             }
           }
@@ -195,8 +241,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0f250c163d40e7ce",
+  "active": "0fd21066c3413d1b",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "VueJS/240508_Vue06.md",
     "VueJS/240509_Vue07.md",
     "VueJS/240507_Vue05.md",
@@ -219,6 +266,34 @@
     "DB/240402_SQL01.md",
     "DB/240403_DB03_1.md",
     "React/BASIC07_Practice_Movie_APP.md",
+=======
+    "DB/240402_SQL01.md",
+    "DB/240402_SQL02.md",
+    "DB/240409_DB05.md",
+    "Django/240415_Django11.md",
+    "DB/240408_DB04.md",
+    "JavaScript/240424_JavaScript06.md",
+    "VueJS/240508_Vue06.md",
+    "daily/2024-01-21.md",
+    "VueJS/240509_Vue07.md",
+    "JavaScript/240416_JavaScript01.md",
+    "VueJS/240514_Vue09.md",
+    "VueJS/240513_Vue08.md",
+    "VueJS/240507_Vue05.md",
+    "Django/240411_Django10.md",
+    "Django/240401_Django09.md",
+    "JavaScript/240417_JavaScript02.md",
+    "JavaScript/240418_JavaScript03.md",
+    "PJT_ver1/240426_PJT07.md",
+    "DB/240403_DB03_1.md",
+    "DB/240404_DB03_2.md",
+    "git/240412_git_branch.md",
+    "git/240112_git_remote.md",
+    "git/240111_git기초.md",
+    "JavaScript/240422_JavaScript04.md",
+    "Django/240329_Django08.md",
+    "Django/240328_Django07.md",
+>>>>>>> cdc5795b11e28ea6d8493dff923262d188e3d671
     "img/240514_17.PNG",
     "img/240514_16.PNG",
     "img/240514_15.PNG",
@@ -228,10 +303,14 @@
     "img/240514_11.PNG",
     "img/240514_10.PNG",
     "img/240514_9.PNG",
+<<<<<<< HEAD
     "img/240514_8.PNG",
     "DB/240409_DB05.md",
     "Django/240326_Django05.md",
     "PJT_ver1/240426_PJT07.md",
     "JavaScript/240417_JavaScript02.md"
+=======
+    "img/240514_8.PNG"
+>>>>>>> cdc5795b11e28ea6d8493dff923262d188e3d671
   ]
 }
