@@ -222,3 +222,51 @@ export default App;
 	- `element` : 컴포넌트나 html 요소들
 ### BrowserRouter와 HashRouter 차이
 - hashrouter는 url 뒤에 \#을 붙임
+# 6. Parameters
+- `:변수이름` 방식으로 parameter 지정
+- parameter이름을 각 components에 지정
+## parameter 받아오기
+```js
+import { useParams } from "react-router-dom"
+```
+- useParams 불러오기
+```js
+const x = useParams();
+console.log(x);
+```
+- parameter로 보낸 변수가 있는 Object가 출력
+- ES6 이용해서 변수를 바로 가져와서 사용 가능
+# 7. Publishing
+### 준비
+```
+npm i gh-pages
+```
+- gh-pages : 결과물을 github pages에 업로드 할 수 있게 해주는 패키지
+	- github pages: github에서 제공하는 무료 서비스
+```
+npm run build
+```
+- 이 script를 실행하면 웹사이트의 production ready code를 생성함
+	- browser가 이해할 수 있는 형태로 `build` 폴더 및 파일들 생성
+### homepage 추가
+```json
+{
+	...,
+	"homepage": "https://{github계정이름}.github.io/{현재 project 코드가 있는 레포지토리 이}"
+}
+```
+- package.json에 추가
+### deploy 추가
+- deploy: 설치한 gh-pages 실행, `build`라는 디렉토리 가져감
+- package.json의 scripts에 추가
+```json
+  "scripts": {
+	  ...,
+	"deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
+  },
+```
+- `npm run deploy`를 실행시키면 predeploy가 먼저 실행된 후 deploy 실행
+- 그 다음 홈페이지 링크 들어가면 됩니다요
+# 참고
+- breaking change: 버전이 업그레이드드 되면서 깨진 코드를 수정하는 것
