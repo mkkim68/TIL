@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "f5828c176a572171",
+    "id": "0386384fd8188760",
     "type": "split",
     "children": [
       {
-        "id": "e76be365133e29a6",
+        "id": "42494ecc3f764a31",
         "type": "tabs",
         "children": [
           {
-            "id": "4deaf2396543578a",
+            "id": "455f3b763b6443b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/MASTER02_typescript.md",
+                "file": "Algorithm/Bit-Mask.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "42e0d620d3fb2582",
+    "id": "b874af830678d146",
     "type": "split",
     "children": [
       {
-        "id": "aa9c779f2f0437c7",
+        "id": "73e9ffb9a180e8a3",
         "type": "tabs",
         "children": [
           {
-            "id": "15624e5853f25827",
+            "id": "2c04e414b9edb7b8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "1868e6dec5ca3ef9",
+            "id": "2c3f57e6bfe3a69d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "parent",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "92d63e74fe5f8b00",
+            "id": "e81657784be3d4e3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "c2119906e928d248",
+    "id": "858554dc20bff926",
     "type": "split",
     "children": [
       {
-        "id": "13b5f6f8762e6391",
+        "id": "3b4e2e6f331816be",
         "type": "tabs",
         "children": [
           {
-            "id": "ec0905bf6913a009",
+            "id": "b73e9a684309b962",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/MASTER02_typescript.md",
+                "file": "Algorithm/Bit-Mask.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +98,19 @@
             }
           },
           {
-            "id": "c5651c4798b1e1d9",
+            "id": "da9046ff594c0a93",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/MASTER02_typescript.md",
+                "file": "Algorithm/Bit-Mask.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "19c50d830c8deaf1",
+            "id": "28d0de6f4575a617",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +121,16 @@
             }
           },
           {
-            "id": "6a1dfb876096241f",
+            "id": "3b778e8e684934f0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/MASTER02_typescript.md"
+                "file": "Algorithm/Bit-Mask.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,41 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4deaf2396543578a",
+  "active": "455f3b763b6443b3",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "React/BASIC07_Practice_Movie_APP.md",
-    "React/BASIC06_EFFECTS.md",
-    "React/BASIC05_CREATE_REACT_APP.md",
-    "React/BASIC04_PROPS.md",
-    "React/BASIC03_STATE.md",
-    "React/MASTER01_styled_components.md",
-=======
-    "React/MASTER01_styled_components.md",
-    "React/MASTER02_typescript.md",
-    "Algorithm/240319_APS응용2.md",
-    "VueJS/240508_Vue06.md",
-    "Algorithm/240220_Tree.md",
-    "Algorithm/240213_Stack2.md",
->>>>>>> 926bda262a6f0483b4108c59ab0bbef31b8f836d
-    "Cloud/240527_CS.md",
-    "정보처리기사/1과목_소프트웨어설계.md",
-    "정보처리기사/5과목_정보시스템구축관리.md",
-    "정보처리기사/4과목_프로그래밍언어활용.md",
-    "정보처리기사/3과목_데이터베이스구축.md",
-    "정보처리기사/2과목_소프트웨어개발.md",
-    "정보처리기사",
-    "Algorithm/LCS.md",
-    "img/240527_25.PNG",
-    "img/240527_24.PNG",
-    "img/240527_23.PNG",
-    "img/240527_22.PNG",
-    "img/240527_21.PNG",
-    "img/240527_20.PNG",
-    "img/240527_19.PNG",
-    "img/240527_18.PNG",
-    "img/240527_17.PNG",
-    "img/240527_16.PNG",
-    "Cloud"
+    "Algorithm/240216_Queue.md",
+    "Algorithm/Bit-Mask.md",
+    "React/MASTER02_typescript.md"
   ]
 }

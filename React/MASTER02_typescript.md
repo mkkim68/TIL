@@ -66,3 +66,4 @@ const sayHello = (playerObj: PlayerShape) =>
 
 ```
 - js에서 뜨지 않은 오류가 뜬다
+# 3. Optional Props
