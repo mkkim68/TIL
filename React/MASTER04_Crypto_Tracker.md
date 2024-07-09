@@ -318,14 +318,14 @@ interface CoinInterface {
 (함수)();
 ```
 - 코드에 적용
-```ts
+```tsx
     (async() => {
       fetch("https://api.coinpaprika.com/v1/coins")
     })()
 ```
 - 코인 API로 정보 받아오기
 	- loading 까지 구현
-```ts
+```tsx
 function Coins() {
   const [coins, setCoins] = useState<CoinInterface[]>([]);
   const [loading, setLoading] = useState(true);
@@ -357,4 +357,131 @@ function Coins() {
     </Container>
   );
 }
+```
+# 4. Route States
+- 비트코인 아이콘도 사용 가능
+	- API URL 뒤에 원하는 코인의 symbol 써주면 됨
+```tsx
+  <Link to={`/${coin.id}`}>
+	<img src={`https://cryptocurrencyliveprices.com/img/${coin.id}.png}` />
+	{coin.name} &rarr;
+  </Link>
+```
+- 아이콘 넣어줌
+## Link - state
+- object를 통해 데이터 그 자체를 보낼 수도 있음
+## react-router-dom v6
+- v5와 사용 방식이 달라짐
+### Parameter
+- Generic을 쓰려면 `extends Params` 해야
+```tsx
+import { Params, useLocation, useParams } from "react-router-dom";
+
+interface RouteParams extends Params {
+  coinId: string;
+}
+const { coinId } = useParams<RouteParams>();
+```
+### state
+- `useLocation`을 사용하고 Generic 지원 X
+	- `as` 를 사용해야 함
+```tsx
+import { Params, useLocation, useParams } from "react-router-dom";
+
+interface RouteState {
+  state: { name: string };
+}
+
+const { state } = useLocation() as RouteState;
+```
+# 5. Coin Data
+- 각 코인의 정보 받아오기
+```tsx
+
+  const [info, setInfo] = useState({});
+  const [priceInfo, setPriceInfo] = useState({});
+  
+  useEffect(() => {
+    (async () => {
+      const infoData = await (
+        await fetch(`https://api.coinpaprika.com/v1/coins/${coinId}`)
+      ).json();
+      setLoading(false);
+      const priceData = await (
+        await fetch(`https://api.coinpaprika.com/v1/tickers/${coinId}`)
+      ).json();
+      setInfo(infoData);
+      setPriceInfo(priceData);
+    })();
+  }, []);
+```
+- await 구문 한 줄로 쓸 수 있음
+# 6. Data Types
+- interface 변수명 앞에 `I` 를 붙여줌
+## API 데이터 타입 빠르게 정의하기
+### 파일 내에서
+`console.log(데이터)` 
+### 콘솔에서
+- 콘솔창에 찍힌 데이터에 우클릭
+- Store as global variable
+	- temp1, temp2 ... 로 저장됨
+```js
+Object.keys(temp1).join()
+
+Object.values(temp1).map(v => typeof v).join()
+```
+- 나온 결과(string)를 이용해서 interface 정의
+- Array가 있는 경우
+	- 따로 interface 만들어서 정의 가능
+```tsx
+interface ITag {
+  coin_counter: number;
+  ico_counter: number;
+  id: string;
+  name: string;
+}
+
+interface IInfoData {
+...
+  tags: ITag[];
+...
+}
+```
+- priceData도 똑같이 정의하고 interface 사용하면 됨
+```tsx
+interface IPriceData {
+  id: string;
+  name: string;
+  symbol: string;
+  rank: number;
+  total_supply: number;
+  max_supply: number;
+  beta_value: number;
+  first_data_at: string;
+  last_updated: string;
+  quotes: {
+    USD: {
+      ath_date: string;
+      ath_price: number;
+      market_cap: number;
+      market_cap_change_24h: number;
+      percent_change_1h: number;
+      percent_change_1y: number;
+      percent_change_6h: number;
+      percent_change_7d: number;
+      percent_change_12h: number;
+      percent_change_15m: number;
+      percent_change_24h: number;
+      percent_change_30d: number;
+      percent_change_30m: number;
+      percent_from_price_ath: number;
+      price: number;
+      volume_24h: number;
+      volume_24h_change_24h: number;
+    };
+  };
+}
+
+  const [info, setInfo] = useState<IInfoData>();
+  const [priceInfo, setPriceInfo] = useState<IPriceData>();
 ```
