@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/MASTER04_Crypto_Tracker.md",
+                "file": "Algorithm/LCS.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/MASTER04_Crypto_Tracker.md",
+                "file": "Algorithm/LCS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/MASTER04_Crypto_Tracker.md",
+                "file": "Algorithm/LCS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/MASTER04_Crypto_Tracker.md"
+                "file": "Algorithm/LCS.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "9e49b3c5f347dadd",
   "lastOpenFiles": [
-    "React/BASIC07_Practice_Movie_APP.md",
     "React/MASTER04_Crypto_Tracker.md",
+    "React/BASIC07_Practice_Movie_APP.md",
     "VueJS/240502_Vue04.md",
     "VueJS/240508_Vue06.md",
     "VueJS/240430_Vue03.md",
