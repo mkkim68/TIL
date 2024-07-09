@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/MASTER02_typescript.md",
+                "file": "React/BASIC07_Practice_Movie_APP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e49b3c5f347dadd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/MASTER04_Crypto_Tracker.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/MASTER02_typescript.md",
+                "file": "React/MASTER04_Crypto_Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/MASTER02_typescript.md",
+                "file": "React/MASTER04_Crypto_Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,11 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/MASTER02_typescript.md"
+                "file": "React/MASTER04_Crypto_Tracker.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -139,18 +153,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "455f3b763b6443b3",
+  "active": "9e49b3c5f347dadd",
   "lastOpenFiles": [
+    "React/BASIC07_Practice_Movie_APP.md",
+    "React/MASTER04_Crypto_Tracker.md",
+    "VueJS/240502_Vue04.md",
+    "VueJS/240508_Vue06.md",
+    "VueJS/240430_Vue03.md",
+    "React/BASIC05_CREATE_REACT_APP.md",
+    "React/BASIC06_EFFECTS.md",
+    "React/MASTER02_typescript.md",
+    "Algorithm/LCS.md",
     "Algorithm/Bit-Mask.md",
-    "Algorithm/240216_Queue.md",
-    "React/MASTER02_typescript.md"
+    "Algorithm/240216_Queue.md"
   ]
 }
