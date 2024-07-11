@@ -485,3 +485,66 @@ interface IPriceData {
   const [info, setInfo] = useState<IInfoData>();
   const [priceInfo, setPriceInfo] = useState<IPriceData>();
 ```
+# 7. Nested Routes part One
+## 기타
+- React Hook UseEffect 에서 dependency를 사용하는 것을 경고함
+	- 따라서 `Coin.tsx`에서 컴포넌트 일생 동안 절대 변하지 않을 `coinId`를 dependency로 사용하면 된다
+## nested router
+: route 안에 있는 또 다른 route
+[https://reactrouter.com/docs/en/v6/getting-started/overview](https://reactrouter.com/docs/en/v6/getting-started/overview)
+### 방법 1
+- 먼저 nested router를 사용할 Router의 `path`를 수정한다
+	- 기존: `path:"/:coinId"`
+	- 변경 후: `path:"/:coinId/*"`
+	- 기존 path 뒤에 `/*` 추가
+```tsx
+        <Route path="/:coinId/*" element={<Coin />} />
+```
+- 중첩시킬 Route를 작성
+	- 상대 경로로 작성(앞의 url 작성 x)
+```tsx
+            <Route path="price" element={<Price />} />
+```
+### 방법 2
+- 자식 route를 부모 element의 내부가 아닌 route 내부에 작성하는 방법
+	- Router.tsx에서  chart와 price 컴포넌트를 import하고  
+```tsx
+<Routes>
+	<Route path="/:coinId" element={<Coin />} >  
+	<Route path="chart" element={<Chart />} />  
+	<Route path="price" element={<Price />} />  
+</Routes>
+```
+- 그리고 이 자식 Route들이 어디에 render 될지 부모의 element안에 Outlet을 이용해 표시
+- Coin.tsx에서, react-router-dom에서 Outlet을 import하고 Overview와 Container 사이에 <Outlet />를 작성
+# 8. Nested Routes part Two
+- `Link` 사용으로 chart, price 부분으로 갈 수 있게 함
+	- 앞에 변수 `coinId` 부분을 안 넣어주면 그냥 /chart(price) 로 가게됨
+```tsx
+          <Link to={`/${coinId}/chart`}>Chart</Link>
+          <Link to={`/${coinId}/price`}>Price</Link>
+```
+## useMatch() hook
+- [https://reactrouter.com/en/6.16.0/hooks/use-match](https://reactrouter.com/en/6.16.0/hooks/use-match)
+- routematch에게 우리가 `coinId/price`라는 URL에 있는지 확인을 해달라고 요청
+```tsx
+const priceMatch = useMatch("/:coinId/price");
+const chartMatch = useMatch("/:coinId/chart");
+```
+- 내가 현재 그 url 안에 있다면 `object`를, 아니면 `null` 반환
+	- 이걸 활용
+## matchPath()
+- [https://reactrouter.com/docs/en/v6/api#matchpath](https://reactrouter.com/docs/en/v6/api#matchpath)
+## styled component에 prop 사용하기
+- prop의 값에 따라 스타일 다르게 적용
+```tsx
+const Tab = styled.span<{ isActive: boolean }>`
+	...
+	color: ${(props) => props.isActive ? props.theme.accentColor : props.theme.textColor};
+    ...
+`;
+
+<Tab isActive={priceMatch !== null}>
+	...
+</Tab>
+```
