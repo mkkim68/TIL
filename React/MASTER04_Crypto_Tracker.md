@@ -548,3 +548,282 @@ const Tab = styled.span<{ isActive: boolean }>`
 	...
 </Tab>
 ```
+# 9. React Query part One
+- 설치
+```
+npm i react-query
+```
+## queryClient()
+```tsx
+import { QueryClient, QueryClientProvider } from "react-query";
+
+const queryClient = new QueryClient()
+```
+## queryClientProvider
+- client prop 필요
+	- client prop에 위에서 만든 `queryClient`를 넣어줌
+```tsx
+root.render(
+  <React.StrictMode>
+    <QueryClientProvider client={queryClient}>
+	    ...
+    </QueryClientProvider>
+  </React.StrictMode>
+);
+```
+## React Query
+- 우리가 스스로 실행하고 있었던 로직을 축약해줌
+```
+npm i ==@tanstack==/react-query
+```
+- typescript에서 안되면 설치(일단 설치안해도 되긴함)
+### fetcher 함수
+- 꼭 fetch primise를 return해야 함
+- `api.tsx` 파일 생성
+```tsx
+export function fetchCoins() {
+  return fetch("https://api.coinpaprika.com/v1/coins").then((response) =>
+    response.json()
+  );
+}
+```
+- 기존 `Coins.tsx`의 fetch 부분 모두 주석처리
+## useQuery()
+- 2가지 argument 필요
+	- `useQuery(queryKey, fetcher function)`
+	- `queryKey` : 고유 식별자
+	- `fetcher 함`
+- `isLoading` : boolean 값, useState를 활용한 loading 변수와 같은 용도
+- `data`: any, useState를 활용한 coins 변수와 같은 용도
+```tsx
+const { isLoading, data } = useQuery("allCoins", fetchCoins);
+```
+### 장점
+- coin 상세 페이지에 갔다와도 loading이 보이지 않음
+	- react query가 데이터를 캐시에 저장해두기 때문
+# 10. React Query part Two
+## Devtools
+```
+npm i -D ==@tanstack==/react-query-devtools
+```
+- render할 수 있는 component
+	- 캐시에 있는 query를 볼 수 있음
+```tsx
+import { ReactQueryDevtools } from "react-query/devtools";
+
+function App() {
+  return (
+    <>
+      <GlobalStyle />
+      <Router />
+      <ReactQueryDevtools initialIsOpen={true} />
+    </>
+  );
+}
+```
+- 웹사이트에서 새로운 개발자도구를 볼 수 있다
+	- 갖고 있는 query
+	- cache에 저장된 데이터도 볼 수 있음
+	- refetch, 쿼리 reset 등 가능
+![img](../img/240711_1.png)
+- Coin.tsx 에 쓸 함수 정의
+```tsx
+const BASE_URL = `https://api.coinpaprika.com/v1`;
+
+export function fetchCoin(coinId: string) {
+  return fetch(`${BASE_URL}/coins/${coinId}`).then((response) =>
+    response.json()
+  );
+}
+```
+## useQuery의 queryKey
+- queryKey는 고유한 값이어야 함
+```tsx
+useQuery(coinId, () => fetchCoinInfo(coinId));
+useQuery(coinId, () => fetchCoinTickers(coinId));
+```
+- 이런 경우 `coinId`가 중복됨
+	- 배열 사용
+```tsx
+useQuery(["info", coinId], () => fetchCoinInfo(coinId));
+useQuery(["tickers", coinId], () => fetchCoinTickers(coinId));
+```
+- 사용할 정보도 변수가 겹치지 않게 설정
+```tsx
+  const { isLoading: infoLoading, data: infoData } = useQuery(
+    ["info", coinId],
+    () => fetchCoinInfo(coinId!)
+  );
+  const { isLoading: tickersLoading, data: tickersData } = useQuery(
+    ["tickers", coinId],
+    () => fetchCoinTickers(coinId!)
+  );
+```
+- [!] fetch 함수 인자값으로 `coinId` 뒤에 `!`를 붙이는 이유
+	- react-router-dom v6버전부터 `useParams` 사용시 타입이 string or undefined로 자동 설정됨
+	- 변수 뒤에 `!` 붙일 시 "확장 할당 어션셜"로 값이 무조건 할당되어있다고 컴파일러에게 전달해 값이 없어도 변수 사용 가능함
+# 12. Price Chart
+- API 종료로 가격 정보 API nomad-coder 사용
+	- [https://ohlcv-api.nomadcoders.workers.dev?coinId=btc-bitcoin](https://ohlcv-api.nomadcoders.workers.dev/?coinId=btc-bitcoin)
+```tsx
+// Coin.tsx
+
+<Route path="chart" element={<Chart coinId={coinId!} />} /> // coinId 뒤에 ! 붙여야함
+```
+```tsx
+// Chart.tsx
+
+import { useQuery } from "react-query";
+import { fetchCoinHistory } from "../api";
+interface ChartProps {
+  coinId: string;
+}
+
+function Chart({ coinId }: ChartProps) {
+  const { isLoading, data } = useQuery(["ohlcv", coinId], () =>
+    fetchCoinHistory(coinId)
+  );
+  return <h1>Chart</h1>;
+}
+
+export default Chart;
+```
+```tsx
+// api.ts
+
+export function fetchCoinHistory(coinId: string) {
+  return fetch(
+    `https://ohlcv-api.nomadcoders.workers.dev/?coinId=${coinId}`
+  ).then((response) => response.json());
+}
+```
+# 13. Price Chart part Two
+## APEXCHARTS
+- 자바스크립트 chart library
+- [https://apexcharts.com/docs/installation/](https://apexcharts.com/docs/installation/)
+	- docs -> integrations -> react
+```
+npm install --save react-apexcharts apexcharts
+```
+```tsx
+// Chart.tsx
+import ApexChart from "react-apexcharts";
+
+return (
+    <div>
+      {isLoading ? (
+        "Loading chart..."
+      ) : (
+        <ApexChart
+          type="line"
+          options={{
+            chart: {
+              height: 500,
+              width: 500,
+            },
+          }}
+        />
+      )}
+    </div>
+  );
+```
+-  공식문서의 Options 항목에서 커스텀 가능
+# 14. Price Chart part Three
+```tsx
+// Chart.tsx
+<ApexChart
+  type="line"
+  series={[
+	{
+	  name: "Price",
+	  data: data?.map((price) => parseFloat(price.close)) ?? [],
+	},
+  ]}
+  options={{
+	theme: {
+	  mode: "dark",
+	},
+	chart: {
+	  height: 500,
+	  width: 500,
+	  toolbar: {
+		show: false,
+	  },
+	  background: "transparent",
+	},
+	grid: { show: false },
+	stroke: {
+	  curve: "smooth",
+	  width: 4,
+	},
+	yaxis: {
+	  show: false,
+	},
+	xaxis: {
+	  labels: {
+		show: false,
+	  },
+	  axisTicks: {
+		show: false,
+	  },
+	  axisBorder: {
+		show: false,
+	  },
+	  type: "datetime",
+	  categories: data?.map((price) =>
+		new Date(price.time_close * 1000).toUTCString()
+	  ),
+	},
+	fill: {
+	  type: "gradient",
+	  gradient: { gradientToColors: ["yellow"], stops: [0, 100] },
+	},
+	colors: ["purple"],
+	tooltip: {
+	  y: {
+		formatter: (value) => `$ ${value.toFixed(2)}`,
+	  },
+	},
+  }}
+/>
+```
+- Options가 너무 방대해서 쓰는게 어려울 수 있다
+	- *Demos*에서 이미 만들어진 것들을 볼 수 있어서 사람들이 어떻게 data를 구조화했고 어떻게 커스텀했는지 원하는 것을 살펴볼 수 있음
+	  - [https://apexcharts.com/javascript-chart-demos/](https://apexcharts.com/javascript-chart-demos/)
+# 15. Final Touches
+- `toFixed(num)` : 소수점 num 자리까지 잘라줌
+## useQuery Hook 세번째 인자
+- Object 형식
+	- `refetchInterval` : ms 단위로 fetch 설정
+```tsx
+  const { isLoading: tickersLoading, data: tickersData } = useQuery<IPriceData>(
+    ["tickers", coinId],
+    () => fetchCoinTickers(coinId!),
+    {
+      refetchInterval: 5000,
+    }
+  );
+```
+### `refetchInterval` 장점
+- 주기적으로 백그라운드에서 앱을 업데이트할 수 있다.
+## react helmet
+> head로 가는 direct link
+```
+npm install react-helmet
+```
+- typescript용
+```
+npm i --save-dev @types/react-helmet
+```
+- component인테 여기서 무엇을 render하던 그게 문서의 head로 감
+```tsx
+import { Helmet } from "react-helmet";
+
+      <Helmet>
+        <title>COINS</title>
+      </Helmet>
+```
+# 16. Conclusions
+- 뒤로가기 버튼
+- 가격에 대해 더 많은 정보
+- candlestick chart
