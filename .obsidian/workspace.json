@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/MASTER04_Crypto_Tracker.md",
+                "file": "React/MASTER05_State_Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "858554dc20bff926",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/MASTER04_Crypto_Tracker.md",
+                "file": "React/MASTER05_State_Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/MASTER04_Crypto_Tracker.md",
+                "file": "React/MASTER05_State_Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/MASTER04_Crypto_Tracker.md"
+                "file": "React/MASTER05_State_Management.md"
               }
             }
           }
@@ -150,9 +149,10 @@
   },
   "active": "d712e8cc250d29cc",
   "lastOpenFiles": [
+    "React/MASTER04_Crypto_Tracker.md",
+    "React/MASTER05_State_Management.md",
     "img/240711_1.png",
     "Algorithm/240321_APS응용2.md",
-    "React/MASTER04_Crypto_Tracker.md",
     "Algorithm/LCS.md",
     "Algorithm/LIS.md",
     "React/BASIC07_Practice_Movie_APP.md",
