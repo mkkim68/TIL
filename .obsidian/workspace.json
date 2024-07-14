@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Prim",
+                "query": "create-re",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,10 +147,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d712e8cc250d29cc",
+  "active": "3b778e8e684934f0",
   "lastOpenFiles": [
-    "React/MASTER04_Crypto_Tracker.md",
+    "React/MASTER02_typescript.md",
     "React/MASTER05_State_Management.md",
+    "React/BASIC05_CREATE_REACT_APP.md",
+    "README.md",
+    "React/MASTER04_Crypto_Tracker.md",
     "img/240711_1.png",
     "Algorithm/240321_APS응용2.md",
     "Algorithm/LCS.md",
@@ -159,9 +162,7 @@
     "VueJS/240502_Vue04.md",
     "VueJS/240508_Vue06.md",
     "VueJS/240430_Vue03.md",
-    "React/BASIC05_CREATE_REACT_APP.md",
     "React/BASIC06_EFFECTS.md",
-    "React/MASTER02_typescript.md",
     "Algorithm/Bit-Mask.md",
     "Algorithm/240216_Queue.md"
   ]
