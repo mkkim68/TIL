@@ -282,7 +282,7 @@ function Coins() {
       </Header>
       <CoinsList>
         {coins.map((coin) => (
-          <Coin key={coin.id}>
+          <Coin key={coin.id}>sta
             <Link to={`/${coin.id}`}>{coin.name} &rarr;</Link>
           </Coin>
         ))}
@@ -592,7 +592,7 @@ export function fetchCoins() {
 - 2가지 argument 필요
 	- `useQuery(queryKey, fetcher function)`
 	- `queryKey` : 고유 식별자
-	- `fetcher 함`
+	- `fetcher 함수`
 - `isLoading` : boolean 값, useState를 활용한 loading 변수와 같은 용도
 - `data`: any, useState를 활용한 coins 변수와 같은 용도
 ```tsx

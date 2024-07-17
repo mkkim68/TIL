@@ -1,19 +1,31 @@
 {
   "main": {
-    "id": "0386384fd8188760",
+    "id": "63adb0b3eeb8e8ab",
     "type": "split",
     "children": [
       {
-        "id": "a63cfb56b1f5a5f2",
+        "id": "a0e21374a6e7009c",
         "type": "tabs",
         "children": [
           {
-            "id": "d712e8cc250d29cc",
+            "id": "5c870645c43d6e56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/MASTER04_Crypto_Tracker.md",
+                "file": "React/MASTER05_State_Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cb56d9d9dcfcffd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/BASIC04_PROPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b874af830678d146",
+    "id": "50ee2d562c7b051c",
     "type": "split",
     "children": [
       {
-        "id": "73e9ffb9a180e8a3",
+        "id": "fee43370e791a86d",
         "type": "tabs",
         "children": [
           {
-            "id": "2c04e414b9edb7b8",
+            "id": "2a2b4114efc511e7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +55,12 @@
             }
           },
           {
-            "id": "2c3f57e6bfe3a69d",
+            "id": "054edd0d16d52a8e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "useRef",
+                "query": "form hook",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,34 +70,35 @@
             }
           },
           {
-            "id": "e81657784be3d4e3",
+            "id": "25deda3d2e7b00cc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "858554dc20bff926",
+    "id": "ac9ae6845057f55a",
     "type": "split",
     "children": [
       {
-        "id": "3b4e2e6f331816be",
+        "id": "df92a978855b9a0e",
         "type": "tabs",
         "children": [
           {
-            "id": "b73e9a684309b962",
+            "id": "963c89167c1500c5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/MASTER04_Crypto_Tracker.md",
+                "file": "React/MASTER05_State_Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +110,19 @@
             }
           },
           {
-            "id": "da9046ff594c0a93",
+            "id": "d7a640009019ebc2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/MASTER04_Crypto_Tracker.md",
+                "file": "React/MASTER05_State_Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "28d0de6f4575a617",
+            "id": "facbeaf9365753ee",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +133,16 @@
             }
           },
           {
-            "id": "3b778e8e684934f0",
+            "id": "4f68c0a29b905c55",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/MASTER04_Crypto_Tracker.md"
+                "file": "React/MASTER05_State_Management.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,21 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d712e8cc250d29cc",
+  "active": "5c870645c43d6e56",
   "lastOpenFiles": [
-    "React/BASIC07_Practice_Movie_APP.md",
-    "React/BASIC05_CREATE_REACT_APP.md",
     "React/MASTER04_Crypto_Tracker.md",
-    "img/240711_1.png",
-    "Algorithm/240321_APS응용2.md",
-    "Algorithm/LCS.md",
-    "Algorithm/LIS.md",
-    "VueJS/240502_Vue04.md",
-    "VueJS/240508_Vue06.md",
-    "VueJS/240430_Vue03.md",
-    "React/BASIC06_EFFECTS.md",
+    "git/240412_git_branch.md",
+    "React/MASTER05_State_Management.md",
     "React/MASTER02_typescript.md",
-    "Algorithm/Bit-Mask.md",
-    "Algorithm/240216_Queue.md"
+    "React/MASTER01_styled_components.md",
+    "React/BASIC07_Practice_Movie_APP.md",
+    "JavaScript/240418_JavaScript03.md",
+    "Algorithm/240129_List1.md",
+    "Untitled",
+    "React/BASIC05_CREATE_REACT_APP.md",
+    "React/BASIC04_PROPS.md",
+    "CS/동기비동기.md"
   ]
 }
