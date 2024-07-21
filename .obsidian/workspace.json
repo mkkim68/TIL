@@ -1,31 +1,19 @@
 {
   "main": {
-    "id": "63adb0b3eeb8e8ab",
+    "id": "23f66f4584f64571",
     "type": "split",
     "children": [
       {
-        "id": "a0e21374a6e7009c",
+        "id": "918c123e2541fdec",
         "type": "tabs",
         "children": [
           {
-            "id": "5c870645c43d6e56",
+            "id": "c725f3703f98e942",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "React/MASTER05_State_Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cb56d9d9dcfcffd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/BASIC04_PROPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "50ee2d562c7b051c",
+    "id": "74cb2becd3cd1a3a",
     "type": "split",
     "children": [
       {
-        "id": "fee43370e791a86d",
+        "id": "aa2fd65a557ea5ef",
         "type": "tabs",
         "children": [
           {
-            "id": "2a2b4114efc511e7",
+            "id": "9072da87317f7d9b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,12 +43,12 @@
             }
           },
           {
-            "id": "054edd0d16d52a8e",
+            "id": "fff37085bb59ed21",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "form hook",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,30 +58,30 @@
             }
           },
           {
-            "id": "25deda3d2e7b00cc",
+            "id": "e91dfd9a4e4cb23b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "ac9ae6845057f55a",
+    "id": "4b34af8248c1d9b1",
     "type": "split",
     "children": [
       {
-        "id": "df92a978855b9a0e",
+        "id": "5d3b50e1f1ed03f4",
         "type": "tabs",
         "children": [
           {
-            "id": "963c89167c1500c5",
+            "id": "863d29a567bb4561",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -110,7 +98,7 @@
             }
           },
           {
-            "id": "d7a640009019ebc2",
+            "id": "da4dbf3c54bd9acc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +110,7 @@
             }
           },
           {
-            "id": "facbeaf9365753ee",
+            "id": "d6f1820c3c03b8e1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +121,7 @@
             }
           },
           {
-            "id": "4f68c0a29b905c55",
+            "id": "acc17af387cee957",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -151,43 +139,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5c870645c43d6e56",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-=======
-    "img/240716_04.png",
-    "img/240716_03.png",
-    "img/240716_0.png",
-    "img/240716_02.png",
-    "img/240716_01.png",
-    "img/240714_1.png",
-    "CS/운영체제",
-    "React/MASTER05_State_Management.md",
-    "CS/운영체제/OS1_Process&Thread.md",
-    "CS",
-    "React/MASTER02_typescript.md",
-    "React/BASIC05_CREATE_REACT_APP.md",
-    "README.md",
->>>>>>> 100ad5752e874517c62e0a2d0cb5095c28ec4ac4
-    "React/MASTER04_Crypto_Tracker.md",
-    "git/240412_git_branch.md",
-    "React/MASTER05_State_Management.md",
-    "React/MASTER02_typescript.md",
-    "React/MASTER01_styled_components.md",
-    "React/BASIC07_Practice_Movie_APP.md",
-    "JavaScript/240418_JavaScript03.md",
-    "Algorithm/240129_List1.md",
-    "Untitled",
-    "React/BASIC05_CREATE_REACT_APP.md",
-    "React/BASIC04_PROPS.md",
-    "CS/동기비동기.md"
-  ]
+  "active": "c725f3703f98e942",
+  "lastOpenFiles": []
 }
