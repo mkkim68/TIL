@@ -1,34 +1,18 @@
 {
   "main": {
-    "id": "63adb0b3eeb8e8ab",
+    "id": "b5adbe4ca68ec367",
     "type": "split",
     "children": [
       {
-        "id": "a0e21374a6e7009c",
+        "id": "e2d65e475e316075",
         "type": "tabs",
         "children": [
           {
-            "id": "5c870645c43d6e56",
+            "id": "6d5afdc1cfc35807",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/MASTER05_State_Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5cb56d9d9dcfcffd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/BASIC04_PROPS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -37,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "50ee2d562c7b051c",
+    "id": "07cf1dc286fcb305",
     "type": "split",
     "children": [
       {
-        "id": "fee43370e791a86d",
+        "id": "37df564359bd6111",
         "type": "tabs",
         "children": [
           {
-            "id": "2a2b4114efc511e7",
+            "id": "fe0ab0803142e8a7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,12 +39,12 @@
             }
           },
           {
-            "id": "054edd0d16d52a8e",
+            "id": "547cc4bd9a38c4a6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "form hook",
+                "query": "permu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +54,7 @@
             }
           },
           {
-            "id": "25deda3d2e7b00cc",
+            "id": "eee9eaa789984a26",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +69,19 @@
     "width": 300
   },
   "right": {
-    "id": "ac9ae6845057f55a",
+    "id": "2faadcce66bc8cc5",
     "type": "split",
     "children": [
       {
-        "id": "df92a978855b9a0e",
+        "id": "25bf626f0b0fe16a",
         "type": "tabs",
         "children": [
           {
-            "id": "963c89167c1500c5",
+            "id": "1d83af9feef2ab23",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/MASTER05_State_Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +93,18 @@
             }
           },
           {
-            "id": "d7a640009019ebc2",
+            "id": "8bad61b2eb7a9b6a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/MASTER05_State_Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "facbeaf9365753ee",
+            "id": "8aed6f153fc44ad6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,13 +115,11 @@
             }
           },
           {
-            "id": "4f68c0a29b905c55",
+            "id": "a76cb4c9a23df520",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "React/MASTER05_State_Management.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,35 +139,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c870645c43d6e56",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-=======
-    "img/240716_04.png",
-    "img/240716_03.png",
-    "img/240716_0.png",
-    "img/240716_02.png",
-    "img/240716_01.png",
-    "img/240714_1.png",
-    "CS/운영체제",
-    "React/MASTER05_State_Management.md",
-    "CS/운영체제/OS1_Process&Thread.md",
-    "CS",
-    "React/MASTER02_typescript.md",
-    "React/BASIC05_CREATE_REACT_APP.md",
-    "README.md",
->>>>>>> 100ad5752e874517c62e0a2d0cb5095c28ec4ac4
-    "React/MASTER04_Crypto_Tracker.md",
-    "git/240412_git_branch.md",
-    "React/MASTER05_State_Management.md",
-    "React/MASTER02_typescript.md",
-    "React/MASTER01_styled_components.md",
-    "React/BASIC07_Practice_Movie_APP.md",
-    "JavaScript/240418_JavaScript03.md",
-    "Algorithm/240129_List1.md",
-    "Untitled",
-    "React/BASIC05_CREATE_REACT_APP.md",
-    "React/BASIC04_PROPS.md",
-    "CS/동기비동기.md"
-  ]
+  "active": "547cc4bd9a38c4a6",
+  "lastOpenFiles": []
 }
