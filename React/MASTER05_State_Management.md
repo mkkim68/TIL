@@ -431,3 +431,49 @@ validate: {
 `<form onSubmit={handleSubmit(내 함수)}></form>`
 ### setValue
 `setValue("이름", 값)`
+# 11. Add To Do
+```tsx
+const toDoState = atom({
+  key: "toDo",
+  default: [],
+});
+
+
+  const value = useRecoilValue(toDoState);  // atom에서 값을 불러옴
+  const modFn = useSetRecoilState(toDoState);  // atom에 저장된 값 변경
+```
+- `toDOs`가 never로 뜸
+	- todo 타입 명시 후 사용
+```tsx
+  const [toDos, setTodos] = useRecoilState(toDoState);
+```
+- typescript에게 type을 명시해줄때
+	-  category처럼 해주면 명시된 3개 중 하나의 string만 가질 수 있음
+```tsx
+interface IToDo {
+  text: string;
+  category: "TO_DO" | "DOING" | "DONE";
+}
+
+const toDoState = atom<IToDo[]>({
+  key: "toDo",
+  default: [],
+});
+```
+- toDo 작성 후 form 제출하면 todo 리스트 출력
+```tsx
+  const handleValid = ({ toDo }: IForm) => {
+    setTodos((oldToDos) => [
+      { text: toDo, id: Date.now(), category: "TO_DO" },
+      ...oldToDos,
+    ]);
+    setValue("toDo", "");
+  };
+  ...
+      <ul>
+        {toDos.map((toDo) => (
+          <li key={toDo.id}>{toDo.text}</li>
+        ))}
+      </ul>
+```
+# 12. Refactoring

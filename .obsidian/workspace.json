@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "b5adbe4ca68ec367",
     "type": "split",
     "children": [
@@ -13,6 +14,25 @@
             "state": {
               "type": "empty",
               "state": {}
+=======
+    "id": "23f66f4584f64571",
+    "type": "split",
+    "children": [
+      {
+        "id": "918c123e2541fdec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c725f3703f98e942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/MASTER05_State_Management.md",
+                "mode": "source",
+                "source": false
+              }
+>>>>>>> 0bdb3226af87ffc4b85ed3cfe753fa3ded98dbc0
             }
           }
         ]
@@ -21,6 +41,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "07cf1dc286fcb305",
     "type": "split",
     "children": [
@@ -30,6 +51,17 @@
         "children": [
           {
             "id": "fe0ab0803142e8a7",
+=======
+    "id": "74cb2becd3cd1a3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa2fd65a557ea5ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9072da87317f7d9b",
+>>>>>>> 0bdb3226af87ffc4b85ed3cfe753fa3ded98dbc0
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +71,20 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "547cc4bd9a38c4a6",
+=======
+            "id": "fff37085bb59ed21",
+>>>>>>> 0bdb3226af87ffc4b85ed3cfe753fa3ded98dbc0
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "permu",
+=======
+                "query": "",
+>>>>>>> 0bdb3226af87ffc4b85ed3cfe753fa3ded98dbc0
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,21 +94,26 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "eee9eaa789984a26",
+=======
+            "id": "e91dfd9a4e4cb23b",
+>>>>>>> 0bdb3226af87ffc4b85ed3cfe753fa3ded98dbc0
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
+<<<<<<< HEAD
     "id": "2faadcce66bc8cc5",
     "type": "split",
     "children": [
@@ -78,6 +123,17 @@
         "children": [
           {
             "id": "1d83af9feef2ab23",
+=======
+    "id": "4b34af8248c1d9b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d3b50e1f1ed03f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "863d29a567bb4561",
+>>>>>>> 0bdb3226af87ffc4b85ed3cfe753fa3ded98dbc0
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -93,7 +149,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "8bad61b2eb7a9b6a",
+=======
+            "id": "da4dbf3c54bd9acc",
+>>>>>>> 0bdb3226af87ffc4b85ed3cfe753fa3ded98dbc0
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -104,7 +164,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "8aed6f153fc44ad6",
+=======
+            "id": "d6f1820c3c03b8e1",
+>>>>>>> 0bdb3226af87ffc4b85ed3cfe753fa3ded98dbc0
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -115,7 +179,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "a76cb4c9a23df520",
+=======
+            "id": "acc17af387cee957",
+>>>>>>> 0bdb3226af87ffc4b85ed3cfe753fa3ded98dbc0
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -131,14 +199,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
+<<<<<<< HEAD
   "active": "547cc4bd9a38c4a6",
+=======
+  "active": "c725f3703f98e942",
+>>>>>>> 0bdb3226af87ffc4b85ed3cfe753fa3ded98dbc0
   "lastOpenFiles": []
 }
