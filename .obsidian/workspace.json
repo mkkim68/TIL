@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/운영체제/OS3_Sync.md",
-                "mode": "preview",
+                "file": "Algorithm/FloodFill.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/운영체제/OS3_Sync.md",
+                "file": "Algorithm/FloodFill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/운영체제/OS3_Sync.md",
+                "file": "Algorithm/FloodFill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/운영체제/OS3_Sync.md"
+                "file": "Algorithm/FloodFill.md"
               }
             }
           }
@@ -160,13 +160,15 @@
   },
   "active": "972a2d3d07879ddf",
   "lastOpenFiles": [
+    "React/MASTER05_State_Management.md",
+    "Algorithm/FloodFill.md",
+    "React/BASIC06_EFFECTS.md",
+    "CS/운영체제/OS3_Sync.md",
     "CS/운영체제/OS2_SystemCall&Scheduling.md",
     "CS/운영체제/OS1_Process&Thread.md",
-    "CS/운영체제/OS3_Sync.md",
     "CS/운영체제/OS4.md",
     "React/MASTER04_Crypto_Tracker.md",
     "React/MASTER02_typescript.md",
-    "React/MASTER05_State_Management.md",
     "VueJS/240509_Vue07.md",
     "img/240723_5.png",
     "img/240723_4.png",
