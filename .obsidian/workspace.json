@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/FloodFill.md",
+                "file": "CS/운영체제/OS4_Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d7d5ab43ddf04144",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/FloodFill.md",
+                "file": "CS/운영체제/OS4_Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/FloodFill.md",
+                "file": "CS/운영체제/OS4_Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/FloodFill.md"
+                "file": "CS/운영체제/OS4_Memory.md"
               }
             }
           }
@@ -160,15 +161,20 @@
   },
   "active": "972a2d3d07879ddf",
   "lastOpenFiles": [
+    "img/240804_4.png",
+    "img/240804_3.png",
+    "img/240804_2.png",
+    "img/240804_1.png",
+    "CS/운영체제/OS3_Sync.md",
+    "CS/운영체제/OS4_Memory.md",
+    "React/MASTER04_Crypto_Tracker.md",
+    "React/MASTER02_typescript.md",
+    "React/MASTER01_styled_components.md",
     "React/MASTER05_State_Management.md",
     "Algorithm/FloodFill.md",
     "React/BASIC06_EFFECTS.md",
-    "CS/운영체제/OS3_Sync.md",
     "CS/운영체제/OS2_SystemCall&Scheduling.md",
     "CS/운영체제/OS1_Process&Thread.md",
-    "CS/운영체제/OS4.md",
-    "React/MASTER04_Crypto_Tracker.md",
-    "React/MASTER02_typescript.md",
     "VueJS/240509_Vue07.md",
     "img/240723_5.png",
     "img/240723_4.png",
