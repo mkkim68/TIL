@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/MASTER05_State_Management.md",
+                "file": "DB/SQLD.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,12 +77,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d7d5ab43ddf04144",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/MASTER05_State_Management.md",
+                "file": "DB/SQLD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/MASTER05_State_Management.md",
+                "file": "DB/SQLD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/MASTER05_State_Management.md"
+                "file": "DB/SQLD.md"
               }
             }
           }
@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,6 +161,8 @@
   },
   "active": "972a2d3d07879ddf",
   "lastOpenFiles": [
+    "React/MASTER05_State_Management.md",
+    "DB/SQLD.md",
     "React/MASTER04_Crypto_Tracker.md",
     "Algorithm/240320_APS응용2.md",
     "CS/운영체제/OS4_Memory.md",
@@ -172,7 +175,6 @@
     "CS/운영체제/OS3_Sync.md",
     "React/MASTER02_typescript.md",
     "React/MASTER01_styled_components.md",
-    "React/MASTER05_State_Management.md",
     "Algorithm/FloodFill.md",
     "React/BASIC06_EFFECTS.md",
     "CS/운영체제/OS2_SystemCall&Scheduling.md",
