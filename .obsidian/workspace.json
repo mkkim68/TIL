@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/운영체제/OS4_Memory.md",
-                "mode": "source",
+                "file": "React/MASTER05_State_Management.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pinia",
+                "query": "register",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,12 +77,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d7d5ab43ddf04144",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/운영체제/OS4_Memory.md",
+                "file": "React/MASTER05_State_Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/운영체제/OS4_Memory.md",
+                "file": "React/MASTER05_State_Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/운영체제/OS4_Memory.md"
+                "file": "React/MASTER05_State_Management.md"
               }
             }
           }
@@ -146,21 +146,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "972a2d3d07879ddf",
   "lastOpenFiles": [
+    "React/MASTER04_Crypto_Tracker.md",
+    "Algorithm/240320_APS응용2.md",
+    "CS/운영체제/OS4_Memory.md",
     "img/240804_6.png",
     "img/240804_5.png",
     "img/240804_4.png",
@@ -168,8 +170,6 @@
     "img/240804_2.png",
     "img/240804_1.png",
     "CS/운영체제/OS3_Sync.md",
-    "CS/운영체제/OS4_Memory.md",
-    "React/MASTER04_Crypto_Tracker.md",
     "React/MASTER02_typescript.md",
     "React/MASTER01_styled_components.md",
     "React/MASTER05_State_Management.md",
@@ -182,7 +182,6 @@
     "img/240723_4.png",
     "img/240723_3.png",
     "img/240723_2.png",
-    "img/240723_1.png",
     "CS/운영체제/OS5.md"
   ]
 }
