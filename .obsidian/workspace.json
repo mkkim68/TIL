@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/운영체제/OS5.md",
+                "file": "Algorithm/LIS.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VueJS/240509_Vue07.md",
+                "file": "CS/운영체제/OS5_Paging_Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d7d5ab43ddf04144",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/운영체제/OS5.md",
+                "file": "CS/운영체제/OS5_Paging_Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/운영체제/OS5.md",
+                "file": "CS/운영체제/OS5_Paging_Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/운영체제/OS5.md"
+                "file": "CS/운영체제/OS5_Paging_Algorithm.md"
               }
             }
           }
@@ -159,8 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "972a2d3d07879ddf",
+  "active": "ab3030c09ae4e312",
   "lastOpenFiles": [
+    "Algorithm/LIS.md",
+    "CS/운영체제/OS5_Paging_Algorithm.md",
+    "VueJS/240509_Vue07.md",
+    "Algorithm/Prefix_sum.md",
     "img/240827_6.png",
     "img/240827_5.png",
     "Pasted image 20240827111556.png",
@@ -169,7 +173,6 @@
     "img/240827_2.png",
     "img/240827_1.png",
     "CS/운영체제/OS4_Memory.md",
-    "CS/운영체제/OS5.md",
     "CS/운영체제/OS3_Sync.md",
     "CS/동기비동기.md",
     "DB/SQLD.md",
@@ -179,13 +182,11 @@
     "img/240804_6.png",
     "img/240804_5.png",
     "img/240804_4.png",
-    "img/240804_3.png",
     "React/MASTER02_typescript.md",
     "React/MASTER01_styled_components.md",
     "Algorithm/FloodFill.md",
     "React/BASIC06_EFFECTS.md",
     "CS/운영체제/OS2_SystemCall&Scheduling.md",
-    "CS/운영체제/OS1_Process&Thread.md",
-    "VueJS/240509_Vue07.md"
+    "CS/운영체제/OS1_Process&Thread.md"
   ]
 }
