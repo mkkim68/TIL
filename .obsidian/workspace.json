@@ -13,14 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/LIS.md",
+                "file": "CS/운영체제/OS5_Paging_Algorithm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/LIS.md",
+                "file": "CS/운영체제/OS5_Paging_Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/LIS.md",
+                "file": "CS/운영체제/OS5_Paging_Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/LIS.md"
+                "file": "CS/운영체제/OS5_Paging_Algorithm.md"
               }
             }
           }
@@ -149,8 +148,8 @@
   },
   "active": "972a2d3d07879ddf",
   "lastOpenFiles": [
-    "CS/운영체제/OS5_Paging_Algorithm.md",
     "Algorithm/LIS.md",
+    "CS/운영체제/OS5_Paging_Algorithm.md",
     "VueJS/240509_Vue07.md",
     "Algorithm/Prefix_sum.md",
     "img/240827_6.png",
