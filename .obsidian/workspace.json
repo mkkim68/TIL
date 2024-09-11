@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/운영체제/OS5_Paging_Algorithm.md",
+                "file": "React/MASTER04_Crypto_Tracker.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "register",
+                "query": "create-re",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/운영체제/OS5_Paging_Algorithm.md",
+                "file": "React/MASTER04_Crypto_Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/운영체제/OS5_Paging_Algorithm.md",
+                "file": "React/MASTER04_Crypto_Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/운영체제/OS5_Paging_Algorithm.md"
+                "file": "React/MASTER04_Crypto_Tracker.md"
               }
             }
           }
@@ -148,10 +148,23 @@
   },
   "active": "972a2d3d07879ddf",
   "lastOpenFiles": [
+    "React/MASTER02_typescript.md",
+    "CS/네트워크/NET1_Network_and_Model.md",
+    "img/240911_2.png",
+    "img/240911_1.png",
+    "CS/네트워크",
+    "React/BASIC05_CREATE_REACT_APP.md",
+    "Algorithm/LCS.md",
     "Algorithm/LIS.md",
+    "Algorithm/Prefix_sum.md",
+    "Algorithm/Prime_Number.md",
+    "Algorithm/Counting_Sort.md",
+    "Algorithm/FloodFill.md",
+    "Algorithm/Brute_Force.md",
+    "Algorithm/Bit-Mask.md",
+    "Algorithm/240220_Tree.md",
     "CS/운영체제/OS5_Paging_Algorithm.md",
     "VueJS/240509_Vue07.md",
-    "Algorithm/Prefix_sum.md",
     "img/240827_6.png",
     "img/240827_5.png",
     "Pasted image 20240827111556.png",
@@ -167,11 +180,7 @@
     "React/MASTER04_Crypto_Tracker.md",
     "Algorithm/240320_APS응용2.md",
     "img/240804_6.png",
-    "img/240804_5.png",
-    "img/240804_4.png",
-    "React/MASTER02_typescript.md",
     "React/MASTER01_styled_components.md",
-    "Algorithm/FloodFill.md",
     "React/BASIC06_EFFECTS.md",
     "CS/운영체제/OS2_SystemCall&Scheduling.md",
     "CS/운영체제/OS1_Process&Thread.md"
