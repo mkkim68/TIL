@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/MASTER04_Crypto_Tracker.md",
+                "file": "CS/네트워크/NET2_Data_Communication.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/MASTER04_Crypto_Tracker.md",
+                "file": "CS/네트워크/NET2_Data_Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "React/MASTER04_Crypto_Tracker.md",
+                "file": "CS/네트워크/NET2_Data_Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/MASTER04_Crypto_Tracker.md"
+                "file": "CS/네트워크/NET2_Data_Communication.md"
               }
             }
           }
@@ -148,8 +148,20 @@
   },
   "active": "972a2d3d07879ddf",
   "lastOpenFiles": [
-    "React/MASTER02_typescript.md",
+    "img/240925_8.png",
+    "img/240925_7.png",
+    "img/240925_6.png",
+    "img/240925_5.png",
+    "img/240925_4.png",
+    "img/240925_3.png",
+    "img/240925_2.png",
+    "img/240925_1.png",
     "CS/네트워크/NET1_Network_and_Model.md",
+    "CS/네트워크/NET2_Data_Communication.md",
+    "etc/CLI.md",
+    "etc/markdown.md",
+    "React/MASTER04_Crypto_Tracker.md",
+    "React/MASTER02_typescript.md",
     "img/240911_2.png",
     "img/240911_1.png",
     "CS/네트워크",
@@ -166,23 +178,12 @@
     "CS/운영체제/OS5_Paging_Algorithm.md",
     "VueJS/240509_Vue07.md",
     "img/240827_6.png",
-    "img/240827_5.png",
-    "Pasted image 20240827111556.png",
-    "img/240827_4.png",
-    "img/240827_3.png",
-    "img/240827_2.png",
-    "img/240827_1.png",
     "CS/운영체제/OS4_Memory.md",
     "CS/운영체제/OS3_Sync.md",
     "CS/동기비동기.md",
     "DB/SQLD.md",
     "React/MASTER05_State_Management.md",
-    "React/MASTER04_Crypto_Tracker.md",
     "Algorithm/240320_APS응용2.md",
-    "img/240804_6.png",
-    "React/MASTER01_styled_components.md",
-    "React/BASIC06_EFFECTS.md",
-    "CS/운영체제/OS2_SystemCall&Scheduling.md",
-    "CS/운영체제/OS1_Process&Thread.md"
+    "React/MASTER01_styled_components.md"
   ]
 }

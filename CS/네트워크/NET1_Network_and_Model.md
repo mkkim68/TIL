@@ -103,6 +103,7 @@
 - HTTP, FTP, SMTP, POP3, IMAP, Telnet 등과 같은 프로토콜 있음
 # TCP/IP 4계층
 - OSI 7계층보다 먼저 나온 규격이나 현재 더 많이 활용됨
+- OSI는 역할에 따라, TCP/IP는 프로토콜에 따라 나눔
 ![](../../img/240911_2.png)
 ## 1계층 - 네트워크 액세스 계층 (Network Access Layer)
 1. OSI 7계층에서 *물리계층(1)과 데이터 링크 계층(2)* 에 해당
