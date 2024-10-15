@@ -35,6 +35,17 @@
 ### ◼ Tree
 - [Tree-1 (2024-02-20)](./Algorithm/240220_Tree.md)
 - [Tree-2 (2024-02-21)](./Algorithm/240221_Tree.md)
+<<<<<<< HEAD
+## ✔ Web
+### ◼ Basic
+- [HTML&CSS (2024-03-06)](./Web/240306_HTML&CSS.md)
+- [Bootstrap (2024-03-08)](./Web/240308_Bootstrap.md)
+- [Responsive Web (2024-03-11)](./Web/240311_ResponsiveWeb.md)
+### ◼ Django
+- [Django01-Intro & Design pattern (2024-03-12)](./Web/240312_Django01.md)
+- [Django02-Templates & URLs  (2024-03-13)](./Web/240313_Django02.md)
+## ✔ React JS
+=======
 ### ◼ etc
 - [Brute Force](./Algorithm/Brute_Force.md)
 - [Bellman Ford](./Algorithm/Bellman-Ford.md)
@@ -68,11 +79,14 @@
 ## ✔ Vue.js
 - [Vue.js 01 (2024-04-25)](./VueJS/240425_Vue01.md)
 ## ✔ React.js
+>>>>>>> cd5b963ac148556918d6cc7e3225c7638671b796
 📌[https://ko.legacy.reactjs.org/docs/getting-started.html](https://ko.legacy.reactjs.org/docs/getting-started.html)
 ### ◼ BASIC
 - [THE BASICS OF REACT (2024-03-14)](./React/BASIC02.md)
 - [STATE (2024-03-25)](./React/BASIC03_STATE.md)
 - [PROPS (2024-04-08)](./React/BASIC04_PROPS.md)
+<<<<<<< HEAD
+=======
 - [create-CREATE REACT APP (2024-04-15)](./React/BASIC05_CREATE_REACT_APP.md)
 - [EFFECTS (2024-04-25)](./React/BASIC06_EFFECTS.md)
 ## ✔ DB
@@ -82,6 +96,7 @@
 - [DB 03-2 (2024-04-04)](./DB/240404_DB03_2.md)
 - [DB 04 (2024-04-08)](./DB/240408_DB04.md)
 - [DB 05 (2024-04-09)](./DB/240409_DB05.md)
+>>>>>>> cd5b963ac148556918d6cc7e3225c7638671b796
 ## ✔ etc
 - [CLI](./etc/CLI.md)
 - [markdown](./etc/markdown.md)

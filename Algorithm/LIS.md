@@ -18,18 +18,18 @@ answer = max(dp)
 - O(NlogN)
 ```python
 def binary_search(target,lis):
-    start,end = 0,len(lis)-1
+    start, end = 0, len(lis)-1
     while start < end:
-        mid = (start + end) // 2 
+        mid = (start + end) // 2
         if lis[mid] == target:
             return mid
-        elif lis[mid-1] < target < lis[mid]: 
+        elif lis[mid-1] < target < lis[mid]:
             return mid
         elif target < lis[mid]:
             end = mid - 1
         else:
             start = mid + 1
-    return start 
+    return start
 
 def sol():
     n = int(input())
