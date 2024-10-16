@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/네트워크/NET2_Data_Communication.md",
+                "file": "CS/네트워크/NET3_IP_Address_ARP_Protocol.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/네트워크/NET2_Data_Communication.md",
+                "file": "CS/네트워크/NET3_IP_Address_ARP_Protocol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/네트워크/NET2_Data_Communication.md",
+                "file": "CS/네트워크/NET3_IP_Address_ARP_Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/네트워크/NET2_Data_Communication.md"
+                "file": "CS/네트워크/NET3_IP_Address_ARP_Protocol.md"
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "972a2d3d07879ddf",
   "lastOpenFiles": [
+    "img/241002_2.png",
+    "img/241002_1.png",
+    "CS/네트워크/NET2_Data_Communication.md",
+    "CS/네트워크/NET3_IP_Address_ARP_Protocol.md",
     "img/240925_8.png",
     "img/240925_7.png",
     "img/240925_6.png",
@@ -157,13 +161,11 @@
     "img/240925_2.png",
     "img/240925_1.png",
     "CS/네트워크/NET1_Network_and_Model.md",
-    "CS/네트워크/NET2_Data_Communication.md",
     "etc/CLI.md",
     "etc/markdown.md",
     "React/MASTER04_Crypto_Tracker.md",
     "React/MASTER02_typescript.md",
     "img/240911_2.png",
-    "img/240911_1.png",
     "CS/네트워크",
     "React/BASIC05_CREATE_REACT_APP.md",
     "Algorithm/LCS.md",
@@ -177,13 +179,11 @@
     "Algorithm/240220_Tree.md",
     "CS/운영체제/OS5_Paging_Algorithm.md",
     "VueJS/240509_Vue07.md",
-    "img/240827_6.png",
     "CS/운영체제/OS4_Memory.md",
     "CS/운영체제/OS3_Sync.md",
     "CS/동기비동기.md",
     "DB/SQLD.md",
     "React/MASTER05_State_Management.md",
-    "Algorithm/240320_APS응용2.md",
-    "React/MASTER01_styled_components.md"
+    "Algorithm/240320_APS응용2.md"
   ]
 }
