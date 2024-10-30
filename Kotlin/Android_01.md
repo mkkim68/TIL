@@ -92,6 +92,48 @@
 	- 설치 시 컴파일을 완료하기 때문에 JIT에 비해 설치 속도 느림
 	- 실행 시 컴파일을 하지 않기 때문에 JIT에 비해 실행 속도 빠름
 	- 용량 큼(미리 컴파일하여 가지고 있기 때문)
-
+## 앱의 폴더와 파일 구조
+### 프로젝트 생성
+- Name
+	- 프로젝트 이름
+- Package name
+	- 도메인 네임을 거꾸로 뒤집은 네이밍
+	- 식별자라 유니크 해야함
+- Language
+	- Java와 Kotlin 중 하나를 선택
+- Minimum SDK
+	- 애플리케이션의 동작을 보장하는 최소 SDK
+- Build Configuration Language
+	- Kotlin DSL이 기본으로 선택됨. 기존은 Groovy로 작성이 기본, 현재는 Kotlin이 추천되고 있음
+### 디렉토리 파일 구조
+- AndroidManifest.xml
+	- 앱의 메인 환경 파일
+- MainActivity.java
+	- 화면 구성을 위한 액티비티 컴포넌트로 실제 이 파일이 수행되어 화면에 UI가 출력됨
+- res
+	- 앱의 모든 리소스 파일은 res폴더 하위에 위치
+	- res/drawable: 이미지 파일 저장
+	- res/layout: UI 구성을 위한 레이아웃 XML 파일
+	- res/mipmap: 앱 아이콘 이미지
+	- res/values: 문자열 값을 위한 폴더
+## Manifest
+### Manifext
+- AndroidManifest.xml 분석
+- \<manifest> 태그 부분
+	- manifest 태그를 통해 이 문서가 manifest에 관련된 문서라는 것을 지정
+	- 'xmlns:android' 네임스페이스를 선언
+	- package 선언: android 33, gradle 8부터는 xml 파일에서 설정이 제거되고, build.gradle 파일에 namespace 항목으로 선언됨
+- \<application> 태그 부분
+	- 어플리케이션 정보 정의
+	- android: allowBackup
+		- 백업 및 복구 기능을 사용할 것인가 여부
+		- 기본값 true
+	- android: icon
+		- 어플리케이션 전체를 위한 아이콘과 각각의 컴포넌트를 위한 아이콘
+	- android: label
+		- 어플리케이션을 나타내는 사용자가 읽을 수 있는 라벨
+		- 간단히 말해 어플 이름
+	- android: roundIcon
+		- 적응형 아이콘 적용
 # 안드로이드 Hello World!
 # Activity와 Intent
