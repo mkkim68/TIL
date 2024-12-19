@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cba37bf7a0e473e2",
+            "id": "094f7a09c726e478",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kotlin/Kotlin_02.md",
+                "file": "Docker/02_Docker_Start.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kotlin_02"
+              "title": "02_Docker_Start"
+            }
+          },
+          {
+            "id": "4e70dac09cffc786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/DB/241219_CH06-07.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "241219_CH06-07"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -43,7 +58,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -52,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "create-re",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +75,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
@@ -77,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d7d5ab43ddf04144",
@@ -154,17 +170,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cba37bf7a0e473e2",
+  "active": "4e70dac09cffc786",
   "lastOpenFiles": [
-    "img/241030_1.png",
+    "CS/DB/241213_CH02-03.md",
+    "CS/DB/241219_CH06-07.md",
+    "CS/DB/241211_CH01.md",
+    "Docker/02_Docker_Start.md",
+    "img/241210_8.png",
+    "img/241210_7.png",
+    "img/241210_6.png",
+    "img/241210_5.png",
+    "img/241210_4.png",
+    "img/241210_3.png",
+    "img/241210_2.png",
+    "img/241210_1.png",
+    "CS/DB",
+    "img/241206_3.png",
+    "img/241206_2.png",
+    "Docker/01_Software_Architecture.md",
     "Docker",
     "README.md",
     "Kotlin/Kotlin_02.md",
@@ -173,17 +204,7 @@
     "JavaScript/240417_JavaScript02.md",
     "JavaScript/240416_JavaScript01.md",
     "CS/네트워크/NET3_IP_Address_ARP_Protocol.md",
-    "img/241002_2.png",
-    "img/241002_1.png",
     "CS/네트워크/NET2_Data_Communication.md",
-    "img/240925_8.png",
-    "img/240925_7.png",
-    "img/240925_6.png",
-    "img/240925_5.png",
-    "img/240925_4.png",
-    "img/240925_3.png",
-    "img/240925_2.png",
-    "img/240925_1.png",
     "CS/네트워크/NET1_Network_and_Model.md",
     "etc/CLI.md",
     "etc/markdown.md",
@@ -197,10 +218,6 @@
     "Algorithm/Prime_Number.md",
     "Algorithm/Counting_Sort.md",
     "Algorithm/FloodFill.md",
-    "Algorithm/Brute_Force.md",
-    "Algorithm/Bit-Mask.md",
-    "Algorithm/240220_Tree.md",
-    "CS/운영체제/OS5_Paging_Algorithm.md",
-    "VueJS/240509_Vue07.md"
+    "Algorithm/Brute_Force.md"
   ]
 }
