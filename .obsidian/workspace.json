@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/DB/241219_CH06-07.md",
+                "file": "CS/네트워크/251016_Chapter3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241219_CH06-07"
+              "title": "251016_Chapter3"
             }
           }
         ],
@@ -92,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d7d5ab43ddf04144",
@@ -180,21 +179,27 @@
   },
   "active": "4e70dac09cffc786",
   "lastOpenFiles": [
-    "CS/DB/241213_CH02-03.md",
-    "CS/DB/241219_CH06-07.md",
+    "img/250116_6.png",
+    "img/250116_5.png",
+    "img/250116_4.png",
+    "img/250116_3.png",
+    "img/250116_2.png",
+    "img/250116_1.png",
+    "CS/네트워크/250110_Chapter1.md",
+    "CS/네트워크/251016_Chapter3.md",
+    "img/250110_3.png",
+    "img/250110_2.png",
     "CS/DB/241211_CH01.md",
+    "CS/DB/241228_CH10-11.md",
+    "CS/DB/250108_CH12-13.md",
+    "CS/DB/241219_CH06-07.md",
+    "img/250110_1.png",
+    "CS/DB/241223_CH08-09.md",
+    "CS/DB/241213_CH02-03.md",
     "Docker/02_Docker_Start.md",
     "img/241210_8.png",
     "img/241210_7.png",
-    "img/241210_6.png",
-    "img/241210_5.png",
-    "img/241210_4.png",
-    "img/241210_3.png",
-    "img/241210_2.png",
-    "img/241210_1.png",
     "CS/DB",
-    "img/241206_3.png",
-    "img/241206_2.png",
     "Docker/01_Software_Architecture.md",
     "Docker",
     "README.md",
@@ -212,12 +217,6 @@
     "React/MASTER02_typescript.md",
     "CS/네트워크",
     "React/BASIC05_CREATE_REACT_APP.md",
-    "Algorithm/LCS.md",
-    "Algorithm/LIS.md",
-    "Algorithm/Prefix_sum.md",
-    "Algorithm/Prime_Number.md",
-    "Algorithm/Counting_Sort.md",
-    "Algorithm/FloodFill.md",
-    "Algorithm/Brute_Force.md"
+    "Algorithm/LCS.md"
   ]
 }
