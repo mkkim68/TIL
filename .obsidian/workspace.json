@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/네트워크/250131_Chapter7.md",
+                "file": "CS/컴퓨터구조/240222_Ch01-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250131_Chapter7"
+              "title": "240222_Ch01-02"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -165,19 +166,25 @@
   },
   "active": "d0745842f4d79409",
   "lastOpenFiles": [
+    "img/250222_2.png",
+    "img/스크린샷 2025-02-22 오후 8.05.15.png",
+    "img/250222_1.png",
+    "img/스크린샷 2025-02-22 오후 7.43.07.png",
+    "DB/240402_SQL01.md",
+    "CS/컴퓨터구조/240222_Ch01-02.md",
+    "CS/컴퓨터구조",
+    "CS/무제.md",
+    "CS/네트워크/250131_Chapter7.md",
+    "\t.pub",
+    "\t",
     "img/250131_2.png",
     "img/스크린샷 2025-01-31 오후 6.01.09.png",
     "img/250131_1.png",
     "img/스크린샷 2025-01-31 오후 3.00.54.png",
     "CS/네트워크/250127_Chapter5.md",
-    "CS/네트워크/250131_Chapter7.md",
     "img/250127_5.png",
     "img/스크린샷 2025-01-27 오후 8.36.08.png",
     "img/250127_4.png",
-    "img/스크린샷 2025-01-27 오후 7.45.27.png",
-    "img/250127_3.png",
-    "img/스크린샷 2025-01-27 오후 5.38.48.png",
-    "img/250127_2.png",
     "무제 파일.md",
     "CS/네트워크/250122_Chapter4.md",
     "CS/네트워크/250116_Chapter3.md",
@@ -200,9 +207,6 @@
     "JavaScript/240416_JavaScript01.md",
     "CS/네트워크/NET3_IP_Address_ARP_Protocol.md",
     "CS/네트워크/NET2_Data_Communication.md",
-    "CS/네트워크/NET1_Network_and_Model.md",
-    "etc/CLI.md",
-    "etc/markdown.md",
     "CS/네트워크"
   ]
 }
