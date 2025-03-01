@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/컴퓨터구조/240222_Ch01-02.md",
+                "file": "CS/컴퓨터구조/240301_Ch03-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "240222_Ch01-02"
+              "title": "240301_Ch03-04"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "union",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,47 +167,47 @@
   },
   "active": "d0745842f4d79409",
   "lastOpenFiles": [
-    "img/250222_2.png",
-    "img/스크린샷 2025-02-22 오후 8.05.15.png",
-    "img/250222_1.png",
-    "img/스크린샷 2025-02-22 오후 7.43.07.png",
-    "DB/240402_SQL01.md",
+    "img/250301_5.png",
+    "img/스크린샷 2025-03-01 오후 8.04.52.png",
+    "img/250301_4.png",
+    "img/스크린샷 2025-03-01 오후 7.45.55.png",
+    "img/250301_3.png",
+    "img/스크린샷 2025-03-01 오후 7.11.21.png",
+    "img/250301_2.png",
+    "img/스크린샷 2025-03-01 오후 6.58.08.png",
+    "img/250301_1.png",
+    "img/스크린샷 2025-03-01 오후 6.48.05.png",
+    "Algorithm/240320_APS응용2.md",
+    "daily/2024-01-28.md",
+    "Algorithm/240221_Tree.md",
+    "Algorithm/240220_Tree.md",
+    "Algorithm/240227_APS응용.md",
+    "Algorithm/240321_APS응용2.md",
+    "Algorithm/240319_APS응용2.md",
+    "Algorithm/240318_APS응용2.md",
+    "Algorithm/240228_APS응용.md",
+    "Algorithm/Counting_Sort.md",
+    "Algorithm/Brute_Force.md",
+    "Algorithm/Bit-Mask.md",
+    "Algorithm/Bellman-Ford.md",
+    "Algorithm/240215_Queue.md",
+    "Algorithm/240213_Stack2.md",
+    "Algorithm/240226_문제풀이.md",
+    "Algorithm/240223_Start.md",
+    "Algorithm/240222_Start.md",
+    "CS/컴퓨터구조/240301_Ch03-04.md",
+    "img/250226_2.png",
     "CS/컴퓨터구조/240222_Ch01-02.md",
+    "DB/240402_SQL01.md",
     "CS/컴퓨터구조",
     "CS/무제.md",
     "CS/네트워크/250131_Chapter7.md",
     "\t.pub",
     "\t",
-    "img/250131_2.png",
-    "img/스크린샷 2025-01-31 오후 6.01.09.png",
-    "img/250131_1.png",
-    "img/스크린샷 2025-01-31 오후 3.00.54.png",
     "CS/네트워크/250127_Chapter5.md",
-    "img/250127_5.png",
-    "img/스크린샷 2025-01-27 오후 8.36.08.png",
-    "img/250127_4.png",
     "무제 파일.md",
-    "CS/네트워크/250122_Chapter4.md",
-    "CS/네트워크/250116_Chapter3.md",
-    "CS/네트워크/250110_Chapter1.md",
-    "CS/DB/241211_CH01.md",
-    "CS/DB/241228_CH10-11.md",
-    "CS/DB/250108_CH12-13.md",
-    "CS/DB/241219_CH06-07.md",
-    "CS/DB/241223_CH08-09.md",
-    "CS/DB/241213_CH02-03.md",
-    "Docker/02_Docker_Start.md",
     "CS/DB",
-    "Docker/01_Software_Architecture.md",
     "Docker",
-    "README.md",
-    "Kotlin/Kotlin_02.md",
-    "Kotlin/Kotlin_01.md",
-    "Kotlin/Android_01.md",
-    "JavaScript/240417_JavaScript02.md",
-    "JavaScript/240416_JavaScript01.md",
-    "CS/네트워크/NET3_IP_Address_ARP_Protocol.md",
-    "CS/네트워크/NET2_Data_Communication.md",
     "CS/네트워크"
   ]
 }
