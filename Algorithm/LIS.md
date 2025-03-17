@@ -16,6 +16,7 @@ answer = max(dp)
 ```
 ## 이분 탐색 이용
 - O(NlogN)
+- 이렇게 한 lis 배열 결과는 실제 lis와 다름(가짜 LIS임)
 ```python
 def binary_search(target,lis):
     start, end = 0, len(lis)-1
@@ -46,4 +47,56 @@ def sol():
     return len(lis) 
 
 print(sol())
+```
+## 이분 탐색 이용해서 실제 LIS 구하는 법
+- O(NlogN)
+```python
+import bisect  
+  
+# 입력 데이터  
+nums = [3, 7, 5, 2, 6, 1, 4]
+N = len(nums)  
+  
+# 가짜 LIS를 위한 배열 (길이만 유지)  
+lis = []  
+trace = [-1] * N  # 각 숫자가 LIS에서 위치한 인덱스를 저장  
+parent = [-1] * N  # LIS를 추적하기 위한 부모 인덱스 저장  
+  
+# 실제 LIS를 만들기 위한 인덱스 저장 배열  
+lis_indices = []  
+  
+for i in range(N):  
+    num = nums[i]  
+    idx = bisect.bisect_left(lis, num)  # LIS 배열에서 들어갈 위치 찾기  
+  
+    if idx == len(lis):  
+        lis.append(num)  # LIS 길이 증가  
+        lis_indices.append(i)  # LIS 값이 추가될 때 인덱스 저장  
+    else:  
+        lis[idx] = num  # LIS 값 갱신  
+        lis_indices[idx] = i  # 해당 위치에 새로운 인덱스 갱신  
+  
+    trace[i] = idx  # 현재 숫자가 LIS의 어디에 저장되었는지 기록  
+  
+    # 이전 숫자가 LIS의 일부라면 부모 설정 (추적을 위해)  
+    if idx > 0:  
+        parent[i] = lis_indices[idx - 1]  # 올바른 부모 인덱스 저장  
+  
+# 🔹 역추적을 통해 실제 LIS 복원  
+lis_length = len(lis)  # LIS 길이  
+lis_seq = [-1] * lis_length  # LIS 값 저장할 리스트  
+pos = lis_indices[-1]  # LIS의 마지막 원소 인덱스  
+  
+for i in range(lis_length - 1, -1, -1):  
+    lis_seq[i] = nums[pos]  # LIS 값을 역추적하여 저장  
+    pos = parent[pos]  # 부모 인덱스를 따라가면서 복원  
+  
+# 결과 출력  
+{  
+    "가짜 LIS (길이만 유지하는 배열)": lis,  
+    "진짜 LIS (실제 수열 복원)": lis_seq  
+}  
+  
+print(lis)  
+print(lis_seq)
 ```
