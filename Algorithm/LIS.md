@@ -58,8 +58,7 @@ nums = [3, 7, 5, 2, 6, 1, 4]
 N = len(nums)  
   
 # 가짜 LIS를 위한 배열 (길이만 유지)  
-lis = []  
-trace = [-1] * N  # 각 숫자가 LIS에서 위치한 인덱스를 저장  
+lis = []    
 parent = [-1] * N  # LIS를 추적하기 위한 부모 인덱스 저장  
   
 # 실제 LIS를 만들기 위한 인덱스 저장 배열  
@@ -74,9 +73,7 @@ for i in range(N):
         lis_indices.append(i)  # LIS 값이 추가될 때 인덱스 저장  
     else:  
         lis[idx] = num  # LIS 값 갱신  
-        lis_indices[idx] = i  # 해당 위치에 새로운 인덱스 갱신  
-  
-    trace[i] = idx  # 현재 숫자가 LIS의 어디에 저장되었는지 기록  
+        lis_indices[idx] = i  # 해당 위치에 새로운 인덱스 갱신   
   
     # 이전 숫자가 LIS의 일부라면 부모 설정 (추적을 위해)  
     if idx > 0:  
