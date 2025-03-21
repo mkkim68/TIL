@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/DB/241216_CH04-05.md",
-                "mode": "source",
+                "file": "CS/컴퓨터구조/250323_Ch07-08.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241216_CH04-05"
+              "title": "250323_Ch07-08"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "UNION",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 250.5
   },
   "right": {
     "id": "d7d5ab43ddf04144",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/DB/241216_CH04-05.md",
+                "file": "CS/컴퓨터구조/250323_Ch07-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "241216_CH04-05 의 백링크"
+              "title": "250323_Ch07-08 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/240417_JavaScript02.md",
+                "file": "CS/네트워크/250113_Chapter2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 240417_JavaScript02"
+              "title": "250113_Chapter2 의 나가는 링크"
             }
           },
           {
@@ -128,10 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "태그"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/DB/241216_CH04-05.md",
+                "file": "CS/컴퓨터구조/250323_Ch07-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "241216_CH04-05 의 개요"
+              "title": "250323_Ch07-08 의 개요"
             }
           }
         ],
@@ -169,43 +171,43 @@
   },
   "active": "63d7450971499926",
   "lastOpenFiles": [
-    "CS/DB/250108_CH12-13.md",
-    "CS/컴퓨터구조/240323_Ch07-08.md",
-    "CS/네트워크/250127_Chapter5.md",
-    "CS/네트워크/250131_Chapter7.md",
-    "CS/DB/241216_CH04-05.md",
-    "CS/DB/241219_CH06-07.md",
-    "CS/DB/241213_CH02-03.md",
-    "CS/운영체제/OS1_Process&Thread.md",
-    "CS/운영체제/OS5_Paging_Algorithm.md",
-    "CS/운영체제/OS5.md",
-    "CS/DB/241211_CH01.md",
-    "img/250318_11.png",
-    "img/스크린샷 2025-03-18 오후 8.17.34.png",
-    "img/250318_10.png",
-    "img/스크린샷 2025-03-18 오후 8.15.50.png",
-    "img/250318_9.png",
-    "img/스크린샷 2025-03-18 오후 8.14.10.png",
-    "img/250318_8.png",
-    "img/스크린샷 2025-03-18 오후 8.08.37.png",
-    "img/250318_7.png",
-    "img/스크린샷 2025-03-18 오후 8.02.38.png",
-    "README.md",
-    "Web/240312_Django01.md",
-    "Django/240312_Django01.md",
-    "daily/2024-05-02.md",
-    "daily/2024-04-09.md",
-    "daily/2024-03-10.md",
-    "daily/2024-02-05.md",
-    "daily/2024-02-04.md",
-    "daily/2024-01-27.md",
+    "CS/컴퓨터구조/250315_Ch06.md",
+    "CS/컴퓨터구조/250323_Ch07-08.md",
+    "CS/컴퓨터구조/250301_Ch03-04.md",
+    "CS/컴퓨터구조/250222_Ch01-02.md",
     "Algorithm/LIS.md",
-    "img/화면 기록 2025-03-18 오후 3.25.03.mov",
     "Algorithm/LCS.md",
-    "CS/컴퓨터구조/240315_Ch06.md",
     "Algorithm/플로이드 워셜 (Floyd-Warshall Algorithm).md",
-    "DB/SQLD.md",
-    "DB/240402_SQL01.md",
+    "Algorithm/240321_APS응용2.md",
+    "Algorithm/240320_APS응용2.md",
+    "Algorithm/240319_APS응용2.md",
+    "Algorithm/240318_APS응용2.md",
+    "Algorithm/240228_APS응용.md",
+    "Algorithm/240227_APS응용.md",
+    "Algorithm/240226_문제풀이.md",
+    "Algorithm/240223_Start.md",
+    "Algorithm/240222_Start.md",
+    "Algorithm/240221_Tree.md",
+    "Algorithm/240220_Tree.md",
+    "Algorithm/240216_Queue.md",
+    "Algorithm/240215_Queue.md",
+    "Algorithm/240214_Stack2.md",
+    "Algorithm/240208_Stack1.md",
+    "Algorithm/240207_Stack1.md",
+    "Algorithm/240206_String.md",
+    "Algorithm/240205_String.md",
+    "Algorithm/240129_List1.md",
+    "img/250320_9.png",
+    "img/250320_8.png",
+    "img/스크린샷 2025-03-20 오후 11.04.10.png",
+    "img/스크린샷 2025-03-20 오후 11.03.26.png",
+    "img/250320_7.png",
+    "img/250320_6.png",
+    "img/스크린샷 2025-03-20 오후 11.01.40.png",
+    "img/스크린샷 2025-03-20 오후 11.01.36.png",
+    "img/250320_5.png",
+    "img/250320_4.png",
+    "img/화면 기록 2025-03-18 오후 3.25.03.mov",
     "CS/컴퓨터구조",
     "\t.pub",
     "\t",
