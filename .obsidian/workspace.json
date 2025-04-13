@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "21a46f4b3616d9bd",
+        "id": "d303b98d1c89bf13",
         "type": "tabs",
         "children": [
           {
-            "id": "63d7450971499926",
+            "id": "b68ae0a895278078",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/운영체제/250329_Ch09-10.md",
+                "file": "CS/운영체제/250413_Ch12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250329_Ch09-10"
-            }
-          },
-          {
-            "id": "378be662aa977f03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/운영체제/250406_Ch11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "250406_Ch11"
+              "title": "250413_Ch12"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/운영체제/250406_Ch11.md",
+                "file": "CS/운영체제/250413_Ch12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +105,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "250406_Ch11 의 백링크"
+              "title": "250413_Ch12 의 백링크"
             }
           },
           {
@@ -184,25 +169,26 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "378be662aa977f03",
+  "active": "b68ae0a895278078",
   "lastOpenFiles": [
+    "img/250413_3.png",
+    "img/스크린샷 2025-04-13 오후 4.38.18.png",
+    "img/250413_2.png",
+    "img/스크린샷 2025-04-13 오후 3.54.07.png",
+    "img/250413_1.png",
+    "img/스크린샷 2025-04-13 오후 2.54.55.png",
+    "CS/운영체제/250413_Ch12.md",
+    "CS/운영체제/250406_Ch11.md",
+    "CS/운영체제/250329_Ch09-10.md",
+    "img/스크린샷 2025-04-08 오후 10.10.57.png",
     "img/250404_5.png",
     "img/스크린샷 2025-04-04 오후 9.21.25.png",
     "img/250404_4.png",
     "img/스크린샷 2025-04-04 오후 7.47.55.png",
-    "img/250404_3.png",
-    "img/스크린샷 2025-04-04 오후 7.34.10.png",
-    "img/250404_2.png",
-    "img/스크린샷 2025-04-04 오후 7.23.46.png",
-    "img/스크린샷 2025-04-04 오후 7.22.36.png",
-    "img/250404_1.png",
-    "img/스크린샷 2025-04-04 오후 7.12.39.png",
     "정보처리기사/실기/1장. 요구사항 확인.md",
-    "CS/운영체제/250406_Ch11.md",
     "정보처리기사/실기/1. 소프트웨어 생명 주기.md",
     "정보처리기사/실기/1장 요구사항 확인",
     "정보처리기사/실기",
-    "CS/운영체제/250329_Ch09-10.md",
     "정보처리기사",
     "Algorithm/240321_APS응용2.md",
     "Algorithm/Bellman-Ford.md",
@@ -224,7 +210,6 @@
     "Algorithm/240221_Tree.md",
     "Algorithm/240220_Tree.md",
     "Algorithm/240216_Queue.md",
-    "Algorithm/240215_Queue.md",
     "img/화면 기록 2025-03-18 오후 3.25.03.mov",
     "CS/컴퓨터구조",
     "\t.pub",
