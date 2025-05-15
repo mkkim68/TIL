@@ -11,10 +11,14 @@
             "id": "53d2cc798558cac6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Nextjs/2.Route.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2.Route"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 217.5,
+    "collapsed": true
   },
   "right": {
     "id": "d7d5ab43ddf04144",
@@ -164,8 +169,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "117ccdad7a871726",
+  "active": "53d2cc798558cac6",
   "lastOpenFiles": [
+    "Nextjs/1.Introduction.md",
+    "Nextjs/2.Route.md",
+    "PJT_ver1/240119_PJT01.md",
     "Algorithm/240130_List1.md",
     "README.md",
     "daily/2024-01-14.md",
@@ -203,9 +211,6 @@
     "Algorithm/240319_APS응용2.md",
     "Algorithm/240318_APS응용2.md",
     "Algorithm/240228_APS응용.md",
-    "Algorithm/240227_APS응용.md",
-    "CS/컴퓨터구조/250323_Ch07-08.md",
-    "CS/컴퓨터구조/250315_Ch06.md",
     "img/화면 기록 2025-03-18 오후 3.25.03.mov",
     "CS/컴퓨터구조",
     "\t.pub",
