@@ -41,6 +41,16 @@ console.log(a); // 10
 - 코드 실행 전 자바스크립트 엔진이 미리 다음과 같은 과정을 거침
 	1. 변수 선언
 	2. undefined로 초기화
+### 함수 선언
+- 호이스팅 발생
+```js
+func();  // hoisting test
+
+function func() {
+	console.log('hoisting test');
+}
+```
+- 올바르게 호출됨
 ### let, const
 - 변수 호이스팅 발생
 - var와는 다른 방식으로 작동
