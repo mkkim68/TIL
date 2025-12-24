@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/theory/window.md",
+                "file": "Algorithm/0-1_BFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "window"
+              "title": "0-1_BFS"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d7d5ab43ddf04144",
@@ -186,8 +187,9 @@
   },
   "active": "65ab75b2fb681928",
   "lastOpenFiles": [
-    "JavaScript/theory/type.md",
     "JavaScript/theory/window.md",
+    "Algorithm/0-1_BFS.md",
+    "JavaScript/theory/type.md",
     "JavaScript/theory/var,let,const.md",
     "JavaScript/theory/console.md",
     "JavaScript/theory/this.md",
@@ -218,7 +220,6 @@
     "DB/SQLD.md",
     "Web/240312_Django01.md",
     "Web/240329_Django08.md",
-    "Django/240314_Django03.md",
     "Nextjs",
     "img/250420_1.png",
     "img/스크린샷 2025-04-20 오후 9.33.09.png",
