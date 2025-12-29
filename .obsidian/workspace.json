@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/0-1_BFS.md",
+                "file": "JavaScript/theory/event.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0-1_BFS"
+              "title": "event"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d7d5ab43ddf04144",
@@ -187,8 +186,20 @@
   },
   "active": "65ab75b2fb681928",
   "lastOpenFiles": [
-    "JavaScript/theory/window.md",
+    "JavaScript/theory/DOM.md",
+    "JavaScript/theory/event.md",
+    "img/251229_5.png",
+    "img/스크린샷 2025-12-29 오전 11.52.29.png",
+    "img/251229_3.png",
+    "img/251229_4.png",
+    "img/스크린샷 2025-12-29 오전 11.50.04.png",
+    "img/스크린샷 2025-12-29 오전 11.49.46.png",
+    "img/스크린샷 2025-12-29 오전 11.35.09.png",
+    "img/251229_2.png",
+    "img/스크린샷 2025-12-29 오전 11.30.34.png",
     "Algorithm/0-1_BFS.md",
+    "img/251229_1.png",
+    "JavaScript/theory/window.md",
     "JavaScript/theory/type.md",
     "JavaScript/theory/var,let,const.md",
     "JavaScript/theory/console.md",
@@ -200,8 +211,6 @@
     "무제",
     "Algorithm/LCS.md",
     "Algorithm/240220_Tree.md",
-    "img/스크린샷 2025-11-30 오후 11.48.58.png",
-    "img/스크린샷 2025-11-30 오후 10.04.33.png",
     "Algorithm/FloodFill.md",
     "daily/2024-01-29.md",
     "Algorithm/Bellman-Ford.md",
@@ -209,24 +218,13 @@
     "Algorithm/Prime_Number.md",
     "JavaScript/theory",
     "JavaScript/무제",
-    "img/스크린샷 2025-08-22 오후 5.01.32.png",
     "VueJS/240429_Vue02.md",
     "VueJS/240425_Vue01.md",
     "React/BASIC02.md",
     "Algorithm/외판원순회.md",
     "DB/240402_SQL01.md",
-    "img/스크린샷 2025-07-29 오후 8.08.01.png",
     "DB/240402_SQL02.md",
-    "DB/SQLD.md",
-    "Web/240312_Django01.md",
-    "Web/240329_Django08.md",
     "Nextjs",
-    "img/250420_1.png",
-    "img/스크린샷 2025-04-20 오후 9.33.09.png",
-    "img/250413_3.png",
-    "img/스크린샷 2025-04-13 오후 4.38.18.png",
-    "img/250413_2.png",
-    "img/스크린샷 2025-04-13 오후 3.54.07.png",
     "정보처리기사/실기/1장 요구사항 확인",
     "정보처리기사/실기",
     "정보처리기사",
