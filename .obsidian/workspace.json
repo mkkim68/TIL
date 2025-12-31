@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/theory/Closure.md",
+                "file": "JavaScript/theory/curry-function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Closure"
+              "title": "curry-function"
             }
           }
         ],
@@ -186,8 +186,17 @@
   },
   "active": "65ab75b2fb681928",
   "lastOpenFiles": [
-    "JavaScript/theory/this.md",
+    "JavaScript/theory/무제.md",
+    "JavaScript/theory/curry-function.md",
+    "JavaScript/theory/pure-function.md",
+    "JavaScript/theory/IIFE.md",
+    "JavaScript/theory/function.md",
+    "JavaScript/theory/Copy.md",
+    "JavaScript/theory/Compare.md",
+    "img/251231_1.png",
+    "img/스크린샷 2025-12-31 오후 12.24.54.png",
     "JavaScript/theory/Closure.md",
+    "JavaScript/theory/this.md",
     "JavaScript/theory/event.md",
     "JavaScript/theory/DOM.md",
     "img/251229_5.png",
@@ -198,9 +207,7 @@
     "img/스크린샷 2025-12-29 오전 11.49.46.png",
     "img/스크린샷 2025-12-29 오전 11.35.09.png",
     "img/251229_2.png",
-    "img/스크린샷 2025-12-29 오전 11.30.34.png",
     "Algorithm/0-1_BFS.md",
-    "img/251229_1.png",
     "JavaScript/theory/window.md",
     "JavaScript/theory/type.md",
     "JavaScript/theory/var,let,const.md",
@@ -216,15 +223,8 @@
     "daily/2024-01-29.md",
     "Algorithm/Bellman-Ford.md",
     "Algorithm/Prefix_sum.md",
-    "Algorithm/Prime_Number.md",
     "JavaScript/theory",
     "JavaScript/무제",
-    "VueJS/240429_Vue02.md",
-    "VueJS/240425_Vue01.md",
-    "React/BASIC02.md",
-    "Algorithm/외판원순회.md",
-    "DB/240402_SQL01.md",
-    "DB/240402_SQL02.md",
     "Nextjs",
     "정보처리기사/실기/1장 요구사항 확인",
     "정보처리기사/실기",
