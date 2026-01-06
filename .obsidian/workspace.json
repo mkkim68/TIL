@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/theory/curry-function.md",
+                "file": "JavaScript/theory/generator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "curry-function"
+              "title": "generator"
             }
           }
         ],
@@ -186,7 +186,15 @@
   },
   "active": "65ab75b2fb681928",
   "lastOpenFiles": [
-    "JavaScript/theory/무제.md",
+    "JavaScript/theory/iterator.md",
+    "JavaScript/theory/generator.md",
+    "JavaScript/theory/Symbol.md",
+    "JavaScript/theory/async-await.md",
+    "JavaScript/theory/Promise.md",
+    "JavaScript/theory/Callback.md",
+    "JavaScript/theory/ES6-Classes.md",
+    "JavaScript/theory/javascript-prototype.md",
+    "Nextjs/2.Route.md",
     "JavaScript/theory/curry-function.md",
     "JavaScript/theory/pure-function.md",
     "JavaScript/theory/IIFE.md",
@@ -214,15 +222,7 @@
     "JavaScript/theory/console.md",
     "Algorithm/플로이드 워셜 (Floyd-Warshall Algorithm).md",
     "무제.md",
-    "Algorithm/240321_APS응용2.md",
-    "Algorithm/LIS.md",
     "무제",
-    "Algorithm/LCS.md",
-    "Algorithm/240220_Tree.md",
-    "Algorithm/FloodFill.md",
-    "daily/2024-01-29.md",
-    "Algorithm/Bellman-Ford.md",
-    "Algorithm/Prefix_sum.md",
     "JavaScript/theory",
     "JavaScript/무제",
     "Nextjs",
