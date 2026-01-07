@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/theory/generator.md",
+                "file": "JavaScript/theory/design-pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "generator"
+              "title": "design-pattern"
             }
           }
         ],
@@ -186,12 +186,13 @@
   },
   "active": "65ab75b2fb681928",
   "lastOpenFiles": [
-    "JavaScript/theory/iterator.md",
+    "JavaScript/theory/Callback.md",
+    "JavaScript/theory/design-pattern.md",
     "JavaScript/theory/generator.md",
+    "JavaScript/theory/iterator.md",
     "JavaScript/theory/Symbol.md",
     "JavaScript/theory/async-await.md",
     "JavaScript/theory/Promise.md",
-    "JavaScript/theory/Callback.md",
     "JavaScript/theory/ES6-Classes.md",
     "JavaScript/theory/javascript-prototype.md",
     "Nextjs/2.Route.md",
@@ -221,7 +222,6 @@
     "JavaScript/theory/var,let,const.md",
     "JavaScript/theory/console.md",
     "Algorithm/플로이드 워셜 (Floyd-Warshall Algorithm).md",
-    "무제.md",
     "무제",
     "JavaScript/theory",
     "JavaScript/무제",
