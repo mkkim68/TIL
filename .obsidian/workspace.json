@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ES6/example2.md",
+                "file": "ES6/takeWhile, takeUntil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "example2"
+              "title": "takeWhile, takeUntil"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d7d5ab43ddf04144",
@@ -186,8 +187,9 @@
   },
   "active": "65ab75b2fb681928",
   "lastOpenFiles": [
-    "ES6/example1.md",
     "ES6/example2.md",
+    "ES6/takeWhile, takeUntil.md",
+    "ES6/example1.md",
     "JavaScript/theory/design-pattern.md",
     "ES6",
     "JavaScript/theory/Callback.md",
@@ -222,7 +224,6 @@
     "Algorithm/0-1_BFS.md",
     "JavaScript/theory/window.md",
     "JavaScript/theory/type.md",
-    "JavaScript/theory/var,let,const.md",
     "JavaScript/theory",
     "JavaScript/무제",
     "Nextjs",
