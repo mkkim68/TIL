@@ -136,4 +136,3 @@ const bear1: NewType = {
 	honey: true
 }
 ```
-3
