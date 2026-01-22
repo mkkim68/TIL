@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Typescript/Generics.md",
+                "file": "Typescript/tsconfig.json.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Generics"
+              "title": "tsconfig.json"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d7d5ab43ddf04144",
@@ -171,14 +172,19 @@
   },
   "active": "9793620fa80d6889",
   "lastOpenFiles": [
+    "Typescript/Mapped-Types.md",
+    "Typescript/tsconfig.json.md",
+    "Typescript/keyof.md",
     "Typescript/Overloading.md",
-    "Typescript/Signature.md",
     "Typescript/Generics.md",
-    "Typescript/access-modifier.md",
+    "Typescript/Annotation&Inference.md",
     "Typescript/Alias&Interface.md",
+    "Typescript/access-modifier.md",
+    "Typescript/Utility-Type.md",
+    "Typescript/Implements-vs-Extends.md",
+    "Typescript/Signature.md",
     "Algorithm/LIS.md",
     "Typescript/Type.md",
-    "Typescript/Annotation&Inference.md",
     "Typescript/Assetion&Guard.md",
     "Typescript/Typescript.md",
     "Algorithm/240321_APS응용2.md",
@@ -194,11 +200,6 @@
     "JavaScript/theory/Symbol.md",
     "JavaScript/theory/async-await.md",
     "JavaScript/theory/Promise.md",
-    "JavaScript/theory/ES6-Classes.md",
-    "JavaScript/theory/javascript-prototype.md",
-    "Nextjs/2.Route.md",
-    "JavaScript/theory/curry-function.md",
-    "JavaScript/theory/pure-function.md",
     "img/251231_1.png",
     "img/스크린샷 2025-12-31 오후 12.24.54.png",
     "img/251229_5.png",
