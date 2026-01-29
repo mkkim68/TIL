@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/theory/Spread-Operator.md",
+                "file": "React/theory/Immutable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spread-Operator"
+              "title": "Immutable"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/theory/Spread-Operator.md",
+                "file": "React/theory/Virtual-DOM.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Spread-Operator 의 백링크"
+              "title": "Virtual-DOM 의 백링크"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/theory/Spread-Operator.md",
+                "file": "React/theory/Virtual-DOM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Spread-Operator 의 개요"
+              "title": "Virtual-DOM 의 개요"
             }
           }
         ],
@@ -172,12 +172,17 @@
   },
   "active": "9793620fa80d6889",
   "lastOpenFiles": [
-    "React/theory/React-State.md",
+    "React/theory/Destructuring.md",
+    "React/theory/Immutable.md",
+    "React/theory/State-Props.md",
+    "React/theory/무제",
+    "React/theory/React-Hooks.md",
+    "React/theory/Virtual-DOM.md",
     "React/theory/Spread-Operator.md",
+    "React/theory/React-State.md",
     "React/theory/Key.md",
     "React/theory/JSX.md",
     "React/theory/SPA.md",
-    "React/theory/Virtual-DOM.md",
     "React/theory/Component.md",
     "React/theory/React-is-a-Library.md",
     "Typescript/AddEventListener.md",
@@ -195,10 +200,6 @@
     "Typescript/keyof.md",
     "Typescript/Generics.md",
     "Typescript/Annotation&Inference.md",
-    "Typescript/Alias&Interface.md",
-    "Typescript/access-modifier.md",
-    "Typescript/Implements-vs-Extends.md",
-    "Typescript/Signature.md",
     "Typescript",
     "ES6",
     "img/251231_1.png",
@@ -216,7 +217,6 @@
     "Nextjs",
     "정보처리기사/실기/1장 요구사항 확인",
     "정보처리기사/실기",
-    "정보처리기사",
-    "img/화면 기록 2025-03-18 오후 3.25.03.mov"
+    "정보처리기사"
   ]
 }
