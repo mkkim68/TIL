@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/theory/About-Java.md",
+                "file": "React/theory/React-Router-DOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About-Java"
+              "title": "React-Router-DOM"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 213.5
   },
   "right": {
     "id": "d7d5ab43ddf04144",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/theory/Virtual-DOM.md",
+                "file": "React/theory/React-Router-DOM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Virtual-DOM 의 개요"
+              "title": "React-Router-DOM 의 개요"
             }
           }
         ],
@@ -172,38 +172,41 @@
   },
   "active": "9793620fa80d6889",
   "lastOpenFiles": [
-    "Java/syntax/command.md",
-    "Java/syntax/comment.md",
-    "Java/theory/About-Java.md",
+    "React/theory/Styled-Components.md",
+    "React/theory/React-Router-DOM.md",
+    "React/theory/Axios.md",
+    "React/syntax/localStorage.md",
+    "React/theory/무제",
+    "Typescript/Lookup-Types.md",
+    "Typescript/theory/keyof+Generic.md",
+    "Typescript/syntax/keyof.md",
+    "Typescript/syntax/Infer.md",
+    "Typescript/theory/Implements-vs-Extends.md",
+    "Typescript/theory/Generics.md",
+    "Typescript/syntax/d.ts.md",
+    "Typescript/syntax/access-modifier.md",
+    "Typescript/syntax/Conditional-Type.md",
+    "Typescript/theory/Assetion&Guard.md",
+    "Typescript/theory/Annotation&Inference.md",
+    "Typescript/theory/Alias&Interface.md",
+    "Typescript/syntax/AddEventListener.md",
+    "React/theory/Immutable.md",
+    "Typescript/theory",
+    "Typescript/syntax",
+    "React/theory/Virtual-DOM.md",
+    "React/theory/State-Props.md",
+    "React/theory/SPA.md",
+    "React/syntax/Spread-Operator.md",
+    "React/theory/React-State.md",
+    "React/theory/React-is-a-Library.md",
+    "React/theory/React-Hooks.md",
+    "React/theory/Key.md",
+    "React/syntax",
     "Java/syntax",
     "img/스크린샷 2026-02-02 오후 12.55.37.png",
-    "React/theory/Immutable.md",
     "Java/theory",
     "Java",
-    "React/theory/Destructuring.md",
-    "React/theory/State-Props.md",
-    "React/theory/무제",
-    "React/theory/React-Hooks.md",
-    "React/theory/Virtual-DOM.md",
-    "React/theory/Spread-Operator.md",
-    "React/theory/React-State.md",
-    "React/theory/Key.md",
-    "React/theory/JSX.md",
-    "React/theory/SPA.md",
-    "React/theory/Component.md",
-    "React/theory/React-is-a-Library.md",
-    "Typescript/AddEventListener.md",
     "React/theory",
-    "Typescript/keyof+Generic.md",
-    "Typescript/Lookup-Types.md",
-    "Typescript/Utility-Type.md",
-    "Typescript/Mapped-Types.md",
-    "Typescript/Overloading.md",
-    "Typescript/Satisfies.md",
-    "Typescript/Infer.md",
-    "Typescript/Conditional-Type.md",
-    "Typescript/d.ts.md",
-    "Typescript/tsconfig.json.md",
     "Typescript",
     "ES6",
     "img/251231_1.png",
@@ -214,9 +217,6 @@
     "img/251229_4.png",
     "img/스크린샷 2025-12-29 오전 11.50.04.png",
     "img/스크린샷 2025-12-29 오전 11.49.46.png",
-    "img/스크린샷 2025-12-29 오전 11.35.09.png",
-    "JavaScript/theory",
-    "JavaScript/무제",
-    "Nextjs"
+    "img/스크린샷 2025-12-29 오전 11.35.09.png"
   ]
 }
