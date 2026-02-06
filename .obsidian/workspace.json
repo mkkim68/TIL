@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/syntax/Integer.md",
+                "file": "Java/syntax/String.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integer"
+              "title": "String"
             }
           }
         ]
@@ -172,10 +172,15 @@
   },
   "active": "9793620fa80d6889",
   "lastOpenFiles": [
-    "Java/syntax/data-type&variable.md",
-    "Java/syntax/Integer.md",
+    "Java/syntax/Boolean.md",
+    "Java/syntax/Character.md",
     "Java/syntax/command.md",
     "Java/syntax/comment.md",
+    "Java/syntax/data-type&variable.md",
+    "Java/syntax/Float.md",
+    "Java/syntax/String.md",
+    "Java/syntax/Integer.md",
+    "Java/theory/Data-Type.md",
     "Java/theory/About-Java.md",
     "React/theory/React-Router-DOM.md",
     "React/theory/Styled-Components.md",
@@ -194,13 +199,8 @@
     "Typescript/theory/Assetion&Guard.md",
     "Typescript/theory/Annotation&Inference.md",
     "Typescript/theory/Alias&Interface.md",
-    "Typescript/syntax/AddEventListener.md",
-    "React/theory/Immutable.md",
     "Typescript/theory",
     "Typescript/syntax",
-    "React/theory/Virtual-DOM.md",
-    "React/theory/State-Props.md",
-    "React/theory/SPA.md",
     "React/syntax",
     "Java/syntax",
     "img/스크린샷 2026-02-02 오후 12.55.37.png",

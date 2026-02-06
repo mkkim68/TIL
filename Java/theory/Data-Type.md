@@ -1,0 +1,6 @@
+- ![자료형과 변수](../syntax/data-type&variable)
+- ![정수 자료형](../syntax/Integer)
+- ![실수 자료형](../syntax/Float)
+- ![문자 자료형](../syntax/Character)
+- ![불리언 자료형](../syntax/Boolean)
+- ![문자열 자료형](../syntax/String)
