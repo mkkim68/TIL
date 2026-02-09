@@ -1,4 +1,6 @@
 # 문자열 자료형과 기초 사용법
+- [methods](./String-Methods.md)
+- [formatting](./String-Formatting.md)
 ## 특징
 - `String` : 문자열 자료형
 - 0~다수의 문자들로 구성
