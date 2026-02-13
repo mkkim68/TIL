@@ -209,3 +209,27 @@
             }
         }
 ```
+### while
+```java
+		int i = 0;
+
+        //  💡 while 문의 괄호에는 종료조건만
+        while (i < 10) {
+            // 종료조건 충족을 위한 값 변화는 외적으로 
+            System.out.println(i++);
+				}
+```
+#### do/while
+- `do` 일단 수행하고 조건을 봄
+```java
+		int enemies = 0;
+
+        System.out.println("일단 사격");
+
+        do {
+            System.out.println("탕");
+            if (enemies > 0) enemies--;
+        } while (enemies > 0);
+
+        System.out.println("사격중지 아군이다");
+```

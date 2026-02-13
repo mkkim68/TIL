@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/syntax/Control-Statement.md",
+                "file": "Java/syntax/Keyboard-Input.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Control-Statement"
+              "title": "Keyboard-Input"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "9793620fa80d6889",
   "lastOpenFiles": [
-    "Java/syntax/Bitwise-Operator.md",
+    "Java/syntax/Method.md",
+    "Java/syntax/Keyboard-Input.md",
     "Java/syntax/Control-Statement.md",
+    "Java/syntax/Bitwise-Operator.md",
     "Java/theory/Inference.md",
     "Java/theory/Data-Type.md",
     "Java/syntax/String-Formatting.md",
@@ -197,8 +199,6 @@
     "Typescript/theory/keyof+Generic.md",
     "Typescript/syntax/keyof.md",
     "Typescript/syntax/Infer.md",
-    "Typescript/theory/Implements-vs-Extends.md",
-    "Typescript/theory/Generics.md",
     "Typescript/theory",
     "Typescript/syntax",
     "React/syntax",
