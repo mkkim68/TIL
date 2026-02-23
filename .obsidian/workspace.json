@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/syntax/Keyboard-Input.md",
+                "file": "Java/syntax/Class-Field-Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keyboard-Input"
+              "title": "Class-Field-Method"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 213.5,
+    "collapsed": true
   },
   "right": {
     "id": "d7d5ab43ddf04144",
@@ -172,8 +173,10 @@
   },
   "active": "9793620fa80d6889",
   "lastOpenFiles": [
-    "Java/syntax/Method.md",
+    "Java/syntax/Class-Basic.md",
+    "Java/syntax/Class-Field-Method.md",
     "Java/syntax/Keyboard-Input.md",
+    "Java/syntax/Method.md",
     "Java/syntax/Control-Statement.md",
     "Java/syntax/Bitwise-Operator.md",
     "Java/theory/Inference.md",
@@ -197,8 +200,6 @@
     "React/theory/무제",
     "Typescript/Lookup-Types.md",
     "Typescript/theory/keyof+Generic.md",
-    "Typescript/syntax/keyof.md",
-    "Typescript/syntax/Infer.md",
     "Typescript/theory",
     "Typescript/syntax",
     "React/syntax",
