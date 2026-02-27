@@ -82,13 +82,13 @@
 >>>>>>> cd5b963ac148556918d6cc7e3225c7638671b796
 📌[https://ko.legacy.reactjs.org/docs/getting-started.html](https://ko.legacy.reactjs.org/docs/getting-started.html)
 ### ◼ BASIC
-- [THE BASICS OF REACT (2024-03-14)](./React/BASIC02.md)
-- [STATE (2024-03-25)](./React/BASIC03_STATE.md)
-- [PROPS (2024-04-08)](./React/BASIC04_PROPS.md)
+- [THE BASICS OF REACT (2024-03-14)](BASIC02.md)
+- [STATE (2024-03-25)](BASIC03_STATE.md)
+- [PROPS (2024-04-08)](BASIC04_PROPS.md)
 <<<<<<< HEAD
 =======
-- [create-CREATE REACT APP (2024-04-15)](./React/BASIC05_CREATE_REACT_APP.md)
-- [EFFECTS (2024-04-25)](./React/BASIC06_EFFECTS.md)
+- [create-CREATE REACT APP (2024-04-15)](BASIC05_CREATE_REACT_APP.md)
+- [EFFECTS (2024-04-25)](BASIC06_EFFECTS.md)
 ## ✔ DB
 - [DB 01 - SQL 01 (2024-04-02)](./DB/240402_SQL01.md)
 - [DB 02 - SQL 02 (2024-04-02)](./DB/240402_SQL02.md)

@@ -625,7 +625,7 @@ function App() {
 	- 갖고 있는 query
 	- cache에 저장된 데이터도 볼 수 있음
 	- refetch, 쿼리 reset 등 가능
-![img](../img/240711_1.png)
+![img](240711_1.png)
 - Coin.tsx 에 쓸 함수 정의
 ```tsx
 const BASE_URL = `https://api.coinpaprika.com/v1`;
