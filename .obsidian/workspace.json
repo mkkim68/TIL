@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 239.5
   },
   "right": {
     "id": "d7d5ab43ddf04144",
@@ -201,10 +201,12 @@
   },
   "active": "516adfa30685ac9a",
   "lastOpenFiles": [
-    "img/260226_1.png",
-    "img/스크린샷 2026-02-26 오후 6.09.28.png",
+    "React-TDD/TDD.md",
+    "React-TDD/Query-Function.md",
     "React-TDD/React-Testing-Library.md",
     "React-TDD/Jest.md",
+    "img/260226_1.png",
+    "img/스크린샷 2026-02-26 오후 6.09.28.png",
     "React-TDD/Why-Test.md",
     "React/nomad-coders/BASIC02.md",
     "React-TDD",
@@ -230,7 +232,6 @@
     "Java/syntax/Boolean.md",
     "Java/syntax/Character.md",
     "Java/syntax/command.md",
-    "Java/syntax/comment.md",
     "React/theory/무제",
     "Typescript/theory",
     "Typescript/syntax",
@@ -245,7 +246,6 @@
     "img/스크린샷 2025-12-29 오전 11.52.29.png",
     "img/251229_3.png",
     "img/251229_4.png",
-    "img/스크린샷 2025-12-29 오전 11.50.04.png",
-    "img/스크린샷 2025-12-29 오전 11.49.46.png"
+    "img/스크린샷 2025-12-29 오전 11.50.04.png"
   ]
 }
