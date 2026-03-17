@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React-TDD/React-Testing-Library.md",
+                "file": "React-TDD/Query-Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React-Testing-Library"
+              "title": "Query-Function"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "minimum",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,11 +201,20 @@
   },
   "active": "516adfa30685ac9a",
   "lastOpenFiles": [
+    "React-TDD/Jest.md",
+    "React-TDD/TDD.md",
+    "Java/theory/Class-Final.md",
+    "Java/theory/Polymorphism.md",
+    "Java/theory/Inheritance.md",
+    "Java/theory/Access-Modifier.md",
+    "React/nomad-coders/BASIC04_PROPS.md",
+    "React-TDD/ESLint&Prettier.md",
+    "React-TDD/UserEvent.md",
+    "React-TDD/Query-Priority.md",
+    "JavaScript/theory/DOM.md",
+    "React-TDD/React-Testing-Library.md",
     "React-TDD/Query-Function.md",
     "React-TDD/Why-Test.md",
-    "React-TDD/React-Testing-Library.md",
-    "React-TDD/TDD.md",
-    "React-TDD/Jest.md",
     "img/260226_1.png",
     "img/스크린샷 2026-02-26 오후 6.09.28.png",
     "React/nomad-coders/BASIC02.md",
@@ -213,7 +222,6 @@
     "React/무제",
     "React/nomad-coders/BASIC07_Practice_Movie_APP.md",
     "React/nomad-coders/BASIC05_CREATE_REACT_APP.md",
-    "React/nomad-coders/BASIC04_PROPS.md",
     "React/nomad-coders",
     "React/nomad-coders/BASIC03_STATE.md",
     "React/nomad-coders/MASTER01_styled_components.md",
@@ -224,14 +232,6 @@
     "Java/syntax/Control-Statement.md",
     "Java/syntax/Bitwise-Operator.md",
     "Java/theory/Inference.md",
-    "Java/theory/Data-Type.md",
-    "Java/syntax/String-Formatting.md",
-    "Java/syntax/Array.md",
-    "Java/syntax/String.md",
-    "Java/syntax/String-Methods.md",
-    "Java/syntax/Boolean.md",
-    "Java/syntax/Character.md",
-    "Java/syntax/command.md",
     "React/theory/무제",
     "Typescript/theory",
     "Typescript/syntax",
