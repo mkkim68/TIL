@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/theory/Block-And-Scope.md",
+                "file": "Java/theory/Main-Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Block-And-Scope"
+              "title": "Main-Method"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "조합",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 241.5
   },
   "right": {
     "id": "d7d5ab43ddf04144",
@@ -201,8 +201,14 @@
   },
   "active": "516adfa30685ac9a",
   "lastOpenFiles": [
-    "Java/theory/Singleton.md",
+    "Java/theory/Inner-Class.md",
+    "Java/theory/Main-Method.md",
+    "Java/theory/Anonymous-Class.md",
+    "Java/theory/Package.md",
+    "daily/2024-02-24.md",
+    "daily/2024-02-22.md",
     "Java/theory/Block-And-Scope.md",
+    "Java/theory/Singleton.md",
     "Java/theory/Interface.md",
     "Java/theory/Abstract-Class.md",
     "Java/theory/Polymorphism.md",
@@ -225,13 +231,7 @@
     "React-TDD",
     "React/무제",
     "React/nomad-coders/BASIC07_Practice_Movie_APP.md",
-    "React/nomad-coders/BASIC05_CREATE_REACT_APP.md",
     "React/nomad-coders",
-    "React/nomad-coders/BASIC03_STATE.md",
-    "React/nomad-coders/MASTER01_styled_components.md",
-    "Java/syntax/Class-Field-Method.md",
-    "Java/syntax/Class-Basic.md",
-    "Java/syntax/Keyboard-Input.md",
     "React/theory/무제",
     "Typescript/theory",
     "Typescript/syntax",
