@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Basic/Singleton-Container.md",
+                "file": "Spring/Basic/Automatic-Dependency-Injection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Singleton-Container"
+              "title": "Automatic-Dependency-Injection"
             }
           }
         ]
@@ -172,21 +172,22 @@
   },
   "active": "6ca627648fc32542",
   "lastOpenFiles": [
-    "img/260413_10.png",
-    "img/스크린샷 2026-04-13 오후 6.15.14.png",
-    "Spring/Basic/BeanDefinition.md",
+    "Spring/Basic/Component-Scan.md",
+    "Spring/Basic/Automatic-Dependency-Injection.md",
+    "img/260414_5.png",
+    "img/스크린샷 2026-04-14 오후 6.26.55.png",
+    "img/260414_4.png",
+    "img/스크린샷 2026-04-14 오후 6.25.02.png",
     "Spring/Basic/Singleton-Container.md",
-    "img/260413_9.png",
-    "img/스크린샷 2026-04-13 오후 6.03.02.png",
-    "img/260413_8.png",
-    "img/스크린샷 2026-04-13 오후 6.01.45.png",
-    "Spring/Basic/BeanFactory.md",
-    "img/260413_7.png",
-    "img/스크린샷 2026-04-13 오후 5.49.23.png",
-    "img/260413_6.png",
-    "img/스크린샷 2026-04-13 오후 5.46.05.png",
-    "img/260413_5.png",
+    "img/260414_3.png",
+    "img/스크린샷 2026-04-14 오후 5.57.46.png",
+    "img/260414_2.png",
+    "img/스크린샷 2026-04-14 오후 5.56.05.png",
+    "img/260414_1.png",
+    "img/스크린샷 2026-04-14 오후 5.26.52.png",
     "Spring/Basic/Spring-Container.md",
+    "Spring/Basic/BeanDefinition.md",
+    "Spring/Basic/BeanFactory.md",
     "Spring/Basic/IoC&DI.md",
     "Java/theory/Class-Final.md",
     "Spring/Basic",
@@ -209,7 +210,6 @@
     "daily/2024-02-24.md",
     "daily/2024-02-22.md",
     "Java/theory/Block-And-Scope.md",
-    "Java/theory/Singleton.md",
     "React-TDD",
     "React/무제",
     "React/nomad-coders",
