@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Basic/Web-Scope.md",
+                "file": "Spring/MVC/Servlet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Web-Scope"
+              "title": "Servlet"
             }
           }
         ]
@@ -172,20 +172,27 @@
   },
   "active": "6ca627648fc32542",
   "lastOpenFiles": [
-    "img/260416_10.png",
-    "img/스크린샷 2026-04-16 오후 5.16.23.png",
+    "img/260418_30.png",
+    "img/260418_29.png",
+    "img/스크린샷 2026-04-18 오후 7.37.18.png",
+    "img/스크린샷 2026-04-18 오후 7.37.08.png",
+    "img/260418_28.png",
+    "img/스크린샷 2026-04-18 오후 7.34.46.png",
+    "Spring/Web/Servlet.md",
+    "Spring/MVC/Servlet.md",
+    "Spring/MVC",
+    "Spring/Web/HTML&HTTP-API&CSR&SSR.md",
+    "img/260418_27.png",
+    "img/260418_26.png",
+    "img/스크린샷 2026-04-18 오후 4.45.41.png",
+    "img/스크린샷 2026-04-18 오후 4.45.29.png",
+    "img/260418_25.png",
+    "Spring/Web/Multithread.md",
+    "Spring/Web/Web-Server&WAS.md",
+    "Spring/Basic/Web-Scope.md",
+    "Spring/Web",
     "Spring/Basic/Bean-Scope.md",
     "Spring/Basic/BeanDefinition.md",
-    "Spring/Basic/Web-Scope.md",
-    "img/260416_9.png",
-    "img/스크린샷 2026-04-16 오후 4.24.16.png",
-    "img/260416_8.png",
-    "img/260416_7.png",
-    "img/260416_6.png",
-    "img/스크린샷 2026-04-16 오후 3.15.31.png",
-    "img/스크린샷 2026-04-16 오후 3.15.05.png",
-    "img/스크린샷 2026-04-16 오후 3.14.57.png",
-    "img/260416_5.png",
     "Spring/Basic/Bean-Lifecycle-Callback.md",
     "Spring/Basic/Automatic-Dependency-Injection.md",
     "Spring/Basic/Component-Scan.md",
@@ -205,18 +212,11 @@
     "Java/syntax/Library-Classes.md",
     "Java/theory/Record.md",
     "Java/theory/enum.md",
-    "React/nomad-coders/BASIC02.md",
-    "React/nomad-coders/BASIC04_PROPS.md",
-    "Java/theory/Main-Method.md",
-    "Java/theory/Inner-Class.md",
-    "Java/theory/Anonymous-Class.md",
     "React-TDD",
     "React/무제",
     "React/nomad-coders",
     "React/theory/무제",
     "Typescript/theory",
-    "Typescript/syntax",
-    "React/syntax",
-    "Java/syntax"
+    "Typescript/syntax"
   ]
 }
