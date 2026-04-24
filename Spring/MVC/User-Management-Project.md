@@ -412,3 +412,213 @@ implementation 'org.glassfish.web:jakarta.servlet.jsp.jstl'
 ![](../../img/260422_2.png)
 - MVC 패턴2
 ![](../../img/260422_3.png)
+## MVC 패턴 - 적용
+- 서블릿을 컨트롤러로 사용하고, JSP를 뷰로 사용해서 MVC 패턴을 적용해보자.
+- Model은 HttpServletRequest 객체를 사용한다. request는 내부에 데이터 저장소를 가지고 있는데, `request.setAttribute()`, `request.getAttribute()`를 사용하면 데이터를 보관하고, 조회 가능
+### 회원 등록
+#### 회원 등록 폼 - 컨트롤러
+```java
+package hello.servlet.web.servletmvc;  
+  
+import jakarta.servlet.RequestDispatcher;  
+import jakarta.servlet.ServletException;  
+import jakarta.servlet.annotation.WebServlet;  
+import jakarta.servlet.http.HttpServlet;  
+import jakarta.servlet.http.HttpServletRequest;  
+import jakarta.servlet.http.HttpServletResponse;  
+  
+import java.io.IOException;  
+  
+@WebServlet(name = "mvcMemberFormServlet", urlPatterns = "/servlet-mvc/members/new-form")  
+public class MvcMemberFormServlet extends HttpServlet {  
+  
+    @Override  
+    protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {  
+        String viewPath = "/WEB-INF/views/new-form.jsp";  
+        RequestDispatcher dispatcher = request.getRequestDispatcher(viewPath);  
+        dispatcher.forward(request, response);  
+    }  
+}
+```
+- `dispatcher.forward()`: 다른 서블릿이나 JSP로 이동할 수 있는 기능. 서버 내부에서 다시 호출 발생
+> `/WEB-INF`
+> 이 경로안에 JSP가 있으면 외부에서 직접 JSP를 호출 불가능. 우리가 기대하는 것은 항상 컨트롤러를 통해서 JSP 호출하는 것
+
+> *redirect vs forward*
+> 리다이렉트는 실제 클라이언트(웹 브라우저)에 응답이 나갔다가, 클라이언트가 redirect 경로로 다시 요청한다. 따라서 클라이언트가 인지할 수 있고, URL 경로도 실제로 변경됨. 반면에 포워드는 서버 내부에서 일어나는 호출이기 때문에 클라이언트가 전혀 인지하지 못함
+#### 회원 등록 폼 - 뷰
+```jsp
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>  
+<html>  
+<head>  
+    <title>Title</title>  
+</head>  
+<body>  
+<!-- 상대경로 사용, [현재 URL이 속한 계층 경로 + /save] --><form action="save" method="post">  
+    username: <input type="text" name="username" />  
+    age: <input type="text" name="age" />  
+    <button type="submit">전송</button>  
+</form>  
+  
+</body>  
+</html>
+```
+- form의 action을 보면 절대 경로(`/`로 시작)가 아니라 상대경로인 것을 확인할 수 있다. 이렇게 상대경로를 사용하면 폼 전송 시 현재 URL이 속한 계층 경로 + save가 호출됨
+	- 현재 계층 경로: `/servlet-mvc/members/`
+	- 결과: `/servlet-mvc/members/save`
+### 회원 저장
+#### 회원 저장 - 컨트롤러
+```java
+package hello.servlet.web.servletmvc;  
+  
+import hello.servlet.domain.member.Member;  
+import hello.servlet.domain.member.MemberRepository;  
+import jakarta.servlet.RequestDispatcher;  
+import jakarta.servlet.ServletException;  
+import jakarta.servlet.annotation.WebServlet;  
+import jakarta.servlet.http.HttpServlet;  
+import jakarta.servlet.http.HttpServletRequest;  
+import jakarta.servlet.http.HttpServletResponse;  
+  
+import java.io.IOException;  
+  
+@WebServlet(name = "mvcMemberSaveServlet", urlPatterns = "/servlet-mvc/members/save")  
+public class MvcMemberSaveServlet extends HttpServlet {  
+    private MemberRepository memberRepository = MemberRepository.getInstance();  
+  
+    @Override  
+    protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {  
+          
+        String username = request.getParameter("username");  
+        int age = Integer.parseInt(request.getParameter("age"));  
+  
+        Member member = new Member(username, age);  
+        memberRepository.save(member);  
+          
+        // Model에 데이터를 보관한다.  
+        request.setAttribute("member", member);  
+  
+        String viewPath = "/WEB-INF/views/save-result.jsp";  
+        RequestDispatcher dispatcher = request.getRequestDispatcher(viewPath);  
+        dispatcher.forward(request, response);  
+  
+    }  
+}
+```
+- HttpServletRequest를 Model로 사용한다.
+- request가 제공하는 `setAttribute()`를 사용하면 request 객체에 데이터를 보관해서 뷰에 전달 가능
+- 뷰는 `request.getAttribute()`를 사용해서 데이터를 꺼내면 된다.
+#### 회원 저장 - 뷰
+```jsp
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>  
+<html>  
+<head>  
+    <title>Title</title>  
+</head>  
+<body>  
+성공  
+<ul>  
+  <li>id=${member.id}</li>  
+  <li>username=${member.username}</li>  
+  <li>age=${member.age}</li>  
+</ul>  
+<a href="/index.html">메인</a>  
+</body>  
+</html>
+```
+- `<%= request.getAttribute("member") %>`로 모델에 저장한 member 객체를 꺼낼 수 있지만, 너무 복잡해진다.
+- JSP는 `${}` 문법을 제공하는데, 이 문법을 사용하면 request의 attribute에 담긴 데이터를 편리하게 조회 가능
+### 회원 목록 조회
+#### 회원 목록 조회 - 컨트롤러
+```java
+package hello.servlet.web.servletmvc;  
+  
+import hello.servlet.domain.member.Member;  
+import hello.servlet.domain.member.MemberRepository;  
+import jakarta.servlet.RequestDispatcher;  
+import jakarta.servlet.ServletException;  
+import jakarta.servlet.annotation.WebServlet;  
+import jakarta.servlet.http.HttpServlet;  
+import jakarta.servlet.http.HttpServletRequest;  
+import jakarta.servlet.http.HttpServletResponse;  
+  
+import java.io.IOException;  
+import java.util.List;  
+  
+@WebServlet(name = "mvcMemberListServlet", urlPatterns = "/servlet-mvc/members")  
+public class MvcMemberListServlet extends HttpServlet {  
+  
+    private MemberRepository memberRepository = MemberRepository.getInstance();  
+  
+    @Override  
+    protected void service(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {  
+  
+        List<Member> members = memberRepository.findAll();  
+  
+        request.setAttribute("members", members);  
+  
+        String viewPath = "/WEB-INF/views/members.jsp";  
+        RequestDispatcher dispatcher = request.getRequestDispatcher(viewPath);  
+        dispatcher.forward(request, response);  
+    }  
+}
+```
+#### 회원 목록 조회 - 뷰
+```jsp
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>  
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>  
+<html>  
+<head>  
+    <title>Title</title>  
+</head>  
+<body>  
+<a href="/index.html">메인</a>  
+<table>  
+  <thead>  <th>id</th>  
+  <th>username</th>  
+  <th>age</th>  
+  </thead>  <tbody>  <c:forEach var="item" items="${members}">  
+    <tr>  
+      <td>${item.id}</td>  
+      <td>${item.username}</td>  
+      <td>${item.age}</td>  
+    </tr>  </c:forEach>  
+  </tbody>  
+</table>  
+</body>  
+</html>
+```
+- `members` 리스트에서 `member`를 순서대로 꺼내서 `item` 변수에 담고 출력하는 과정 반복
+- `<c:forEach>` 기능을 사용하려면 선언 필요
+	- `<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>`
+## MVC 패턴 - 한계
+- MVC 패턴을 적용한 덕분에 컨트롤러의 역할과 뷰를 렌더링하는 역할을 명확하게 구분 가능
+- 특히 뷰는 화면을 그리는 역할에 충실한 덕분에 코드가 깔끔하고 직관적임. 단순하게 모델에서 필요한 데이터를 꺼내고 화면을 만들면 됨
+- 그런데 컨트롤러는 딱 봐도 중복이 많고 필요하지 않은 코드들도 많이 보임
+### 단점
+#### 포워드 중복
+- 뷰로 이동하는 코드가 항상 중복 호출되어야 함. 물론 이 부분을 메서드로 공통화해도 되지만, 해당 메서드도 항상 직접 호출해야 함
+```java
+RequestDispatcher dispatcher = request.getRequestDispatcher(viewPath);
+dispatcher.forward(request, response);
+```
+#### ViewPath에 중복
+```java
+String viewPath = "/WEB-INF/views/new-form.jsp";
+```
+- prefix: `/WEB-INF/views/`
+- suffix: `.jsp`
+- 그리고 만약 jsp가 아닌 thymeleaf 같은 다른 뷰로 변경한다면 전체 코드를 다 변경해야 함
+#### 사용하지 않는 코드
+- 다음 코드를 사용할 때도 있고 사용하지 않을 때도 있음. 특히 response는 현재 코드에서 사용 X
+```java
+HttpServletRequest request, HttpServletResponse response
+```
+- 그리고 이런 `HttpServletRequest`, `HttpServletResponse`를 사용하는 코드는 테스트 케이스를 작성하기도 어려움
+#### 공통 처리가 어렵다.
+- 기능이 복잡해질수록 컨트롤러에서 공통으로 처리해야 하는 부분이 점점 더 많이 증가할 것.
+- 단순히 공통 기능을 메서드로 뽑으면 될 것 같지만, 결과적으로 메서드를 항상 호출해야 하고 실수로 호출하지 않으면 문제가 될 것. 
+- 호출하는 것 자체도 중복임
+#### 정리하면 공통 처리가 어렵다는 문제 존재
+- 이 문제를 해결하려면 컨트롤러 호출 전에 먼저 공통 기능을 처리해야 함. 소위 *수문장 역할*을 하는 기능 필요
+- *프론트 컨트롤러(Front Controller) 패턴*을 도입하면 이런 문제를 깔끔하게 해결 가능(입구를 하나로)

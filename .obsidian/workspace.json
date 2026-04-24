@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/MVC/User-Management-Project.md",
+                "file": "Spring/MVC/MVC-Framework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "User-Management-Project"
+              "title": "MVC-Framework"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
     "id": "d7d5ab43ddf04144",
@@ -172,19 +173,20 @@
   },
   "active": "6ca627648fc32542",
   "lastOpenFiles": [
-    "img/260422_3.png",
-    "img/260422_2.png",
-    "img/260422_1.png",
-    "img/스크린샷 2026-04-22 오후 6.33.44.png",
-    "img/스크린샷 2026-04-22 오후 6.33.36.png",
-    "img/스크린샷 2026-04-22 오후 6.33.28.png",
-    "Spring/MVC/Servlet.md",
+    "img/260424_5.png",
+    "img/스크린샷 2026-04-24 오후 4.45.45.png",
+    "img/260424_4.png",
+    "img/스크린샷 2026-04-24 오후 4.27.07.png",
+    "img/260424_3.png",
+    "img/스크린샷 2026-04-24 오후 4.03.45.png",
+    "img/260424_2.png",
+    "img/260424_1.png",
+    "img/스크린샷 2026-04-24 오후 3.49.41.png",
+    "img/스크린샷 2026-04-24 오후 3.49.31.png",
     "Spring/MVC/User-Management-Project.md",
-    "img/260418_30.png",
-    "img/260418_29.png",
-    "img/스크린샷 2026-04-18 오후 7.37.18.png",
-    "img/스크린샷 2026-04-18 오후 7.37.08.png",
-    "img/260418_28.png",
+    "Spring/MVC/MVC-Framework.md",
+    "img/260422_3.png",
+    "Spring/MVC/Servlet.md",
     "Spring/Web/Servlet.md",
     "Spring/MVC",
     "Spring/Web/HTML&HTTP-API&CSR&SSR.md",
@@ -211,7 +213,6 @@
     "Java/syntax/Object.md",
     "Java/syntax/Date&Time-Classes.md",
     "Java/syntax/Library-Classes.md",
-    "Java/theory/Record.md",
     "React-TDD",
     "React/무제",
     "React/nomad-coders",
