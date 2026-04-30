@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/MVC/MVC-Structure.md",
+                "file": "Spring/MVC/Basic-Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MVC-Structure"
+              "title": "Basic-Functions"
             }
           }
         ]
@@ -173,10 +173,11 @@
   },
   "active": "6ca627648fc32542",
   "lastOpenFiles": [
+    "Spring/MVC/MVC-Structure.md",
+    "Spring/MVC/Basic-Functions.md",
     "img/260428_1.png",
     "img/스크린샷 2026-04-28 오후 3.02.35.png",
     "Spring/MVC/MVC-Framework.md",
-    "Spring/MVC/MVC-Structure.md",
     "img/스크린샷 2026-04-28 오후 2.31.20.png",
     "img/260425_2.png",
     "img/스크린샷 2026-04-25 오후 3.29.53.png",
@@ -185,7 +186,6 @@
     "img/260424_5.png",
     "img/스크린샷 2026-04-24 오후 4.45.45.png",
     "img/260424_4.png",
-    "img/스크린샷 2026-04-24 오후 4.27.07.png",
     "Spring/MVC/User-Management-Project.md",
     "Spring/MVC/Servlet.md",
     "Spring/Web/Servlet.md",
